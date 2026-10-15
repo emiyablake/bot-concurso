@@ -1,0 +1,46 @@
+name: bot-concurso
+
+on:
+  schedule:
+    # 11:00 UTC = 08:00 horário de Brasília (BRT, UTC-3, sem horário de verão)
+    - cron: "0 11 * * *"
+  workflow_dispatch: {}
+
+permissions:
+  contents: write # para commitar o estado.json
+
+jobs:
+  rodar:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+          cache: pip
+
+      - name: Instalar dependências
+        run: pip install -r requirements.txt
+
+      - name: Rodar testes
+        run: python -m pytest -q
+
+      - name: Executar o bot
+        env:
+          SMTP_HOST: ${{ secrets.SMTP_HOST }}
+          SMTP_PORT: ${{ secrets.SMTP_PORT }}
+          SMTP_USER: ${{ secrets.SMTP_USER }}
+          SMTP_PASS: ${{ secrets.SMTP_PASS }}
+          EMAIL_DE: ${{ secrets.EMAIL_DE }}
+          EMAIL_PARA: ${{ secrets.EMAIL_PARA }}
+          KEYWORDS_TI: ${{ vars.KEYWORDS_TI }}
+        run: python scripts/run_local.py
+
+      - name: Commitar estado atualizado
+        run: |
+          git config user.name "bot-concurso"
+          git config user.email "bot@users.noreply.github.com"
+          git add data/estado.json
+          git diff --cached --quiet || git commit -m "chore: atualiza estado [skip ci]"
+          git push

@@ -1,0 +1,60 @@
+{
+  "itens": {
+    "7153394389c366fc": {
+      "cargos": [
+        "Controlador Interno",
+        "Técnico em Informática",
+        "Auxiliar de Serviços Gerais"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "7153394389c366fc",
+      "inscricao_ate": "2026-10-27",
+      "inscricao_texto": "27/10/2026",
+      "orgao": "Câmara de São João do Sabugi",
+      "salario_ate": "R$ 2.160,53",
+      "uf": "RIO GRANDE DO NORTE",
+      "url": "https://www.pciconcursos.com.br/noticias/camara-de-sao-joao-do-sabugi-rn-abre-concurso-publico-para-cargos-efetivos",
+      "vagas": "3 vagas",
+      "visto_em": "2026-10-15"
+    },
+    "b0e4b72df4f47ef6": {
+      "cargos": [
+        "Técnico em Informática",
+        "Engenheiro Eletricista",
+        "Técnico em Prótese e Órtese"
+      ],
+      "escolaridade": "Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "b0e4b72df4f47ef6",
+      "inscricao_ate": "2026-10-16",
+      "inscricao_texto": "16/10/2026",
+      "orgao": "SES - Secretaria de Estado da Saúde de Santa Catarina",
+      "salario_ate": "R$ 5.670,38",
+      "uf": "SANTA CATARINA",
+      "url": "https://www.pciconcursos.com.br/noticias/ses-sc-abre-processo-seletivo-com-salarios-de-ate-5670",
+      "vagas": "5 vagas",
+      "visto_em": "2026-10-15"
+    },
+    "f05099deac723dda": {
+      "cargos": [
+        "Técnico Administrativo",
+        "Técnico em Informática",
+        "Técnico em Segurança do Trabalho"
+      ],
+      "escolaridade": "Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "f05099deac723dda",
+      "inscricao_ate": "2026-10-27",
+      "inscricao_texto": "27/10/2026",
+      "orgao": "UEM - Universidade Estadual de Maringá",
+      "salario_ate": "R$ 7.997,72",
+      "uf": "PARANÁ",
+      "url": "https://www.pciconcursos.com.br/noticias/uem-pr-abre-selecao-para-cargos-tecnicos-e-medicos-com-salarios-de-ate-7997",
+      "vagas": "9 vagas",
+      "visto_em": "2026-10-15"
+    }
+  },
+  "total": 3,
+  "versao": 1
+}
