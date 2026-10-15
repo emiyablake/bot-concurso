@@ -13,6 +13,8 @@ GitHub Actions (diário, 08:00 BRT)
   → scrapers/ coletam concursos (hoje: PCI Concursos)
   → normalizer padroniza os campos
   → filter mantém só concursos de TI (keywords configuráveis)
+  → scraper abre a página de detalhe dos "Vários Cargos" (só as novas;
+    as já vistas usam o cache do estado.json)
   → storage compara com data/estado.json (versionado no repo)
   → se houver novos: report gera HTML + mailer envia por e-mail
   → estado.json é commitado de volta
@@ -61,7 +63,7 @@ curl -A "Mozilla/5.0" https://www.pciconcursos.com.br/concursos/ -o tests/fixtur
 | `EMAIL_DE` | `seu@gmail.com` (quando diferente do remetente) | não |
 | `SMTP_HOST` / `SMTP_PORT` | padrão `smtp.gmail.com:465` | não |
 
-3. (Opcional) Em **Variables**, defina `KEYWORDS_TI` (separadas por vírgula) para personalizar o filtro.
+3. (Opcional) Em **Variables**, defina `KEYWORDS_TI` (separadas por vírgula) para personalizar o filtro e `REQUEST_DELAY` (segundos entre requisições de detalhe, padrão `1.0`).
 4. Em **Actions → bot-concurso → Run workflow**, dispare uma execução manual de teste.
 
 ## Estrutura

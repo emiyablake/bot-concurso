@@ -34,10 +34,15 @@ def main() -> int:
     log.info("Coletando concursos...")
     scrapers = [PciScraper(user_agent=cfg.user_agent, delay=cfg.delay_entre_requests)]
     coletados = []
+    enriquecidos = []
     for s in scrapers:
         try:
             itens = s.coletar()
             log.info("Fonte %s: %d concursos", s.fonte, len(itens))
+            # busca os cargos reais das entradas "Vários Cargos" (so as novas;
+            # as ja vistas usam o cache do estado.json)
+            enriquecidos += s.enriquecer_varios_cargos(itens, estado.cargos_conhecidos)
+            log.info("Fonte %s: %d paginas de detalhe consultadas", s.fonte, len(enriquecidos))
             coletados.extend(itens)
         except Exception:
             log.exception("Falha ao coletar da fonte %s — continuando com as demais", s.fonte)
@@ -77,6 +82,10 @@ def main() -> int:
         log.warning("SMTP nao configurado — relatório NAO enviado (apenas impresso abaixo).")
         print(html)
 
+    # registra tambem os enriquecidos que NAO sao de TI: assim nao refazemos
+    # a requisicao de detalhe deles amanha (o id muda quando os cargos mudam,
+    # entao se um dia entrarem na area de TI, serao reportados normalmente)
+    estado.registrar([c for c in enriquecidos if c.id_unico not in estado._itens])
     estado.registrar(novos)
     estado.salvar()
     log.info("Estado atualizado (%d concursos acompanhados).", len(estado))

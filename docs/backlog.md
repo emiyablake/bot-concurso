@@ -23,7 +23,7 @@
 |---|---|---|---|
 | F1-1 | Implementar `botconcurso/scrapers/base.py`: classe `ScraperBase` com método `coletar() -> list[Concurso]` e dataclass `Concurso` com `id_unico` (hash de fonte+órgão+cargos+url) | P1 | Contrato importável e testável |
 | F1-2 | Implementar `botconcurso/scrapers/pci.py`: raspar listagem nacional + estados de `https://www.pciconcursos.com.br/concursos/` (com delay entre requests e User-Agent identificável) | P1 | Retorna lista de `Concurso` com órgão, vagas, salário, escolaridade, prazo e link |
-| F1-3 | Raspar **página de detalhe** dos concursos com "Vários Cargos" no PCI, para listar cargos reais | P2 | Concursos genéricos passam a ter `cargos` preenchidos |
+| F1-3 | Raspar **página de detalhe** dos concursos com "Vários Cargos" no PCI, para listar cargos reais (com cache no `estado.json` — só consulta páginas novas) | P1 | Concursos genéricos passam a ter `cargos` preenchidos; SETEC Campinas "Analista Técnico (Informática)" é capturado |
 | F1-4 | Gravar fixture HTML do PCI em `tests/fixtures/` e teste que valida o parser contra ela | P1 | Teste passa; quebra se o PCI mudar o layout |
 
 ### Pipeline

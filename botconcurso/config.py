@@ -16,6 +16,8 @@ KEYWORDS_TI_PADRAO = [
     "analista de tecnologia",
     "engenheiro de software",
     "programador",
+    "informática",
+    "tecnologia da informação",
     "técnico de informática",
     "técnico em informática",
     "técnico de tecnologia da informação",
@@ -75,6 +77,7 @@ class Config:
         if kw:
             cfg.keywords_ti = [k.strip() for k in kw.split(",") if k.strip()]
         cfg.email_teste = cls._env("EMAIL_TESTE").lower() not in ("", "0", "false")
+        cfg.delay_entre_requests = float(cls._env("REQUEST_DELAY", str(cfg.delay_entre_requests)))
         return cfg
 
     @property

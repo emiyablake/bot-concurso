@@ -25,6 +25,16 @@ class Estado:
     def novos(self, concursos: list[Concurso]) -> list[Concurso]:
         return [c for c in concursos if c.id_unico not in self._itens]
 
+    def cargos_conhecidos(self, url: str) -> list[str] | None:
+        """Cargos ja enriquecidos numa execucao anterior para essa URL
+        (evita refazer a requisicao de detalhe a cada execucao)."""
+        for item in self._itens.values():
+            if item.get("url") == url:
+                cargos = item.get("cargos") or []
+                if cargos and cargos != ["Vários Cargos"]:
+                    return list(cargos)
+        return None
+
     def registrar(self, concursos: list[Concurso]) -> None:
         hoje = date.today().isoformat()
         for c in concursos:

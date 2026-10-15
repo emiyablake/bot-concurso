@@ -41,6 +41,7 @@ jobs:
           EMAIL_PARA: ${{ secrets.EMAIL_PARA }}
           KEYWORDS_TI: ${{ vars.KEYWORDS_TI }}
           EMAIL_TESTE: ${{ inputs.enviar_teste }}
+          REQUEST_DELAY: ${{ vars.REQUEST_DELAY }}
         run: python scripts/run_local.py
 
       - name: Commitar estado atualizado
