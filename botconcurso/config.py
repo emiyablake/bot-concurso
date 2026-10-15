@@ -51,18 +51,25 @@ class Config:
     # filtro de area; sobrescrever com KEYWORDS_TI separadas por virgula
     keywords_ti: list[str] = field(default_factory=lambda: list(KEYWORDS_TI_PADRAO))
 
+    @staticmethod
+    def _env(nome: str, padrao: str = "") -> str:
+        # variavel definida mas vazia (ex.: secret nao criado no Actions)
+        # deve cair no padrao, nao sobrescreve-lo
+        valor = os.environ.get(nome, "")
+        return valor.strip() if valor.strip() else padrao
+
     @classmethod
     def do_ambiente(cls) -> "Config":
         cfg = cls()
-        cfg.smtp_user = os.environ.get("SMTP_USER", "")
-        cfg.smtp_pass = os.environ.get("SMTP_PASS", "")
-        cfg.email_de = os.environ.get("EMAIL_DE", cfg.smtp_user)
-        cfg.email_para = os.environ.get("EMAIL_PARA", "")
-        cfg.smtp_host = os.environ.get("SMTP_HOST", cfg.smtp_host)
-        cfg.smtp_port = int(os.environ.get("SMTP_PORT", str(cfg.smtp_port)))
-        if os.environ.get("ESTADO_PATH"):
-            cfg.estado_path = Path(os.environ["ESTADO_PATH"])
-        kw = os.environ.get("KEYWORDS_TI")
+        cfg.smtp_user = cls._env("SMTP_USER")
+        cfg.smtp_pass = cls._env("SMTP_PASS")
+        cfg.email_de = cls._env("EMAIL_DE", cfg.smtp_user)
+        cfg.email_para = cls._env("EMAIL_PARA")
+        cfg.smtp_host = cls._env("SMTP_HOST", cfg.smtp_host)
+        cfg.smtp_port = int(cls._env("SMTP_PORT", str(cfg.smtp_port)))
+        if cls._env("ESTADO_PATH"):
+            cfg.estado_path = Path(cls._env("ESTADO_PATH"))
+        kw = cls._env("KEYWORDS_TI")
         if kw:
             cfg.keywords_ti = [k.strip() for k in kw.split(",") if k.strip()]
         return cfg
