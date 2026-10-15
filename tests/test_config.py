@@ -38,3 +38,15 @@ def test_keywords_customizadas(monkeypatch):
     monkeypatch.setenv("KEYWORDS_TI", "desenvolvedor, engenheiro de software")
     cfg = Config.do_ambiente()
     assert cfg.keywords_ti == ["desenvolvedor", "engenheiro de software"]
+
+
+def test_email_teste_desligado_por_padrao(monkeypatch):
+    for var in ["EMAIL_TESTE"]:
+        monkeypatch.delenv(var, raising=False)
+    assert Config.do_ambiente().email_teste is False
+
+
+def test_email_teste_valores(monkeypatch):
+    for valor, esperado in [("1", True), ("true", True), ("0", False), ("false", False), ("", False)]:
+        monkeypatch.setenv("EMAIL_TESTE", valor)
+        assert Config.do_ambiente().email_teste is esperado, valor

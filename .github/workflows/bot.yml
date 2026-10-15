@@ -4,7 +4,12 @@ on:
   schedule:
     # 11:00 UTC = 08:00 horário de Brasília (BRT, UTC-3, sem horário de verão)
     - cron: "0 11 * * *"
-  workflow_dispatch: {}
+  workflow_dispatch:
+    inputs:
+      enviar_teste:
+        description: "Enviar e-mail de teste (ignora novidades; não altera o estado)"
+        type: boolean
+        default: false
 
 permissions:
   contents: write # para commitar o estado.json
@@ -35,6 +40,7 @@ jobs:
           EMAIL_DE: ${{ secrets.EMAIL_DE }}
           EMAIL_PARA: ${{ secrets.EMAIL_PARA }}
           KEYWORDS_TI: ${{ vars.KEYWORDS_TI }}
+          EMAIL_TESTE: ${{ inputs.enviar_teste }}
         run: python scripts/run_local.py
 
       - name: Commitar estado atualizado

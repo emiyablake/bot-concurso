@@ -49,6 +49,19 @@ def main() -> int:
     ti = filtrar(normalizar_todos(coletados), cfg.keywords_ti)
     log.info("Na area de TI: %d", len(ti))
 
+    # modo teste: forca o envio com todos os concursos de TI atuais,
+    # sem alterar o estado (para validar SMTP no Actions)
+    if cfg.email_teste:
+        log.info("MODO TESTE: enviando e-mail com os %d concursos de TI atuais (estado nao alterado).", len(ti))
+        html = gerar_html(ti)
+        if cfg.email_configurado:
+            enviar(cfg, f"🧪 TESTE — BotConcurso ({len(ti)} concursos de TI acompanhados)", html)
+            log.info("E-mail de teste enviado.")
+        else:
+            log.warning("SMTP nao configurado — relatorio de teste apenas impresso abaixo.")
+            print(html)
+        return 0
+
     novos = estado.novos(ti)
     log.info("Novos desde a ultima execucao: %d", len(novos))
 

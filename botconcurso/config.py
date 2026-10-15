@@ -47,6 +47,8 @@ class Config:
     smtp_pass: str = ""
     email_de: str = ""
     email_para: str = ""
+    # EMAIL_TESTE=1 forca o envio de um e-mail de teste (nao altera o estado)
+    email_teste: bool = False
 
     # filtro de area; sobrescrever com KEYWORDS_TI separadas por virgula
     keywords_ti: list[str] = field(default_factory=lambda: list(KEYWORDS_TI_PADRAO))
@@ -72,6 +74,7 @@ class Config:
         kw = cls._env("KEYWORDS_TI")
         if kw:
             cfg.keywords_ti = [k.strip() for k in kw.split(",") if k.strip()]
+        cfg.email_teste = cls._env("EMAIL_TESTE").lower() not in ("", "0", "false")
         return cfg
 
     @property
