@@ -21,8 +21,8 @@
 
 | ID | Tarefa | Prioridade | Critérios de aceite |
 |---|---|---|---|
-| F1-1 | Implementar `botconcurso/scrapers/base.py`: classe `ScraperBase` com método `coletar() -> list[Concurso]` e dataclass `Concurso` com `id_unico` (hash de fonte+órgão+cargos+url) | P1 | Contrato importável e testável |
-| F1-2 | Implementar `botconcurso/scrapers/pci.py`: raspar listagem nacional + estados de `https://www.pciconcursos.com.br/concursos/` (com delay entre requests e User-Agent identificável) | P1 | Retorna lista de `Concurso` com órgão, vagas, salário, escolaridade, prazo e link |
+| F1-1 | Implementar `src/scrapers/base.py`: classe `ScraperBase` com método `coletar() -> list[Concurso]` e dataclass `Concurso` com `id_unico` (hash de fonte+órgão+cargos+url) | P1 | Contrato importável e testável |
+| F1-2 | Implementar `src/scrapers/pci.py`: raspar listagem nacional + estados de `https://www.pciconcursos.com.br/concursos/` (com delay entre requests e User-Agent identificável) | P1 | Retorna lista de `Concurso` com órgão, vagas, salário, escolaridade, prazo e link |
 | F1-3 | Raspar **página de detalhe** dos concursos com "Vários Cargos" no PCI, para listar cargos reais (com cache no `estado.json` — só consulta páginas novas) | P1 | Concursos genéricos passam a ter `cargos` preenchidos; SETEC Campinas "Analista Técnico (Informática)" é capturado |
 | F1-4 | Gravar fixture HTML do PCI em `tests/fixtures/` e teste que valida o parser contra ela | P1 | Teste passa; quebra se o PCI mudar o layout |
 
@@ -30,11 +30,11 @@
 
 | ID | Tarefa | Prioridade | Critérios de aceite |
 |---|---|---|---|
-| F1-5 | `botconcurso/normalizer.py`: padronizar campos (datas em ISO, salário como texto normalizado) | P1 | Unidade coberta por teste |
-| F1-6 | `botconcurso/filter.py`: filtrar por `KEYWORDS_TI` (lista em `config.py`, sobrescrevível por env var) | P1 | Teste com casos positivos/negativos (ex.: "Professor de Informática" vs "Analista de Sistemas") |
-| F1-7 | `botconcurso/storage.py`: ler/gravar `data/estado.json`; API `novos(registros) -> list[Concurso]` | P1 | Segunda execução com mesmos dados retorna lista vazia |
-| F1-8 | `botconcurso/report.py`: gerar relatório HTML (tabela: órgão, cargos, vagas, salário, prazo, link) | P1 | HTML válido, legível em cliente de e-mail |
-| F1-9 | `botconcurso/mailer.py`: envio via SMTP genérico (host/porta/usuário/senha por env var) — ver decisão de provedor em `docs/arquitetura.md` §10 | P1 | Envia e-mail real numa conta de teste |
+| F1-5 | `src/normalizer.py`: padronizar campos (datas em ISO, salário como texto normalizado) | P1 | Unidade coberta por teste |
+| F1-6 | `src/filter.py`: filtrar por `KEYWORDS_TI` (lista em `config.py`, sobrescrevível por env var) | P1 | Teste com casos positivos/negativos (ex.: "Professor de Informática" vs "Analista de Sistemas") |
+| F1-7 | `src/storage.py`: ler/gravar `data/estado.json`; API `novos(registros) -> list[Concurso]` | P1 | Segunda execução com mesmos dados retorna lista vazia |
+| F1-8 | `src/report.py`: gerar relatório HTML (tabela: órgão, cargos, vagas, salário, prazo, link) | P1 | HTML válido, legível em cliente de e-mail |
+| F1-9 | `src/mailer.py`: envio via SMTP genérico (host/porta/usuário/senha por env var) — ver decisão de provedor em `docs/arquitetura.md` §10 | P1 | Envia e-mail real numa conta de teste |
 | F1-10 | `scripts/run_local.py`: orquestra tudo (coletar → normalizar → filtrar → comparar → [se houver novos] reportar+e-mail → gravar estado) | P1 | Roda de ponta a ponta localmente |
 
 ### Infra
@@ -53,7 +53,7 @@
 | ID | Tarefa | Prioridade | Critérios de aceite |
 |---|---|---|---|
 | F2-1 | Spike: descobrir como obter os dados do site da FGV (endpoint AJAX do Drupal, JSON embutido, ou necessidade de Playwright) | P2 | Doc curto com opção escolhida e protótipo |
-| F2-2 | Implementar `botconcurso/scrapers/fgv.py` seguindo o contrato `ScraperBase` | P2 | Mesma saída normalizada do PCI |
+| F2-2 | Implementar `src/scrapers/fgv.py` seguindo o contrato `ScraperBase` | P2 | Mesma saída normalizada do PCI |
 | F2-3 | Deduplicação cruzada (mesmo concurso visto no PCI e na FGV aparece uma vez só) | P3 | Teste com par de registros duplicados |
 
 ---

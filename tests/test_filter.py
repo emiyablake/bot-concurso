@@ -1,5 +1,5 @@
-from botconcurso.filter import eh_da_area, filtrar
-from botconcurso.models import Concurso
+from src.filter import eh_da_area, filtrar
+from src.models import Concurso
 
 
 def _c(orgao, cargos):
@@ -16,6 +16,17 @@ def test_aceita_desenvolvedor_sem_acento():
 
 def test_aceita_tecnico_informatica():
     assert eh_da_area(_c("Prefeitura", ["Técnico em Informática"]))
+
+
+def test_aceita_analista_tecnico_informatica():
+    # formato do PCI: area entre parenteses
+    assert eh_da_area(_c("Prefeitura", ["Analista Técnico (Informática)"]))
+
+
+def test_rejeita_instrutor_de_informatica():
+    # 'instrutor/professor de informatica' nao e vaga de TI
+    assert not eh_da_area(_c("Escola Técnica", ["Instrutor de Informática"]))
+    assert not eh_da_area(_c("Prefeitura", ["Professor de Informática Habilitado"]))
 
 
 def test_rejeita_cargos_nao_ti():

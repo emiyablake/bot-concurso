@@ -2,7 +2,7 @@ from pathlib import Path
 
 import pytest
 
-from botconcurso.scrapers import PciScraper
+from src.scrapers import PciScraper
 
 FIXTURE = Path(__file__).parent / "fixtures" / "pci_concursos.html"
 

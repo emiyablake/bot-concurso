@@ -16,8 +16,8 @@ KEYWORDS_TI_PADRAO = [
     "analista de tecnologia",
     "engenheiro de software",
     "programador",
-    "informática",
     "tecnologia da informação",
+    "(informática)",  # formato do PCI p/ area entre parenteses: "Analista Técnico (Informática)"
     "técnico de informática",
     "técnico em informática",
     "técnico de tecnologia da informação",

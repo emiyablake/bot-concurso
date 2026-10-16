@@ -15,13 +15,13 @@ from pathlib import Path
 
 sys.path.insert(0, str(Path(__file__).resolve().parent.parent))
 
-from botconcurso.config import Config
-from botconcurso.filter import filtrar
-from botconcurso.mailer import enviar
-from botconcurso.normalizer import normalizar_todos
-from botconcurso.report import gerar_html
-from botconcurso.scrapers import PciScraper
-from botconcurso.storage import Estado
+from src.config import Config
+from src.filter import filtrar
+from src.mailer import enviar
+from src.normalizer import normalizar_todos
+from src.report import gerar_html
+from src.scrapers import PciScraper
+from src.storage import Estado
 
 logging.basicConfig(level=logging.INFO, format="%(asctime)s %(levelname)s %(message)s")
 log = logging.getLogger("botconcurso")

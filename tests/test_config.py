@@ -1,6 +1,6 @@
 import os
 
-from botconcurso.config import Config, KEYWORDS_TI_PADRAO
+from src.config import Config, KEYWORDS_TI_PADRAO
 
 
 def test_variavel_vazia_cai_no_padrao(monkeypatch):

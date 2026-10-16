@@ -61,7 +61,7 @@ botConcurso/
 ├── .github/
 │   └── workflows/
 │       └── bot.yml            # agendador diário (cron)
-├── botconcurso/
+├── src/
 │   ├── __init__.py
 │   ├── config.py              # lê variáveis de ambiente / secrets
 │   ├── scrapers/

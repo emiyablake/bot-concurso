@@ -1,5 +1,5 @@
-from botconcurso.models import Concurso
-from botconcurso.normalizer import data_para_iso, normalizar
+from src.models import Concurso
+from src.normalizer import data_para_iso, normalizar
 
 
 def test_data_simples():

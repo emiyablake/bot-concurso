@@ -1,5 +1,5 @@
-from botconcurso.models import Concurso
-from botconcurso.storage import Estado
+from src.models import Concurso
+from src.storage import Estado
 
 
 def _c(orgao, cargo="Analista de Sistemas"):

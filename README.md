@@ -69,7 +69,7 @@ curl -A "Mozilla/5.0" https://www.pciconcursos.com.br/concursos/ -o tests/fixtur
 ## Estrutura
 
 ```
-botconcurso/
+src/
 ├── config.py         # variáveis de ambiente + keywords padrão
 ├── models.py         # dataclass Concurso (contrato entre fontes)
 ├── scrapers/
