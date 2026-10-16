@@ -35,6 +35,57 @@
       "vagas": "57 vagas",
       "visto_em": "2026-10-15"
     },
+    "03d37cbb23e21b0c": {
+      "cargos": [
+        "Assistente Administrativo",
+        "Fiscal de Atividades Urbanas",
+        "Técnico em Segurança do Trabalho",
+        "Analista de TI",
+        "Arquiteto",
+        "Arquivista",
+        "Assistente Social",
+        "Auditor de Controle Interno - Ciências Contábeis",
+        "Auditor de Controle Interno - Direito",
+        "Auditor de Controle Interno - Engenharia Civil",
+        "Auditor de Controle Interno - Tecnologia da Informação",
+        "Biólogo",
+        "Contador",
+        "Economista",
+        "Engenheiro Agrimensor",
+        "Engenheiro Agrônomo",
+        "Engenheiro Ambiental",
+        "Engenheiro Cartográfico",
+        "Engenheiro Civil",
+        "Engenheiro de Controle e Automação",
+        "Engenheiro Eletricista",
+        "Engenheiro Florestal",
+        "Engenheiro Mecânico",
+        "Engenheiro Químico",
+        "Engenheiro Sanitarista",
+        "Geógrafo",
+        "Jornalista",
+        "Psicólogo",
+        "Publicitário",
+        "Relações Públicas",
+        "Sociólogo",
+        "Técnico Superior em Gestão da Informação",
+        "Técnico Superior em Gestão Pública Municipal",
+        "Engenheiro de Segurança do Trabalho",
+        "Médico do Trabalho",
+        "Engenheiro Geotécnico"
+      ],
+      "escolaridade": "Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "03d37cbb23e21b0c",
+      "inscricao_ate": "2026-11-17",
+      "inscricao_texto": "19/10 a 17/11/2026",
+      "orgao": "Prefeitura de Contagem",
+      "salario_ate": "R$ 13.305,57",
+      "uf": "MINAS GERAIS",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-contagem-mg-retifica-edital-de-concurso-publico",
+      "vagas": "272 vagas",
+      "visto_em": "2026-10-16"
+    },
     "0548f460ecd455c6": {
       "cargos": [
         "Agente de Serviços Gerais",
@@ -3633,6 +3684,34 @@
       "vagas": "2956 vagas",
       "visto_em": "2026-10-15"
     },
+    "6980193268fbf171": {
+      "cargos": [
+        "Agente de Segurança e Vigilância",
+        "Auxiliar de Serviços Gerais",
+        "Motorista de Veículos Leves",
+        "Técnico Legislativo",
+        "Analista Administrativo",
+        "Analista Contábil",
+        "Analista de Recursos Humanos",
+        "Analista de Redação e Revisão",
+        "Analista de Tecnologia e Informática",
+        "Analista em Licitações",
+        "Analista Jurídico",
+        "Analista Legislativo",
+        "Controlador Interno"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "6980193268fbf171",
+      "inscricao_ate": "2026-10-30",
+      "inscricao_texto": "Prorrogado até 30/10/2026",
+      "orgao": "Câmara de Candeias do Jamari",
+      "salario_ate": "R$ 3.500,00",
+      "uf": "RONDÔNIA",
+      "url": "https://www.pciconcursos.com.br/noticias/camara-de-candeias-do-jamari-ro-prorroga-inscricoes-para-concurso-publico",
+      "vagas": "17 vagas",
+      "visto_em": "2026-10-16"
+    },
     "69928a9e2fd2f5c1": {
       "cargos": [
         "Serviços Gerais",
@@ -4488,6 +4567,29 @@
       "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-domingos-sc-abre-concurso-publico-com-salarios-de-ate-7949",
       "vagas": "36 vagas",
       "visto_em": "2026-10-15"
+    },
+    "7de19f26b8dd4838": {
+      "cargos": [
+        "Motorista",
+        "Auxiliar de Sala",
+        "Organizador de Postura",
+        "Técnico em Saúde Bucal",
+        "Médico Neurologista",
+        "Professor Habilitado para Anos Iniciais",
+        "Professor Habilitado para Educação Infantil",
+        "Professor de Espanhol do 6º ao 9º ano"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "7de19f26b8dd4838",
+      "inscricao_ate": "2026-11-04",
+      "inscricao_texto": "20/10 a 04/11/2026",
+      "orgao": "Prefeitura de Itapema",
+      "salario_ate": "R$ 9.603,43",
+      "uf": "SANTA CATARINA",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapema-sc-abre-processo-seletivo-com-vagas-imediatas-e-cadastro-de-reserva",
+      "vagas": "27 vagas",
+      "visto_em": "2026-10-16"
     },
     "8222969477b9878b": {
       "cargos": [
@@ -5747,6 +5849,22 @@
       "vagas": "22 vagas",
       "visto_em": "2026-10-15"
     },
+    "a3e0341b2704f2bc": {
+      "cargos": [
+        "Assistente Social"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "a3e0341b2704f2bc",
+      "inscricao_ate": "2026-11-03",
+      "inscricao_texto": "19/10 a 03/11/2026",
+      "orgao": "Prefeitura de Zortéa",
+      "salario_ate": "R$ 5.399,28",
+      "uf": "SANTA CATARINA",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-zortea-sc-abre-processo-seletivo-com-salarios-de-ate-5399",
+      "vagas": "1 vaga",
+      "visto_em": "2026-10-16"
+    },
     "a580792ea57741bc": {
       "cargos": [
         "Gari Masculino",
@@ -5976,6 +6094,44 @@
       "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nuporanga-sp-abre-concurso-com-salarios-de-ate-6209",
       "vagas": "5 vagas",
       "visto_em": "2026-10-15"
+    },
+    "b03e8a4178e908f6": {
+      "cargos": [
+        "Agente de Fiscalização Pública - Fiscal de Comércio, Serviços e Tributos",
+        "Agente de Fiscalização Pública - Fiscal de Meio Ambiente",
+        "Agente de Fiscalização Pública - Fiscal de Obras",
+        "Agente de Fiscalização Pública - Fiscal de Saúde Pública",
+        "Agente de Infraestrutura - Agente de Apoio ao Canil",
+        "Agente de Infraestrutura - Desenhista Projetista",
+        "Agente de Infraestrutura - Topógrafo",
+        "Agente de Infraestrutura - Auxiliar de Serviços Gerais",
+        "Agente de Infraestrutura - Coveiro",
+        "Agente de Infraestrutura - Pedreiro",
+        "Agente de Infraestrutura - Pintor",
+        "Agente de Infraestrutura - Operador de Trator Agrícola",
+        "Agente de Infraestrutura - Operador de Máquina Pesada",
+        "Agente de Mobilidade Urbana - Fiscal de Trânsito de 3ª Classe",
+        "Agente de Políticas Sociais - Salva-vidas",
+        "Agente de Políticas Sociais - Técnico em Enfermagem do Trabalho",
+        "Analista de Compras e Licitações",
+        "Analista Técnico Jurídico",
+        "Arquivista",
+        "Bibliotecário",
+        "Educador Social",
+        "Gestor de Contratos",
+        "Procurador Jurídico"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "b03e8a4178e908f6",
+      "inscricao_ate": "2026-11-18",
+      "inscricao_texto": "17/10 a 18/11/2026",
+      "orgao": "Prefeitura de Matão",
+      "salario_ate": "R$ 9.717,96",
+      "uf": "SÃO PAULO",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-matao-sp-abre-concurso-publico-com-salarios-de-ate-9717",
+      "vagas": "28 vagas",
+      "visto_em": "2026-10-16"
     },
     "b0e4b72df4f47ef6": {
       "cargos": [
@@ -7336,6 +7492,59 @@
       "vagas": "215 vagas",
       "visto_em": "2026-10-15"
     },
+    "d7274d19ce8793f0": {
+      "cargos": [
+        "Analista de Sistemas",
+        "Auditor de Controle Interno (Engenharia Civil)",
+        "Auditor de Controle Interno (Direito)",
+        "Arquiteto",
+        "Assistente Social",
+        "Biólogo",
+        "Contador",
+        "Enfermeiro",
+        "Engenheiro Ambiental",
+        "Engenheiro Civil",
+        "Engenheiro Eletricista",
+        "Farmacêutico",
+        "Fiscal de Meio ambiente",
+        "Fiscal de Obras e Posturas",
+        "Fiscal Sanitário",
+        "Fiscal Tributário",
+        "Fisioterapeuta",
+        "Fonoaudiólogo",
+        "Geólogo",
+        "Médico",
+        "Médico Veterinário",
+        "Nutricionista",
+        "Odontólogo",
+        "Procurador 35h",
+        "Procurador 20h",
+        "Psicólogo",
+        "Terapeuta Ocupacional",
+        "Técnico de Enfermagem",
+        "Técnico de Segurança do Trabalho",
+        "Técnico de Suporte em Informática",
+        "Técnico em Higiene Bucal",
+        "Assistente Administrativo",
+        "Assistente de Escola",
+        "Atendente de Farmácia",
+        "Eletricista",
+        "Secretário de Escola",
+        "Motorista",
+        "Operador de Máquina Rodoviária"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "d7274d19ce8793f0",
+      "inscricao_ate": "2026-11-13",
+      "inscricao_texto": "13/11/2026",
+      "orgao": "Prefeitura de Montenegro",
+      "salario_ate": "R$ 9.848,34",
+      "uf": "RIO GRANDE DO SUL",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-montenegro-rs-abre-concurso-publico-com-salarios-de-ate-9848",
+      "vagas": "84 vagas",
+      "visto_em": "2026-10-16"
+    },
     "d7af70276990107d": {
       "cargos": [
         "Assistente Administrativo",
@@ -8202,6 +8411,23 @@
       "vagas": "129 vagas",
       "visto_em": "2026-10-15"
     },
+    "e6e3c6f7d67fc441": {
+      "cargos": [
+        "Analista em Saúde / Enfermeiro I Tutor(a)",
+        "Auxiliar Administrativo Pleno / Generalista"
+      ],
+      "escolaridade": "Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "e6e3c6f7d67fc441",
+      "inscricao_ate": "2026-10-19",
+      "inscricao_texto": "19/10/2026",
+      "orgao": "IDTECH - Instituto de Desenvolvimento Tecnológico e Humano",
+      "salario_ate": "R$ 6.841,28",
+      "uf": "GOIÁS",
+      "url": "https://www.pciconcursos.com.br/noticias/idtech-go-abre-processo-seletivo-para-o-hgg-e-hemogo",
+      "vagas": "3 vagas",
+      "visto_em": "2026-10-16"
+    },
     "e75555676124213f": {
       "cargos": [
         "Analista de Sistemas",
@@ -8983,6 +9209,6 @@
       "visto_em": "2026-10-15"
     }
   },
-  "total": 252,
+  "total": 259,
   "versao": 1
 }
