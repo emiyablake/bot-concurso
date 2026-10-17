@@ -310,6 +310,44 @@
       "vagas": "27 vagas",
       "visto_em": "2026-10-15"
     },
+    "0ac19caf7911b402": {
+      "cargos": [
+        "Apicultor",
+        "Condutor Socorrista",
+        "Eletricista de Manutenção",
+        "Eletrotécnico",
+        "Entrevistador",
+        "Monitor de Esportes/Educador Social",
+        "Motorista de Veículo - Categoria \"B\" e \"D\"",
+        "Técnico em Edificações",
+        "Técnico em Imobilização Ortopédica",
+        "Técnico em TI",
+        "Topógrafo",
+        "Arte Educador",
+        "Assistente Social",
+        "Biólogo",
+        "Profissional de Educação Física",
+        "Engenheiro Florestal",
+        "Estatístico",
+        "Médico Veterinário - Anestesiologia",
+        "Médico Veterinário - Cirurgia Geral",
+        "Médico Veterinário - Clínica Geral",
+        "Nutricionista",
+        "Pedagogo",
+        "Psicólogo"
+      ],
+      "escolaridade": "Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "0ac19caf7911b402",
+      "inscricao_ate": "2026-11-17",
+      "inscricao_texto": "17/11/2026",
+      "orgao": "Prefeitura de Goiana",
+      "salario_ate": "R$ 8.926,43",
+      "uf": "PERNAMBUCO",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-goiana-pe-retifica-edital-de-selecao-publica",
+      "vagas": "166 vagas",
+      "visto_em": "2026-10-17"
+    },
     "0bd957806c07c10f": {
       "cargos": [
         "Agente Administrativo",
@@ -1000,6 +1038,26 @@
       "vagas": "120 vagas",
       "visto_em": "2026-10-15"
     },
+    "19594eacee3caa6a": {
+      "cargos": [
+        "Fisioterapeuta",
+        "Fonoaudiólogo",
+        "Professor de Português",
+        "Profissional de Educação Física",
+        "Agente de Manutenção Predial"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "19594eacee3caa6a",
+      "inscricao_ate": "2026-11-16",
+      "inscricao_texto": "16/11/2026",
+      "orgao": "Prefeitura de Iporã do Oeste",
+      "salario_ate": "R$ 19.265,80",
+      "uf": "SANTA CATARINA",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ipora-do-oeste-sc-abre-concurso-publico-e-processos-seletivos-com-salarios-de-ate-19265",
+      "vagas": "5 vagas",
+      "visto_em": "2026-10-17"
+    },
     "1a1cd46d8f69d82b": {
       "cargos": [
         "Professor/a MAPA Anos Iniciais do Ensino Fundamental",
@@ -1686,6 +1744,39 @@
       "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-trombudo-central-sc-retifica-edital-de-concurso-publico",
       "vagas": "10 vagas",
       "visto_em": "2026-10-15"
+    },
+    "2f8eb8376ee7811c": {
+      "cargos": [
+        "Contador",
+        "Educador(a) Social (Casa Lar)",
+        "Fonoaudiólogo",
+        "Médico Especialista - Psiquiatria",
+        "Monitor de Tecnologia da Informação",
+        "Oficial Administrativo",
+        "Professor I - Nível 2 - Anos Iniciais",
+        "Professor II - Nível 2 - Educação Física",
+        "Professor II - Nível 2 - Tecnologia Educacional e Empreendedorismo",
+        "Secretário(a) de Unidade Escolar",
+        "Técnico em Enfermagem",
+        "Técnico em Meio Ambiente",
+        "Técnico em Segurança do Trabalho",
+        "Terapeuta Ocupacional",
+        "Vigia",
+        "Auxiliar de Serviços Gerais",
+        "Auxiliar de Operação",
+        "Leiturista"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "2f8eb8376ee7811c",
+      "inscricao_ate": "2026-11-15",
+      "inscricao_texto": "15/11/2026",
+      "orgao": "Prefeitura de Rio Negrinho, FMC, IPRERIO e SAMAE",
+      "salario_ate": "R$ 18.538,78",
+      "uf": "SANTA CATARINA",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-rio-negrinho-sc-e-orgaos-municipais-abrem-novos-concursos-publicos",
+      "vagas": "27 vagas",
+      "visto_em": "2026-10-17"
     },
     "2fad30a0710f4148": {
       "cargos": [
@@ -4243,6 +4334,41 @@
       "vagas": "11 vagas",
       "visto_em": "2026-10-15"
     },
+    "760e8aacbbd8d4de": {
+      "cargos": [
+        "Agente Comunitário de Saúde, microárea 02",
+        "Agente Comunitário de Saúde, microárea 03",
+        "Agente Comunitário de Saúde, microárea 05",
+        "Agente Comunitário de Saúde, microárea 06",
+        "Agente Comunitário de Saúde, microárea 08",
+        "Agente de Combate às Endemias",
+        "Assistente Social",
+        "Biólogo",
+        "Fonoaudiólogo",
+        "Médico do PSF",
+        "Médico Pediatra",
+        "Monitor Geral",
+        "Motorista",
+        "Professor de Informática",
+        "Professor de Inglês",
+        "Professor de Língua Portuguesa",
+        "Professor de Matemática",
+        "Professor de Música",
+        "Técnico em Contabilidade",
+        "Técnico em Informática"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "760e8aacbbd8d4de",
+      "inscricao_ate": "2026-11-23",
+      "inscricao_texto": "23/10 a 23/11/2026",
+      "orgao": "Prefeitura de Novo Cabrais",
+      "salario_ate": "R$ 19.089,94",
+      "uf": "RIO GRANDE DO SUL",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-cabrais-rs-abre-concurso-publico-com-salarios-de-ate-19089",
+      "vagas": "9 vagas",
+      "visto_em": "2026-10-17"
+    },
     "79a1dcb09ef07ed4": {
       "cargos": [
         "Auxiliar Administrativo",
@@ -4699,6 +4825,37 @@
       "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-colinas-rs-abre-concurso-publico-com-salarios-de-ate-15103",
       "vagas": "15 vagas",
       "visto_em": "2026-10-15"
+    },
+    "85c5e5e77f68c453": {
+      "cargos": [
+        "Agente de Endemias",
+        "Assistente Administrativo",
+        "Motorista",
+        "Auxiliar de Enfermagem",
+        "Técnico de Informática",
+        "Assistente Social",
+        "Contador",
+        "Enfermeiro",
+        "Farmacêutico",
+        "Odontólogo",
+        "Professor, 20 horas",
+        "Professor, 40 horas",
+        "Professor de Artes, 20 horas",
+        "Professor de Educação Física, 20 horas",
+        "Professor de LEM, Inglês, 20 horas",
+        "Psicólogo"
+      ],
+      "escolaridade": "Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "85c5e5e77f68c453",
+      "inscricao_ate": "2026-11-10",
+      "inscricao_texto": "21/10 a 10/11/2026",
+      "orgao": "Prefeitura de Florestópolis",
+      "salario_ate": "R$ 15.389,87",
+      "uf": "PARANÁ",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-florestopolis-pr-abre-concurso-publico-com-salarios-de-ate-15389",
+      "vagas": "46 vagas",
+      "visto_em": "2026-10-17"
     },
     "866ff8b0dab5d7ad": {
       "cargos": [
@@ -6133,6 +6290,27 @@
       "vagas": "28 vagas",
       "visto_em": "2026-10-16"
     },
+    "b0d6a3796d7445b0": {
+      "cargos": [
+        "Analista de Comunicação Social",
+        "Analista de Sistemas",
+        "Analista Legislativo",
+        "Assistente Administrativo",
+        "Assistente de Controle Interno",
+        "Auxiliar de Serviços Gerais"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "b0d6a3796d7445b0",
+      "inscricao_ate": "2026-11-18",
+      "inscricao_texto": "19/10 a 18/11/2026",
+      "orgao": "Câmara de Pires do Rio",
+      "salario_ate": "R$ 6.523,44",
+      "uf": "GOIÁS",
+      "url": "https://www.pciconcursos.com.br/noticias/camara-de-pires-do-rio-go-retifica-edital-de-concurso-publico",
+      "vagas": "12 vagas",
+      "visto_em": "2026-10-17"
+    },
     "b0e4b72df4f47ef6": {
       "cargos": [
         "Técnico em Informática",
@@ -6558,6 +6736,27 @@
       "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-colombo-pr-abre-processo-seletivo-com-salarios-de-ate-8040",
       "vagas": "470 vagas",
       "visto_em": "2026-10-15"
+    },
+    "bba72d2387ea4b1a": {
+      "cargos": [
+        "Serviços Auxiliares - Alimentação 1",
+        "Serviços Auxiliares - Alimentação 2",
+        "Serviços Auxiliares - Limpeza",
+        "Serviços Auxiliares - Logística 1",
+        "Técnico Especializado em Edificação",
+        "Serviços Auxiliares 2, Coveiro"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico",
+      "fonte": "pci",
+      "id_unico": "bba72d2387ea4b1a",
+      "inscricao_ate": "2026-11-09",
+      "inscricao_texto": "19/10 a 09/11/2026",
+      "orgao": "MGS - Minas Gerais Administração e Serviços S.A.",
+      "salario_ate": "R$ 3.911,17",
+      "uf": "NACIONAL",
+      "url": "https://www.pciconcursos.com.br/noticias/mgs-abre-processo-seletivo-com-vagas-imediatas-e-cadastro-de-reserva-em-diversas-areas",
+      "vagas": "643 vagas",
+      "visto_em": "2026-10-17"
     },
     "bc3bc93ae5d81fbd": {
       "cargos": [
@@ -7981,6 +8180,65 @@
       "vagas": "55 vagas",
       "visto_em": "2026-10-15"
     },
+    "e19c7368a36a65a2": {
+      "cargos": [
+        "Assistente Administrativo",
+        "Administrador",
+        "Administrador Fiscal",
+        "Analista de Recursos Humanos"
+      ],
+      "escolaridade": "Médio / Superior",
+      "fonte": "pci",
+      "id_unico": "e19c7368a36a65a2",
+      "inscricao_ate": "2026-10-23",
+      "inscricao_texto": "Prorrogado até 23/10/2026",
+      "orgao": "CRA - Conselho Regional de Administração do Amazonas",
+      "salario_ate": "R$ 3.683,95",
+      "uf": "AMAZONAS",
+      "url": "https://www.pciconcursos.com.br/noticias/cra-am-prorroga-inscricoes-de-concurso-publico-com-salarios-de-ate-3683-em-manaus",
+      "vagas": "10 vagas",
+      "visto_em": "2026-10-17"
+    },
+    "e1d18cbb91e858c3": {
+      "cargos": [
+        "Doméstica",
+        "Eletricista",
+        "Manipulador de Alimentos",
+        "Operador de Máquinas",
+        "Operário",
+        "Auxiliar de Alunos Especiais",
+        "Monitor Cultural",
+        "Monitor de Educação Infantil",
+        "Engenheiro Civil",
+        "Fonoaudiólogo",
+        "Fiscal",
+        "Pedagogo",
+        "Procurador",
+        "Professor de Artes",
+        "Professor de Educação Especial",
+        "Professor de Educação Infantil",
+        "Professor de Séries Iniciais",
+        "Professor de Educação Física",
+        "Professor de Geografia",
+        "Professor de História",
+        "Professor de Matemática",
+        "Professor de Ciências",
+        "Professor de Português",
+        "Professor de Língua Inglesa",
+        "Psicólogo"
+      ],
+      "escolaridade": "Fundamental / Médio / Superior",
+      "fonte": "pci",
+      "id_unico": "e1d18cbb91e858c3",
+      "inscricao_ate": "2026-11-10",
+      "inscricao_texto": "10/11/2026",
+      "orgao": "Prefeitura de Nova Bassano",
+      "salario_ate": "R$ 5.933,70",
+      "uf": "RIO GRANDE DO SUL",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-bassano-rs-abre-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva",
+      "vagas": "45 vagas",
+      "visto_em": "2026-10-17"
+    },
     "e218bdd4ef44d759": {
       "cargos": [
         "Agente Administrativo",
@@ -8532,6 +8790,69 @@
       "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-marata-rs-abre-concurso-publico-com-salarios-de-ate-10165",
       "vagas": "29 vagas",
       "visto_em": "2026-10-15"
+    },
+    "e9449323a4f90c23": {
+      "cargos": [
+        "Agente Administrativo",
+        "Agente Comunitário de Saúde para ESF Centro",
+        "Agente Comunitário de Saúde para ESF Interior",
+        "Agente Comunitário de Saúde para ESF Porteirinha",
+        "Agente de Combate a Endemias",
+        "Agente de Controle Interno",
+        "Agente de Fiscalização Tributária",
+        "Assistente Social",
+        "Atendente de Consultório Dentário do PSF",
+        "Atendente de Creche",
+        "Atendente de Farmácia",
+        "Auxiliar de Serviços Gerais",
+        "Contador",
+        "Coordenador do CRAS",
+        "Eletricista",
+        "Enfermeiro",
+        "Engenheiro Agrônomo",
+        "Engenheiro Ambiental",
+        "Engenheiro Civil",
+        "Farmacêutico",
+        "Fiscal",
+        "Fiscal Ambiental",
+        "Fiscal Sanitário",
+        "Fisioterapeuta",
+        "Mecânico",
+        "Médico 20 horas",
+        "Médico 40 horas",
+        "Médico Ginecologista e Obstetra",
+        "Médico Pediatra",
+        "Merendeiro",
+        "Monitor Escolar",
+        "Motorista",
+        "Nutricionista",
+        "Odontólogo do PSF",
+        "Operador de Máquinas",
+        "Operário",
+        "Operário Especializado",
+        "Pedagogo",
+        "Pedreiro",
+        "Professor de Ciências",
+        "Professor de Educação Infantil",
+        "Professor de Geografia",
+        "Professor de Matemática",
+        "Psicólogo 20 horas",
+        "Recepcionista",
+        "Técnico em Enfermagem",
+        "Tesoureiro",
+        "Vigilante"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "e9449323a4f90c23",
+      "inscricao_ate": "2026-11-23",
+      "inscricao_texto": "23/10 a 23/11/2026",
+      "orgao": "Prefeitura de Ipê",
+      "salario_ate": "R$ 20.745,08",
+      "uf": "RIO GRANDE DO SUL",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ipe-rs-abre-concurso-publico-com-salarios-de-ate-20745",
+      "vagas": "28 vagas",
+      "visto_em": "2026-10-17"
     },
     "ea25897c17eecc04": {
       "cargos": [
@@ -9209,6 +9530,6 @@
       "visto_em": "2026-10-15"
     }
   },
-  "total": 259,
+  "total": 269,
   "versao": 1
 }
