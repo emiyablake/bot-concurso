@@ -34,7 +34,7 @@ def gerar_html(concursos: list[Concurso], gerado_em: datetime | None = None) -> 
 <head><meta charset="utf-8"><title>Novos concursos de TI</title></head>
 <body style="margin:0;padding:16px;background:#f3f4f6;font-family:Arial,Helvetica,sans-serif;">
   <div style="max-width:760px;margin:0 auto;background:#ffffff;border-radius:8px;padding:24px;">
-    <h1 style="font-size:18px;color:#111827;margin:0 0 4px;">🎯 {len(concursos)} novo(s) concurso(s) de tecnologia</h1>
+    <h1 style="font-size:18px;color:#111827;margin:0 0 4px;">🎯 {len(concursos)} novo(s) concurso(s) na sua área</h1>
     <p style="color:#6b7280;font-size:13px;margin:0 0 16px;">
       Encontrado(s) em {gerado_em.strftime("%d/%m/%Y às %H:%M")} · fonte: PCI Concursos
     </p>
