@@ -1,6 +1,6 @@
 # BotConcurso 🤖
 
-Monitor de **concursos públicos** que roda de graça no **GitHub Actions**: coleta os concursos do [PCI Concursos](https://www.pciconcursos.com.br/) todos os dias, filtra os da **sua área de interesse** e te envia um **e-mail só quando há novidades**.
+Monitor de **concursos públicos** que roda no **GitHub Actions**: coleta os concursos do [PCI Concursos](https://www.pciconcursos.com.br/) todos os dias, filtra os da **sua área de interesse** e te envia um **e-mail só quando há novidades**.
 
 O filtro padrão é a área de **tecnologia** (desenvolvedor, analista de sistemas, engenheiro de software etc.), mas ele funciona para **qualquer área** — saúde, direito, engenharia, educação. Veja [Personalizando para a sua área](#personalizando-para-a-sua-área).
 
