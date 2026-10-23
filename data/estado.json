@@ -2490,6 +2490,26 @@
       "vagas": "143 vagas",
       "visto_em": "2026-10-15"
     },
+    "3b671656ab73d6cc": {
+      "cargos": [
+        "Auxiliar de Serviços Gerais - Manutenção/Zeladoria",
+        "Auxiliar de Serviços Gerais - Copa e Limpeza",
+        "Assistente Administrativo",
+        "Técnico em Contabilidade",
+        "Chefe de Controle Interno"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "3b671656ab73d6cc",
+      "inscricao_ate": "2026-11-23",
+      "inscricao_texto": "23/11/2026",
+      "orgao": "Câmara de São Geraldo do Araguaia",
+      "salario_ate": "R$ 3.000,00",
+      "uf": "PARÁ",
+      "url": "https://www.pciconcursos.com.br/noticias/camara-de-sao-geraldo-do-araguaia-pa-abre-concurso-publico-com-salarios-de-ate-3000",
+      "vagas": "5 vagas",
+      "visto_em": "2026-10-23"
+    },
     "3d1c847b3fbbfca0": {
       "cargos": [
         "Agente de Serviços Públicos",
@@ -4609,6 +4629,29 @@
       "vagas": "2956 vagas",
       "visto_em": "2026-10-15"
     },
+    "68f42dc92df81d8e": {
+      "cargos": [
+        "Motorista",
+        "Agente Comunitário de Saúde, microárea 01, cidade",
+        "Agente Comunitário de Saúde, microárea 02, Área dos Padres, Boa Vista, Linha Jacoby, Linha Palmeirinha, Linha São Luiz e parte da cidade",
+        "Fiscal de Vigilância Sanitária e Ambiental",
+        "Médico",
+        "Farmacêutico",
+        "Psicólogo",
+        "Assistente Social"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "68f42dc92df81d8e",
+      "inscricao_ate": "2026-11-25",
+      "inscricao_texto": "26/10 a 25/11/2026",
+      "orgao": "Prefeitura de Santa Terezinha do Progresso",
+      "salario_ate": "R$ 10.000,00",
+      "uf": "SANTA CATARINA",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-terezinha-do-progresso-sc-abre-concurso-com-salarios-de-ate-10000",
+      "vagas": "8 vagas",
+      "visto_em": "2026-10-23"
+    },
     "6980193268fbf171": {
       "cargos": [
         "Agente de Segurança e Vigilância",
@@ -4992,6 +5035,28 @@
       "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-alvinopolis-mg-publica-edital-de-concurso-publico-com-salarios-de-ate-17954",
       "vagas": "172 vagas",
       "visto_em": "2026-10-15"
+    },
+    "73e9cb5396329562": {
+      "cargos": [
+        "Orientador Educacional",
+        "Pedreiro",
+        "Agente Comunitário de Saúde (microárea 09)",
+        "Agente Comunitário de Saúde (microárea 18)",
+        "Agente Comunitário de Saúde (microárea 24)",
+        "Agente Comunitário de Saúde (microárea 33)",
+        "Operador de Máquinas (CNH categoria mínima C)"
+      ],
+      "escolaridade": "Fundamental / Superior",
+      "fonte": "pci",
+      "id_unico": "73e9cb5396329562",
+      "inscricao_ate": "2026-11-23",
+      "inscricao_texto": "23/11/2026",
+      "orgao": "Prefeitura de Itapiranga",
+      "salario_ate": "R$ 4.992,82",
+      "uf": "SANTA CATARINA",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itapiranga-sc-divulga-editais-de-concursos-publicos-e-processo-seletivo",
+      "vagas": "4 vagas",
+      "visto_em": "2026-10-23"
     },
     "73ef76a7c9139fe4": {
       "cargos": [
@@ -5801,6 +5866,56 @@
       "vagas": "1 vaga",
       "visto_em": "2026-10-20"
     },
+    "84a659faa18c861e": {
+      "cargos": [
+        "Auxiliar de Serviços Gerais",
+        "Bombeiro Hidráulico",
+        "Gari",
+        "Jardineiro",
+        "Operário Braçal",
+        "Pedreiro",
+        "Pintor",
+        "Calceteiro",
+        "Operador de Máquina Pesada",
+        "Operador de Trator Agrícola",
+        "Administrativo",
+        "Agente de Vigilância Sanitária",
+        "Auxiliar de Odontologia",
+        "Fiscal de Posturas",
+        "Motorista",
+        "Motorista de Ambulância",
+        "Motorista de Caminhão",
+        "Eletricista",
+        "Técnico de Enfermagem",
+        "Técnico de Enfermagem para Ambulância",
+        "Técnico em Radiologia Odontológica",
+        "Assistente Social (CRAS)",
+        "Assistente Social (Saúde)",
+        "Biólogo",
+        "Enfermeiro para Ambulância",
+        "Engenheiro Civil",
+        "Farmacêutico",
+        "Fonoaudiólogo",
+        "Médico Clínico Geral",
+        "Nutricionista",
+        "Odontólogo",
+        "Psicólogo (CRAS)",
+        "Psicólogo (Saúde)",
+        "Epidemiologista",
+        "Veterinário para Animais de Grande Porte"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "84a659faa18c861e",
+      "inscricao_ate": "2027-01-20",
+      "inscricao_texto": "22/12/2026 a 20/01/2027",
+      "orgao": "Prefeitura de Santa Rita de Jacutinga",
+      "salario_ate": "R$ 10.207,61",
+      "uf": "MINAS GERAIS",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-rita-de-jacutinga-mg-abre-concurso-publico-com-salarios-de-ate-10207",
+      "vagas": "73 vagas",
+      "visto_em": "2026-10-23"
+    },
     "85be858ddf1d98da": {
       "cargos": [
         "Assistente Educacional",
@@ -6510,6 +6625,33 @@
       "url": "https://www.pciconcursos.com.br/noticias/camara-de-joca-marques-pi-abre-concurso-publico-com-oito-vagas-imediatas",
       "vagas": "8 vagas",
       "visto_em": "2026-10-22"
+    },
+    "959bc88e76bd4fc2": {
+      "cargos": [
+        "Agente Administrativo",
+        "Analista Administrativo",
+        "Auditor Fiscal da Receita Municipal",
+        "Auxiliar de Apoio Operacional",
+        "Contador Municipal 40h",
+        "Engenheiro Sanitarista e Ambiental",
+        "Fonoaudiólogo",
+        "Monitor",
+        "Operário",
+        "Operador de Máquinas",
+        "Técnico em Informática",
+        "Vigilante"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "959bc88e76bd4fc2",
+      "inscricao_ate": "2026-11-30",
+      "inscricao_texto": "30/10 a 30/11/2026",
+      "orgao": "Prefeitura de Novo Xingu",
+      "salario_ate": "R$ 8.797,52",
+      "uf": "RIO GRANDE DO SUL",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-novo-xingu-rs-abre-concurso-publico-com-salarios-de-ate-8797",
+      "vagas": "12 vagas",
+      "visto_em": "2026-10-23"
     },
     "9657d7a8f1a389e3": {
       "cargos": [
@@ -7915,6 +8057,27 @@
       "vagas": "33 vagas",
       "visto_em": "2026-10-15"
     },
+    "b6767f715070b8ad": {
+      "cargos": [
+        "Auxiliar Administrativo",
+        "Assistente Administrativo",
+        "Contador",
+        "Engenheiro Químico",
+        "Engenheiro Sanitarista",
+        "Tesoureiro"
+      ],
+      "escolaridade": "Médio / Superior",
+      "fonte": "pci",
+      "id_unico": "b6767f715070b8ad",
+      "inscricao_ate": "2026-11-26",
+      "inscricao_texto": "28/10 a 26/11/2026",
+      "orgao": "SAMASA - Serviço Autônomo Municipal de Água e Saneamento Ambiental",
+      "salario_ate": "R$ 9.500,00",
+      "uf": "SANTA CATARINA",
+      "url": "https://www.pciconcursos.com.br/noticias/samasa-de-tres-barras-sc-abre-concurso-publico-com-salarios-de-ate-9500",
+      "vagas": "8 vagas",
+      "visto_em": "2026-10-23"
+    },
     "b73e65fdb2b742f2": {
       "cargos": [
         "Professor da Educação Infantil e dos Anos Iniciais",
@@ -8249,6 +8412,28 @@
       "vagas": "9 vagas",
       "visto_em": "2026-10-15"
     },
+    "c0a62e561e41ebf1": {
+      "cargos": [
+        "Médico",
+        "Enfermeiro assistencial",
+        "Técnico de enfermagem",
+        "Recepcionista",
+        "Vigia",
+        "Auxiliar de serviços gerais",
+        "Copeiro"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "c0a62e561e41ebf1",
+      "inscricao_ate": "2026-10-30",
+      "inscricao_texto": "30/10/2026",
+      "orgao": "Prefeitura de Estrela de Alagoas",
+      "salario_ate": null,
+      "uf": "ALAGOAS",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-estrela-de-alagoas-al-abre-selecao-para-a-secretaria-de-saude",
+      "vagas": "20 vagas até R$ 2.300,00 por plantão",
+      "visto_em": "2026-10-23"
+    },
     "c0a7281281469216": {
       "cargos": [
         "Cuidador de Idosos",
@@ -8268,6 +8453,30 @@
       "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ibitinga-sp-abre-concurso-publico-com-vagas-em-diversas-areas",
       "vagas": "5 vagas",
       "visto_em": "2026-10-15"
+    },
+    "c1e7c70ddd837d4f": {
+      "cargos": [
+        "Especialista em Laboratório, especialidade: Aceleradores de Partículas: Instrumentação/Automação",
+        "Especialista em Laboratório, especialidade: Operação em Laboratórios de Radiojornalismo e Telejornalismo",
+        "Locutor/Operador",
+        "Médico, especialidade: Patologia para atuação em anatomia patológica",
+        "Médico Veterinário, especialidade: Animais de experimentação/biotérios",
+        "Técnico de Laboratório, especialidade: Biologia Celular e Molecular",
+        "Técnico de Laboratório, especialidade: Biologia Marinha",
+        "Técnico de Laboratório, especialidade: Operações de campo em sistemas agrícolas e ambientais",
+        "Técnico de Laboratório, especialidade: Práticas em métodos de diagnóstico laboratorial de marcadores fisiológicos de saúde e bem-estar animal e de doenças transmissíveis por métodos diretos e indiretos"
+      ],
+      "escolaridade": "Médio / Superior",
+      "fonte": "pci",
+      "id_unico": "c1e7c70ddd837d4f",
+      "inscricao_ate": "2027-01-07",
+      "inscricao_texto": "01/12/2026 a 07/01/2027",
+      "orgao": "USP - Universidade de São Paulo",
+      "salario_ate": "R$ 11.778,84",
+      "uf": "SÃO PAULO",
+      "url": "https://www.pciconcursos.com.br/noticias/usp-sp-abre-10-novos-concursos-publicos-para-diversos-cargos",
+      "vagas": "10 vagas",
+      "visto_em": "2026-10-23"
     },
     "c384956c82a7dfb2": {
       "cargos": [
@@ -11276,6 +11485,6 @@
       "visto_em": "2026-10-15"
     }
   },
-  "total": 310,
+  "total": 318,
   "versao": 1
 }
