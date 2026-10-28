@@ -844,6 +844,23 @@
       "vagas": "28 vagas",
       "visto_em": "2026-10-15"
     },
+    "0fcc6ebedab55850": {
+      "cargos": [
+        "Assistente Administrativo",
+        "Diretor de Finanças"
+      ],
+      "escolaridade": "Fundamental / Médio / Superior",
+      "fonte": "pci",
+      "id_unico": "0fcc6ebedab55850",
+      "inscricao_ate": "2026-11-11",
+      "inscricao_texto": "11/11/2026",
+      "orgao": "Câmara de Altair",
+      "salario_ate": "R$ 5.500,00",
+      "uf": "SÃO PAULO",
+      "url": "https://www.pciconcursos.com.br/noticias/camara-de-altair-sp-abre-concurso-publico-com-salarios-de-ate-5500",
+      "vagas": "2 vagas",
+      "visto_em": "2026-10-28"
+    },
     "0fd923ca7515cb3e": {
       "cargos": [
         "Mecânico",
@@ -1600,6 +1617,43 @@
       "vagas": "27 vagas",
       "visto_em": "2026-10-15"
     },
+    "2293e0a26e2d2873": {
+      "cargos": [
+        "Advogado(a)",
+        "Assistente Social",
+        "Contador(a)",
+        "Engenheiro(a) Civil",
+        "Farmacêutico(a)",
+        "Fonoaudiólogo(a)",
+        "Psicólogo(a)",
+        "Terapeuta Ocupacional",
+        "Técnico Agrícola",
+        "Técnico em Enfermagem",
+        "Técnico em Radiologia",
+        "Agente Administrativo, Secretaria de Saúde",
+        "Agente Administrativo, Câmara Municipal",
+        "Instrutor de Informática",
+        "Auxiliar de Serviços Gerais",
+        "Cozinheiro(a)",
+        "Merendeiro(a)",
+        "Motorista de Veículos Pesados",
+        "Operador de Retroescavadeira",
+        "Operador de Pá Carregadeira",
+        "Operador de Trator de Pneus",
+        "Vigia"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "2293e0a26e2d2873",
+      "inscricao_ate": "2026-11-11",
+      "inscricao_texto": "11/11/2026",
+      "orgao": "Prefeitura de Santa Luzia d'Oeste",
+      "salario_ate": "R$ 5.130,63",
+      "uf": "RONDÔNIA",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-luzia-doeste-ro-abre-selecao-com-salarios-de-ate-5130",
+      "vagas": "34 vagas",
+      "visto_em": "2026-10-28"
+    },
     "22f5c75fff98ce90": {
       "cargos": [
         "Apoio Administrativo Educacional - Motorista",
@@ -2026,6 +2080,42 @@
       "vagas": "129 vagas",
       "visto_em": "2026-10-21"
     },
+    "29ace069e8b61dad": {
+      "cargos": [
+        "Assistente Social",
+        "Neuropsicopedagogo(a)",
+        "Neuropsicólogo(a)",
+        "Nutricionista",
+        "Psicólogo(a)",
+        "Psicopedagogo(a)",
+        "Professor(a) Nível I",
+        "Professor(a) P II - Artes",
+        "Professor(a) P II - Ciências Biológicas",
+        "Professor(a) P II - Educação Física",
+        "Professor(a) P II - Geografia",
+        "Professor(a) P II - História",
+        "Professor(a) P II - Inglês",
+        "Professor(a) P II - Matemática",
+        "Professor(a) P II - Português",
+        "Acompanhante Terapêutico",
+        "Agente Administrativo",
+        "Monitor(a)",
+        "Motorista C/D",
+        "Motorista B",
+        "Auxiliar de Serviços Gerais"
+      ],
+      "escolaridade": "Fundamental / Médio / Superior",
+      "fonte": "pci",
+      "id_unico": "29ace069e8b61dad",
+      "inscricao_ate": "2026-11-09",
+      "inscricao_texto": "09/11/2026",
+      "orgao": "Prefeitura de Aracatu",
+      "salario_ate": "R$ 2.565,32",
+      "uf": "BAHIA",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-aracatu-ba-abre-processo-seletivo-para-a-secretaria-de-educacao",
+      "vagas": "245 vagas",
+      "visto_em": "2026-10-28"
+    },
     "29d01ce381fc09fd": {
       "cargos": [
         "Auxiliar de Cozinha",
@@ -2129,6 +2219,42 @@
       "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lages-sc-abre-selecao-para-diversos-cargos-na-secretaria-da-saude",
       "vagas": "14 vagas",
       "visto_em": "2026-10-21"
+    },
+    "2cd78dc4293f98ef": {
+      "cargos": [
+        "Professor de Artes habilitado",
+        "Professor de Ciências habilitado",
+        "Professor de Educação Física habilitado",
+        "Professor de Educação Infantil habilitado",
+        "Professor de Ensino Religioso habilitado",
+        "Professor de História habilitado",
+        "Professor de Informática habilitado",
+        "Professor de Língua Portuguesa habilitado",
+        "Professor de Língua Inglesa habilitado",
+        "Professor de Matemática habilitado",
+        "Professor de Música habilitado",
+        "Professor de Séries Iniciais do Ensino Fundamental I habilitado",
+        "Auxiliar de Educação Infantil",
+        "Auxiliar Educacional",
+        "Monitor de Transporte Escolar",
+        "Auxiliar de Saúde Bucal",
+        "Farmacêutico",
+        "Médico Ginecologista",
+        "Médico Pediatra",
+        "Agente Comunitário de Saúde: Microárea 05",
+        "Agente de Combate às Endemias"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "2cd78dc4293f98ef",
+      "inscricao_ate": "2026-11-22",
+      "inscricao_texto": "22/11/2026",
+      "orgao": "Prefeitura de Praia Grande e Fundo Municipal de Saúde",
+      "salario_ate": "R$ 7.921,65",
+      "uf": "SANTA CATARINA",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-praia-grande-sc-abre-selecoes-com-salarios-de-ate-7921",
+      "vagas": "79 vagas",
+      "visto_em": "2026-10-28"
     },
     "2da86cabb56818d4": {
       "cargos": [
@@ -3630,6 +3756,25 @@
       "url": "https://www.pciconcursos.com.br/noticias/setec-campinas-sp-abre-concurso-publico-com-salarios-de-ate-10428",
       "vagas": "39 vagas",
       "visto_em": "2026-10-15"
+    },
+    "50aedea6e833f35a": {
+      "cargos": [
+        "Assistente Técnico Administrativo",
+        "Assistente Técnico de Fiscalização",
+        "Analista Administrativo",
+        "Analista Contábil"
+      ],
+      "escolaridade": "Médio / Superior",
+      "fonte": "pci",
+      "id_unico": "50aedea6e833f35a",
+      "inscricao_ate": "2026-11-06",
+      "inscricao_texto": "Prorrogado até 06/11/2026",
+      "orgao": "CRO - Conselho Regional de Odontologia de Sergipe",
+      "salario_ate": "R$ 4.504,61",
+      "uf": "SERGIPE",
+      "url": "https://www.pciconcursos.com.br/noticias/cro-se-prorroga-inscricoes-para-concurso-publico-com-salarios-de-ate-4504",
+      "vagas": "83 vagas",
+      "visto_em": "2026-10-28"
     },
     "50e12a768f14a8a5": {
       "cargos": [
@@ -5972,6 +6117,27 @@
       "vagas": "12 vagas",
       "visto_em": "2026-10-15"
     },
+    "7c6e20809a859bdc": {
+      "cargos": [
+        "Eletricista",
+        "Engenheiro de Segurança do Trabalho",
+        "Fiscal Municipal",
+        "Médico Veterinário",
+        "Motorista",
+        "Técnico em Segurança do Trabalho"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "7c6e20809a859bdc",
+      "inscricao_ate": "2026-11-08",
+      "inscricao_texto": "Reaberto até 08/11/2026",
+      "orgao": "Prefeitura de Horizonte",
+      "salario_ate": "R$ 5.620,27",
+      "uf": "CEARÁ",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-horizonte-ce-retifica-edital-de-concurso-publico",
+      "vagas": "15 vagas",
+      "visto_em": "2026-10-28"
+    },
     "7d12eea4e7dc3e23": {
       "cargos": [
         "Auxiliar De Serviços Gerais - Feminino",
@@ -7885,6 +8051,29 @@
       "vagas": "1 vaga",
       "visto_em": "2026-10-16"
     },
+    "a46e41d26202c12a": {
+      "cargos": [
+        "Analista de Gestão Administrativa",
+        "Psicólogo",
+        "Terapeuta Ocupacional",
+        "Agente de Apoio Educacional",
+        "Auxiliar Educacional",
+        "Auxiliar Odontológico",
+        "Técnico em Enfermagem",
+        "Secretário Escolar"
+      ],
+      "escolaridade": "Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "a46e41d26202c12a",
+      "inscricao_ate": "2026-12-03",
+      "inscricao_texto": "03/11 a 03/12/2026",
+      "orgao": "Prefeitura de Concórdia",
+      "salario_ate": "R$ 6.057,51",
+      "uf": "SANTA CATARINA",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-concordia-sc-abre-concurso-publico-com-salarios-de-ate-6057",
+      "vagas": "8 vagas",
+      "visto_em": "2026-10-28"
+    },
     "a49211c88c1cb3ee": {
       "cargos": [
         "Auxiliar Administrativo",
@@ -8081,6 +8270,29 @@
       "url": "https://www.pciconcursos.com.br/noticias/camara-e-municipio-de-siqueira-campos-pr-retificam-concursos-publicos",
       "vagas": "51 vagas",
       "visto_em": "2026-10-15"
+    },
+    "a94a9cc0ead60143": {
+      "cargos": [
+        "Facilitador de Oficinas",
+        "Agente Operacional Especializado Mecânico",
+        "Agente Operacional",
+        "Agente de Serviços Públicos",
+        "Agente Condutor de Máquinas",
+        "Agente de Apoio Educacional",
+        "Auditor de Tributos Municipais",
+        "Terapeuta Ocupacional"
+      ],
+      "escolaridade": "Fundamental / Médio / Superior",
+      "fonte": "pci",
+      "id_unico": "a94a9cc0ead60143",
+      "inscricao_ate": "2026-11-11",
+      "inscricao_texto": "Reaberto até 11/11/2026",
+      "orgao": "Prefeitura de Major Vieira",
+      "salario_ate": "R$ 8.442,71",
+      "uf": "SANTA CATARINA",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-major-vieira-sc-retifica-edital-de-concurso-publico",
+      "vagas": "12 vagas",
+      "visto_em": "2026-10-28"
     },
     "a9c47217a51e3517": {
       "cargos": [
@@ -8307,6 +8519,28 @@
       "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-matao-sp-abre-concurso-publico-com-salarios-de-ate-9717",
       "vagas": "28 vagas",
       "visto_em": "2026-10-16"
+    },
+    "b063650fd5a23beb": {
+      "cargos": [
+        "Professor",
+        "Professor de Educação Física",
+        "Técnico Administrativo Educacional",
+        "Técnico Educacional em Desenvolvimento Infantil",
+        "Mediador Educacional",
+        "Apoio Administrativo Educacional em Manutenção da Infraestrutura",
+        "Apoio Administrativo Educacional em Alimentação Escolar"
+      ],
+      "escolaridade": "Fundamental / Médio / Superior",
+      "fonte": "pci",
+      "id_unico": "b063650fd5a23beb",
+      "inscricao_ate": "2026-11-13",
+      "inscricao_texto": "13/11/2026",
+      "orgao": "Prefeitura de Nova Xavantina",
+      "salario_ate": "R$ 5.786,28",
+      "uf": "MATO GROSSO",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-xavantina-mt-divulga-edital-retificado-de-processo-seletivo-para-a-educacao",
+      "vagas": "137 vagas",
+      "visto_em": "2026-10-28"
     },
     "b0d6a3796d7445b0": {
       "cargos": [
@@ -9301,6 +9535,22 @@
       "url": "https://www.pciconcursos.com.br/noticias/usp-sp-abre-10-novos-concursos-publicos-para-diversos-cargos",
       "vagas": "10 vagas",
       "visto_em": "2026-10-23"
+    },
+    "c367ef8b816b734a": {
+      "cargos": [
+        "Fonoaudiólogo"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "c367ef8b816b734a",
+      "inscricao_ate": "2026-11-17",
+      "inscricao_texto": "17/11/2026",
+      "orgao": "Prefeitura de Atalanta",
+      "salario_ate": "R$ 9.751,15",
+      "uf": "SANTA CATARINA",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-atalanta-sc-abre-processo-seletivo-com-salarios-de-ate-9751",
+      "vagas": "1 vaga",
+      "visto_em": "2026-10-28"
     },
     "c384956c82a7dfb2": {
       "cargos": [
@@ -12256,6 +12506,60 @@
       "vagas": "6 vagas",
       "visto_em": "2026-10-15"
     },
+    "fa5fa6886ad5143e": {
+      "cargos": [
+        "Motorista"
+      ],
+      "escolaridade": "Fundamental / Superior",
+      "fonte": "pci",
+      "id_unico": "fa5fa6886ad5143e",
+      "inscricao_ate": "2026-11-23",
+      "inscricao_texto": "23/11/2026",
+      "orgao": "Prefeitura de Sarapuí",
+      "salario_ate": "R$ 5.906,38",
+      "uf": "SÃO PAULO",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sarapui-sp-abre-concurso-publico-e-processo-seletivo-com-salarios-de-ate-5906",
+      "vagas": "1 vaga",
+      "visto_em": "2026-10-28"
+    },
+    "fabac2c4d54ff757": {
+      "cargos": [
+        "Carpinteiro",
+        "Encanador",
+        "Pedreiro",
+        "Auxiliar Administrativo",
+        "Auxiliar de Farmácia",
+        "Auxiliar de Saúde Bucal",
+        "Cuidador Social",
+        "Eletricista de Manutenção",
+        "Fiscal de Meio Ambiente",
+        "Fiscal de Obras e Posturas",
+        "Orientador Social",
+        "Técnico Agrícola",
+        "Analista Administrativo",
+        "Cirurgião Dentista",
+        "Controlador Interno",
+        "Engenheiro Agrônomo",
+        "Engenheiro Civil",
+        "Fonoaudiólogo",
+        "Médico do Trabalho",
+        "Médico Pediatra",
+        "Médico Psiquiatra",
+        "Terapeuta Ocupacional",
+        "Tesoureiro"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "fabac2c4d54ff757",
+      "inscricao_ate": "2026-11-10",
+      "inscricao_texto": "10/11/2026",
+      "orgao": "Prefeitura de Juquiá",
+      "salario_ate": "R$ 8.653,17",
+      "uf": "SÃO PAULO",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-juquia-sp-abre-concurso-publico-com-salarios-de-ate-8653",
+      "vagas": "13 vagas",
+      "visto_em": "2026-10-28"
+    },
     "fae3589a6e953cb3": {
       "cargos": [
         "Advogado",
@@ -12599,6 +12903,6 @@
       "visto_em": "2026-10-15"
     }
   },
-  "total": 347,
+  "total": 359,
   "versao": 1
 }
