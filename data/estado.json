@@ -1927,6 +1927,45 @@
       "vagas": "172 vagas",
       "visto_em": "2026-10-27"
     },
+    "1c4fa9a3d855ead7": {
+      "cargos": [
+        "Agente de Limpeza Urbana",
+        "Agente Administrativo",
+        "Agente de Saúde (ACS), microárea 04",
+        "Agente de Saúde (ACS), microárea 08",
+        "Técnico de Enfermagem",
+        "Técnico de Informática",
+        "Técnico de Saúde Bucal",
+        "Assistente Social",
+        "Bibliotecário",
+        "Enfermeiro",
+        "Enfermeiro, PSF",
+        "Farmacêutico",
+        "Fisioterapeuta",
+        "Fonoaudiólogo",
+        "Nutricionista",
+        "Odontólogo",
+        "Psicólogo Clínico",
+        "Psicólogo Esp. ABA/TEA",
+        "Professor de Artes",
+        "Professor de Educação Física",
+        "Professor de Educação Inclusiva",
+        "Professor de Geografia",
+        "Professor de Língua Portuguesa",
+        "Professor de Matemática"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "1c4fa9a3d855ead7",
+      "inscricao_ate": "2026-11-29",
+      "inscricao_texto": "29/11/2026",
+      "orgao": "Prefeitura de Serra Grande",
+      "salario_ate": "R$ 3.651,00",
+      "uf": "PARAÍBA",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-serra-grande-pb-retifica-concurso-publico-com-vagas-para-diversos-cargos",
+      "vagas": "41 vagas",
+      "visto_em": "2026-11-05"
+    },
     "1cb4c6e703d4d39e": {
       "cargos": [
         "Técnico de Nível Médio - Fiscal de Obras Particulares",
@@ -4948,6 +4987,25 @@
       "vagas": "8 vagas",
       "visto_em": "2026-10-15"
     },
+    "58853d2579e55ba1": {
+      "cargos": [
+        "Farmacêutico",
+        "Médico Ginecologista",
+        "Médico Pediatra",
+        "Instrutor de Esportes"
+      ],
+      "escolaridade": "Superior",
+      "fonte": "pci",
+      "id_unico": "58853d2579e55ba1",
+      "inscricao_ate": "2026-11-17",
+      "inscricao_texto": "06 a 17/11/2026",
+      "orgao": "Prefeitura de Entre Rios do Oeste",
+      "salario_ate": "R$ 14.045,90",
+      "uf": "PARANÁ",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-entre-rios-do-oeste-pr-abre-processo-seletivo-para-cargos-de-nivel-superior",
+      "vagas": "4 vagas",
+      "visto_em": "2026-11-05"
+    },
     "58d2ac7ce434bf7a": {
       "cargos": [
         "Analista Administrativo e Financeiro",
@@ -6879,6 +6937,29 @@
       "vagas": "17 vagas",
       "visto_em": "2026-10-29"
     },
+    "787b4a569996c547": {
+      "cargos": [
+        "Procurador Legislativo",
+        "Auditor Interno Público",
+        "Analista Legislativo - Especialista em Contabilidade",
+        "Analista Legislativo - Especialista Financeiro",
+        "Analista Legislativo - Especialista em Recursos Humanos",
+        "Analista Legislativo - Especialista em Comunicação",
+        "Analista Legislativo - Especialista em Direito",
+        "Analista Legislativo Geral"
+      ],
+      "escolaridade": "Superior",
+      "fonte": "pci",
+      "id_unico": "787b4a569996c547",
+      "inscricao_ate": "2026-12-17",
+      "inscricao_texto": "10/11 a 17/12/2026",
+      "orgao": "Câmara de Cachoeiro de Itapemirim",
+      "salario_ate": "R$ 7.046,62",
+      "uf": "ESPÍRITO SANTO",
+      "url": "https://www.pciconcursos.com.br/noticias/camara-de-cachoeiro-de-itapemirim-es-abre-concurso-publico-com-salarios-de-ate-7046",
+      "vagas": "15 vagas",
+      "visto_em": "2026-11-05"
+    },
     "79a1dcb09ef07ed4": {
       "cargos": [
         "Auxiliar Administrativo",
@@ -7714,6 +7795,65 @@
       "url": "https://www.pciconcursos.com.br/noticias/seplad-e-seduc-pa-retificam-concurso-publico-com-vagas-para-diversas-areas-de-atuacao",
       "vagas": "2.000 vagas",
       "visto_em": "2026-10-15"
+    },
+    "8c612caabee8f336": {
+      "cargos": [
+        "Advogado",
+        "Agente Administrativo",
+        "Auxiliar Administrativo",
+        "Biomédico",
+        "Eletrotécnico",
+        "Enfermeiro Plantonista",
+        "Enfermeiro PSF",
+        "Fiscal de Serviços Públicos",
+        "Fisioterapeuta",
+        "Fonoaudiólogo",
+        "Motorista Categoria B",
+        "Motorista Categoria C",
+        "Motorista Categoria D",
+        "Nutricionista",
+        "Psicólogo",
+        "Técnico em Enfermagem",
+        "Técnico em Informática",
+        "Técnico em Radiologia",
+        "Terapeuta Ocupacional",
+        "Veterinário",
+        "Vigilante",
+        "Agente de Manutenção de Imóveis",
+        "Assistente Social",
+        "Auxiliar de Saúde Bucal",
+        "Engenheiro Civil",
+        "Encarregado de Almoxarifado",
+        "Farmacêutico",
+        "Fiscal de Tributos",
+        "Médico Evolucionista",
+        "Médico Plantonista",
+        "Médico PSF",
+        "Médico Ortopedista",
+        "Odontólogo",
+        "Técnico Agrícola",
+        "Técnico em Controle Interno",
+        "Tecnólogo em Edificações",
+        "Professor - Ensino Infantil",
+        "Professor - Fundamental I",
+        "Professor - Fundamental II - Ciências",
+        "Professor - Fundamental II - Educação Física",
+        "Professor - Fundamental II - Geografia",
+        "Professor - Fundamental II - História",
+        "Professor - Fundamental II - Língua Portuguesa",
+        "Professor - Fundamental II - Matemática"
+      ],
+      "escolaridade": "Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "8c612caabee8f336",
+      "inscricao_ate": "2026-12-03",
+      "inscricao_texto": "Reaberto até 03/12/2026",
+      "orgao": "Prefeitura de Moreilândia",
+      "salario_ate": "R$ 10.000,00",
+      "uf": "PERNAMBUCO",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-moreilandia-pe-retifica-dois-concursos-publicos",
+      "vagas": "381 vagas",
+      "visto_em": "2026-11-05"
     },
     "8c807e9c54c2b84e": {
       "cargos": [
@@ -10259,6 +10399,26 @@
       "vagas": "59 vagas",
       "visto_em": "2026-10-20"
     },
+    "b5a05daa0de5376e": {
+      "cargos": [
+        "Analista",
+        "Fiscal Técnico Ambiental",
+        "Gestor 1",
+        "Gestor 2",
+        "Procurador Autárquico"
+      ],
+      "escolaridade": "Superior",
+      "fonte": "pci",
+      "id_unico": "b5a05daa0de5376e",
+      "inscricao_ate": "2026-11-29",
+      "inscricao_texto": "06 a 29/11/2026",
+      "orgao": "CONSCENSUL - Consórcio Público da Região Sertão Centro Sul",
+      "salario_ate": "R$ 5.500,00",
+      "uf": "CEARÁ",
+      "url": "https://www.pciconcursos.com.br/noticias/conscensul-ce-abre-concurso-publico-com-vagas-de-nivel-superior-em-lavras-da-mangabeira",
+      "vagas": "9 vagas",
+      "visto_em": "2026-11-05"
+    },
     "b5d842a3c14444b7": {
       "cargos": [
         "Auxiliar Administrativo",
@@ -10338,6 +10498,35 @@
       "url": "https://www.pciconcursos.com.br/noticias/samasa-de-tres-barras-sc-abre-concurso-publico-com-salarios-de-ate-9500",
       "vagas": "8 vagas",
       "visto_em": "2026-10-23"
+    },
+    "b6b5256473893c5c": {
+      "cargos": [
+        "Técnico em Análise Ambiental, Técnico em Laboratório",
+        "Técnico em Atividades de Engenharia, Técnico de serviços de campo",
+        "Técnico em Informática",
+        "Administrador",
+        "Biólogo",
+        "Economista",
+        "Engenheiro Civil",
+        "Geógrafo",
+        "Geólogo",
+        "Médico Veterinário",
+        "Oceanógrafo",
+        "Químico",
+        "Analista de Informática",
+        "Analista Administrativo"
+      ],
+      "escolaridade": "Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "b6b5256473893c5c",
+      "inscricao_ate": "2026-12-14",
+      "inscricao_texto": "13/11 a 14/12/2026",
+      "orgao": "IMA - Instituto do Meio Ambiente do Estado de Santa Catarina",
+      "salario_ate": "R$ 12.300,00",
+      "uf": "SANTA CATARINA",
+      "url": "https://www.pciconcursos.com.br/noticias/ima-sc-abre-concurso-publico-com-salarios-de-ate-12300",
+      "vagas": "18 vagas",
+      "visto_em": "2026-11-05"
     },
     "b73e65fdb2b742f2": {
       "cargos": [
@@ -10679,6 +10868,27 @@
       "vagas": "22 vagas",
       "visto_em": "2026-10-30"
     },
+    "bc74abfb7a25f860": {
+      "cargos": [
+        "Advogado",
+        "Assistente de Recursos Humanos",
+        "Assistente Legislativo",
+        "Auxiliar Legislativo",
+        "Contador",
+        "Secretário da Mesa Diretiva"
+      ],
+      "escolaridade": "Médio / Superior",
+      "fonte": "pci",
+      "id_unico": "bc74abfb7a25f860",
+      "inscricao_ate": "2026-11-24",
+      "inscricao_texto": "Reaberto até 24/11/2026",
+      "orgao": "Câmara de Quatro Barras",
+      "salario_ate": "R$ 5.403,69",
+      "uf": "PARANÁ",
+      "url": "https://www.pciconcursos.com.br/noticias/camara-de-quatro-barras-pr-reabre-inscricoes-para-concurso-publico",
+      "vagas": "17 vagas",
+      "visto_em": "2026-11-05"
+    },
     "bc9d4aeadd307bf9": {
       "cargos": [
         "Agente de Copa e Cozinha",
@@ -10795,6 +11005,29 @@
       "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ibitinga-sp-abre-concurso-publico-com-vagas-em-diversas-areas",
       "vagas": "5 vagas",
       "visto_em": "2026-10-15"
+    },
+    "c1c045bf744856b3": {
+      "cargos": [
+        "Auxiliar de Cuidador, área urbana",
+        "Guarda Municipal Patrimonial, área urbana",
+        "Assistente Administrativo, área urbana",
+        "Auxiliar de Desenvolvimento Infantil, área urbana",
+        "Cuidador, área urbana",
+        "Educador/Orientador Social, área urbana",
+        "Assistente Social, área urbana",
+        "Professor Licenciado em Pedagogia, área urbana"
+      ],
+      "escolaridade": "Fundamental / Médio / Superior",
+      "fonte": "pci",
+      "id_unico": "c1c045bf744856b3",
+      "inscricao_ate": "2026-11-30",
+      "inscricao_texto": "20 a 30/11/2026",
+      "orgao": "Prefeitura de Cáceres",
+      "salario_ate": "R$ 7.226,74",
+      "uf": "MATO GROSSO",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-caceres-mt-abre-processo-seletivo-com-salarios-de-ate-7226",
+      "vagas": "30 vagas",
+      "visto_em": "2026-11-05"
     },
     "c1e7c70ddd837d4f": {
       "cargos": [
@@ -11237,6 +11470,26 @@
       "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bela-vista-do-piaui-pi-abre-concurso-publico-para-diversos-cargos",
       "vagas": "64 vagas",
       "visto_em": "2026-10-15"
+    },
+    "cac4ea5987ab4f65": {
+      "cargos": [
+        "Redator de Debates",
+        "Auxiliar Legislativo",
+        "Auxiliar de Serviços Gerais",
+        "Motorista",
+        "Vigilante"
+      ],
+      "escolaridade": "Fundamental / Médio",
+      "fonte": "pci",
+      "id_unico": "cac4ea5987ab4f65",
+      "inscricao_ate": "2026-11-17",
+      "inscricao_texto": "17/11/2026",
+      "orgao": "Câmara de Santa Rita de Cássia",
+      "salario_ate": "R$ 1.728,00",
+      "uf": "BAHIA",
+      "url": "https://www.pciconcursos.com.br/noticias/camara-de-santa-rita-de-cassia-ba-abre-concurso-publico-com-12-vagas",
+      "vagas": "12 vagas",
+      "visto_em": "2026-11-05"
     },
     "cad5fe137435f2c0": {
       "cargos": [
@@ -14945,6 +15198,6 @@
       "visto_em": "2026-11-04"
     }
   },
-  "total": 415,
+  "total": 424,
   "versao": 1
 }
