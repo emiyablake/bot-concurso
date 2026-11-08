@@ -3912,6 +3912,24 @@
       "vagas": "86 vagas",
       "visto_em": "2026-11-04"
     },
+    "41f5f8aabce9a43e": {
+      "cargos": [
+        "Gari",
+        "Auxiliar de serviços de infraestrutura",
+        "Agente de cantina e limpeza predial"
+      ],
+      "escolaridade": "Fundamental",
+      "fonte": "pci",
+      "id_unico": "41f5f8aabce9a43e",
+      "inscricao_ate": "2026-11-13",
+      "inscricao_texto": "13/11/2026",
+      "orgao": "Prefeitura de Estiva",
+      "salario_ate": "R$ 1.689,78",
+      "uf": "MINAS GERAIS",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-estiva-mg-abre-processo-seletivo-com-sete-vagas",
+      "vagas": "7 vagas",
+      "visto_em": "2026-11-08"
+    },
     "420f5df77289615f": {
       "cargos": [
         "Professor de Ensino Fundamental - Anos Iniciais e Finais"
@@ -16218,6 +16236,6 @@
       "visto_em": "2026-11-04"
     }
   },
-  "total": 448,
+  "total": 449,
   "versao": 1
 }
