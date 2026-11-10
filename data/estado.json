@@ -575,6 +575,29 @@
       "vagas": "27 vagas",
       "visto_em": "2026-10-15"
     },
+    "0a8a92bf8e0bcc30": {
+      "cargos": [
+        "Gestão de Recursos Hídricos",
+        "Gestão Ambiental e Recursos Hídricos",
+        "Direito e Regulação Econômica de Recursos Hídricos",
+        "Monitoramento Hidrológico e Ciência de Dados",
+        "Administração Pública",
+        "Direito",
+        "Econômico-Financeira",
+        "Tecnologia da Informação e Ciência de Dados"
+      ],
+      "escolaridade": "Superior",
+      "fonte": "pci",
+      "id_unico": "0a8a92bf8e0bcc30",
+      "inscricao_ate": "2026-12-17",
+      "inscricao_texto": "17/11 a 17/12/2026",
+      "orgao": "SP-Águas - Agência de Águas do Estado de São Paulo",
+      "salario_ate": "R$ 12.070,00",
+      "uf": "SÃO PAULO",
+      "url": "https://www.pciconcursos.com.br/noticias/sp-aguas-sp-abre-concurso-publico-com-salarios-de-ate-12070",
+      "vagas": "190 vagas",
+      "visto_em": "2026-11-10"
+    },
     "0ac19caf7911b402": {
       "cargos": [
         "Apicultor",
@@ -707,6 +730,32 @@
       "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-poco-dantas-pb-prorroga-inscricoes-de-concurso-publico",
       "vagas": "84 vagas",
       "visto_em": "2026-10-15"
+    },
+    "0e0360d55255c4ca": {
+      "cargos": [
+        "Agente de Manutenção e Reparos",
+        "Agente de Serviços Gerais",
+        "Agente Educacional",
+        "Enfermeiro 20 horas",
+        "Escriturário",
+        "Mecânico",
+        "Médico Ginecologista",
+        "Médico Pediatra",
+        "Médico Psiquiatra",
+        "Motorista",
+        "Operador de Máquinas e Equipamentos Rodoviários"
+      ],
+      "escolaridade": "Fundamental / Médio / Superior",
+      "fonte": "pci",
+      "id_unico": "0e0360d55255c4ca",
+      "inscricao_ate": "2026-12-09",
+      "inscricao_texto": "09/12/2026",
+      "orgao": "Prefeitura de Antônio Prado",
+      "salario_ate": "R$ 10.352,30",
+      "uf": "RIO GRANDE DO SUL",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-antonio-prado-rs-abre-concurso-publico-com-salarios-de-ate-10352",
+      "vagas": "21 vagas",
+      "visto_em": "2026-11-10"
     },
     "0e1c2f617a69c927": {
       "cargos": [
@@ -1381,6 +1430,29 @@
       "url": "https://www.pciconcursos.com.br/noticias/hospital-evangelico-de-cachoeiro-de-itapemirim-es-abre-selecao-para-residencia-em-saude",
       "vagas": "16 vagas",
       "visto_em": "2026-10-15"
+    },
+    "13b0fc8c56e3a62b": {
+      "cargos": [
+        "Engenheiro Civil ou Engenheiro de Produção Civil",
+        "Engenheiro Ambiental",
+        "Engenheiro Agrônomo ou Engenheiro Florestal",
+        "Engenheiro Agrimensor",
+        "Arquiteto",
+        "Geógrafo",
+        "Biólogo",
+        "Assistente Técnico de Segurança do Trabalho"
+      ],
+      "escolaridade": "Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "13b0fc8c56e3a62b",
+      "inscricao_ate": "2026-11-16",
+      "inscricao_texto": "16/11/2026",
+      "orgao": "SUDECAP - Superintendência de Desenvolvimento da Capital",
+      "salario_ate": "R$ 9.375,06",
+      "uf": "MINAS GERAIS",
+      "url": "https://www.pciconcursos.com.br/noticias/sudecap-mg-abre-processo-seletivo-com-salarios-de-ate-9375",
+      "vagas": "27 vagas",
+      "visto_em": "2026-11-10"
     },
     "14a27f74ebccd6a7": {
       "cargos": [
@@ -6542,6 +6614,55 @@
       "vagas": "Cadastro de reserva",
       "visto_em": "2026-10-15"
     },
+    "672e875ed54a4a29": {
+      "cargos": [
+        "Motorista B",
+        "Motorista D",
+        "Agente Administrativo",
+        "Agente de Vigilância Sanitária",
+        "Agente de Combate às Endemias",
+        "Agente de Trânsito",
+        "Técnico em Saúde Bucal",
+        "Técnico em Enfermagem",
+        "Técnico em Laboratório",
+        "Recepcionista",
+        "Assistente Social",
+        "Enfermeiro UBS",
+        "Farmacêutico",
+        "Fisioterapeuta",
+        "Fiscal de Tributos",
+        "Fonoaudiólogo",
+        "Nutricionista",
+        "Médico Clínico Geral",
+        "Médico Plantonista",
+        "Odontólogo",
+        "Psicólogo",
+        "Terapeuta Ocupacional",
+        "04, Laranjeiras e Santa Rita",
+        "07, Aldeia Forte",
+        "08, Rua Dom Pedro II, Centro",
+        "10, Rua Cacique Daniel Santana, Rua São Miguel e Rua Marria Rosa Padilha",
+        "17, São Miguel",
+        "18, Aldeia Benfica",
+        "19, Aldeia Acajutibiró",
+        "20, Rua Ubirajara Brandão, Rua Cangulo II e Rua Vereador Vicente de Paula Macena",
+        "21, Aldeia Acajutibiró",
+        "22, Rua Matias Freire e Rua José Bezerra Falcão",
+        "23, Loteamento São Francisco e Jardim Prainha",
+        "24, Aldeia São Francisco"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "672e875ed54a4a29",
+      "inscricao_ate": "2026-12-16",
+      "inscricao_texto": "17/11 a 16/12/2026",
+      "orgao": "Prefeitura de Baía da Traição",
+      "salario_ate": "R$ 10.000,00",
+      "uf": "PARAÍBA",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-baia-da-traicao-pb-abre-concurso-publico-com-vagas-em-diversos-cargos",
+      "vagas": "117 vagas",
+      "visto_em": "2026-11-10"
+    },
     "68427596e10a146b": {
       "cargos": [
         "Agente Educativo",
@@ -7859,6 +7980,25 @@
       "vagas": "308 vagas",
       "visto_em": "2026-11-07"
     },
+    "7bd7949c7c4b1495": {
+      "cargos": [
+        "Engenheiro Ambiental",
+        "Fiscal de Meio Ambiente",
+        "Geólogo",
+        "Professor"
+      ],
+      "escolaridade": "Médio / Superior",
+      "fonte": "pci",
+      "id_unico": "7bd7949c7c4b1495",
+      "inscricao_ate": "2026-11-25",
+      "inscricao_texto": "25/11/2026",
+      "orgao": "Prefeitura de Tucano",
+      "salario_ate": "R$ 3.000,00",
+      "uf": "BAHIA",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tucano-ba-abre-processo-seletivo-com-83-vagas",
+      "vagas": "83 vagas",
+      "visto_em": "2026-11-10"
+    },
     "7c078eaa94ed83a9": {
       "cargos": [
         "Agente Administrativo",
@@ -8382,6 +8522,43 @@
       "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-colatina-es-abre-processo-seletivo-com-salarios-de-ate-6217",
       "vagas": "72 vagas",
       "visto_em": "2026-11-07"
+    },
+    "8975d0d4526b3fd5": {
+      "cargos": [
+        "Técnico Administrativo",
+        "Técnico Ambiental, Técnico em Eletrônica",
+        "Técnico Ambiental, Técnico em Química",
+        "Técnico Ambiental, Técnico em Meio Ambiente",
+        "Advogado",
+        "Analista Administrativo, Administração",
+        "Analista Administrativo, Contabilidade",
+        "Analista Administrativo, Psicologia",
+        "Analista Ambiental, Biologia",
+        "Analista Ambiental, Engenharia Agronômica",
+        "Analista Ambiental, Engenharia Ambiental e Sanitária",
+        "Analista Ambiental, Engenharia Civil",
+        "Analista Ambiental, Engenharia Florestal",
+        "Analista Ambiental, Engenharia Mecânica",
+        "Analista Ambiental, Engenharia Química",
+        "Analista Ambiental, Oceanografia",
+        "Analista Ambiental, Geografia",
+        "Analista Ambiental, Geologia",
+        "Analista Ambiental, Química",
+        "Analista de Tecnologia da Informação, Redes e Telecomunicação",
+        "Analista de Tecnologia da Informação, Sistemas",
+        "Engenheiro, Engenharia Civil"
+      ],
+      "escolaridade": "Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "8975d0d4526b3fd5",
+      "inscricao_ate": "2026-12-14",
+      "inscricao_texto": "12/11 a 14/12/2026",
+      "orgao": "CETESB - Companhia Ambiental do Estado de São Paulo",
+      "salario_ate": "R$ 8.971,98",
+      "uf": "SÃO PAULO",
+      "url": "https://www.pciconcursos.com.br/noticias/cetesb-sp-abre-concursos-publicos-para-diversos-cargos",
+      "vagas": "107 vagas",
+      "visto_em": "2026-11-10"
     },
     "8a340138c7a85a45": {
       "cargos": [
@@ -9336,6 +9513,24 @@
       "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ibirama-sc-abre-concurso-publico-com-salarios-de-ate-20364",
       "vagas": "10 vagas",
       "visto_em": "2026-11-06"
+    },
+    "953254240613e1ca": {
+      "cargos": [
+        "Técnico de Laboratório",
+        "Analista de Tecnologia da Informação",
+        "Engenheiro de Segurança do Trabalho"
+      ],
+      "escolaridade": "Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "953254240613e1ca",
+      "inscricao_ate": "2027-01-04",
+      "inscricao_texto": "17/11/2026 a 04/01/2027",
+      "orgao": "IFSP - Instituto Federal de Educação, Ciência e Tecnologia de São Paulo",
+      "salario_ate": "R$ 5.215,39",
+      "uf": "SÃO PAULO",
+      "url": "https://www.pciconcursos.com.br/noticias/ifsp-abre-concurso-publico-para-cargos-tecnico-administrativos",
+      "vagas": "6 vagas",
+      "visto_em": "2026-11-10"
     },
     "959bc88e76bd4fc2": {
       "cargos": [
@@ -13625,6 +13820,42 @@
       "vagas": "215 vagas",
       "visto_em": "2026-10-15"
     },
+    "d6f2804101fa886b": {
+      "cargos": [
+        "Assistente Social",
+        "Neuropsicopedagogo(a)",
+        "Neuropsicólogo(a)",
+        "Nutricionista",
+        "Psicólogo(a)",
+        "Psicopedagogo(a)",
+        "Professor(a) Nível I",
+        "Professor(a) P II - Artes",
+        "Professor(a) P II - Ciências Biológicas",
+        "Professor(a) P II - Educação Física",
+        "Professor(a) P II - Geografia",
+        "Professor(a) P II - História",
+        "Professor(a) P II - Inglês",
+        "Professor(a) P II - Matemática",
+        "Professor(a) P II - Português",
+        "Acompanhante Terapêutico",
+        "Agente Administrativo",
+        "Monitor(a)",
+        "Motorista C/D",
+        "Motorista B",
+        "Auxiliar de Serviços Gerais"
+      ],
+      "escolaridade": "Fundamental / Médio / Superior",
+      "fonte": "pci",
+      "id_unico": "d6f2804101fa886b",
+      "inscricao_ate": "2026-11-15",
+      "inscricao_texto": "Prorrogado até 15/11/2026",
+      "orgao": "Prefeitura de Aracatu",
+      "salario_ate": "R$ 2.565,32",
+      "uf": "BAHIA",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-aracatu-ba-retifica-edital-de-processo-seletivo-para-a-secretaria-de-educacao",
+      "vagas": "278 vagas",
+      "visto_em": "2026-11-10"
+    },
     "d7274d19ce8793f0": {
       "cargos": [
         "Analista de Sistemas",
@@ -15922,6 +16153,37 @@
       "vagas": "25 vagas",
       "visto_em": "2026-11-06"
     },
+    "f5386b6b583e21b7": {
+      "cargos": [
+        "Agente de Copa e Cozinha",
+        "Auxiliar de Serviços Gerais",
+        "Vigilante",
+        "Assistente Administrativo",
+        "Assistente de Plenário",
+        "Auxiliar Técnico de Áudio, Vídeo e Sistemas",
+        "Condutor Marítimo",
+        "Guarda Legislativo",
+        "Intérprete de Libras",
+        "Motorista",
+        "Ouvidor",
+        "Técnico de Informática",
+        "Técnico Legislativo",
+        "Advogado Legislativo",
+        "Assistente Social",
+        "Controlador Interno"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "f5386b6b583e21b7",
+      "inscricao_ate": "2026-11-29",
+      "inscricao_texto": "Prorrogado até 29/11/2026",
+      "orgao": "Câmara de Portel",
+      "salario_ate": "R$ 4.723,31",
+      "uf": "PARÁ",
+      "url": "https://www.pciconcursos.com.br/noticias/camara-de-portel-pa-retifica-edital-de-concurso-publico",
+      "vagas": "27 vagas",
+      "visto_em": "2026-11-10"
+    },
     "f6aec290ce2d638e": {
       "cargos": [
         "Advogado",
@@ -16777,6 +17039,6 @@
       "visto_em": "2026-11-04"
     }
   },
-  "total": 466,
+  "total": 475,
   "versao": 1
 }
