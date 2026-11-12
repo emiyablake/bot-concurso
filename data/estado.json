@@ -227,6 +227,30 @@
       "vagas": "19 vagas",
       "visto_em": "2026-10-15"
     },
+    "07c9306d14d13742": {
+      "cargos": [
+        "Técnico em Enfermagem",
+        "Cirurgião-Dentista",
+        "Farmacêutico/Bioquímico",
+        "Fisioterapeuta",
+        "Médico Clínico Geral",
+        "Nutricionista",
+        "Professor de Educação Física",
+        "Psicólogo",
+        "Enfermeiro Coordenador ESF"
+      ],
+      "escolaridade": "Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "07c9306d14d13742",
+      "inscricao_ate": "2026-11-13",
+      "inscricao_texto": "Prorrogado até 13/11/2026",
+      "orgao": "Prefeitura de Onça de Pitangui",
+      "salario_ate": "R$ 14.829,31",
+      "uf": "MINAS GERAIS",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-onca-de-pitangui-mg-prorroga-inscricoes-para-processo-seletivo",
+      "vagas": "11 vagas",
+      "visto_em": "2026-11-12"
+    },
     "07f98a5d1fee3fa1": {
       "cargos": [
         "Monitor educacional",
@@ -1783,6 +1807,24 @@
       "vagas": "120 vagas",
       "visto_em": "2026-10-15"
     },
+    "18a7540a70842fa1": {
+      "cargos": [
+        "Agente Comunitário de Saúde",
+        "Enfermeiro Plantonista",
+        "Médico Clínico Regulador"
+      ],
+      "escolaridade": "Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "18a7540a70842fa1",
+      "inscricao_ate": "2026-11-18",
+      "inscricao_texto": "18/11/2026",
+      "orgao": "Prefeitura de Dom Silvério",
+      "salario_ate": "R$ 4.824,42",
+      "uf": "MINAS GERAIS",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-dom-silverio-mg-abre-processo-seletivo-com-salarios-de-ate-4824",
+      "vagas": "6 vagas",
+      "visto_em": "2026-11-12"
+    },
     "19594eacee3caa6a": {
       "cargos": [
         "Fisioterapeuta",
@@ -2541,6 +2583,27 @@
       "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-luzia-doeste-ro-abre-selecao-com-salarios-de-ate-5130",
       "vagas": "34 vagas",
       "visto_em": "2026-10-28"
+    },
+    "22cc7380d4e9330e": {
+      "cargos": [
+        "Técnico Administrativo Nível Superior",
+        "Contador",
+        "Técnico Tecnologia da Informação",
+        "Jornalista",
+        "Psicóloga(o)",
+        "Agente Administrativo"
+      ],
+      "escolaridade": "Médio / Superior",
+      "fonte": "pci",
+      "id_unico": "22cc7380d4e9330e",
+      "inscricao_ate": "2026-12-17",
+      "inscricao_texto": "16/11 a 17/12/2026",
+      "orgao": "CRP/05 - Conselho Regional de Psicologia da 5ª Região",
+      "salario_ate": "R$ 7.313,35",
+      "uf": "RIO DE JANEIRO",
+      "url": "https://www.pciconcursos.com.br/noticias/crp-05-rj-abre-concurso-publico-com-salarios-de-ate-7313",
+      "vagas": "37 vagas",
+      "visto_em": "2026-11-12"
     },
     "22f5c75fff98ce90": {
       "cargos": [
@@ -5494,6 +5557,46 @@
       "vagas": "12 vagas",
       "visto_em": "2026-10-20"
     },
+    "5517bcf9f5cdceb4": {
+      "cargos": [
+        "Motorista",
+        "Auxiliar Operacional da Educação",
+        "Auxiliar de Serviços Gerais",
+        "Agente Administrativo",
+        "Auxiliar Administrativo",
+        "Professor Municipal - Anos Iniciais",
+        "Coordenador Pedagógico",
+        "Professor Municipal de Ciências da Natureza",
+        "Professor Municipal de Linguagens e Códigos",
+        "Professor Municipal de Ciências Humanas e Sociais",
+        "Professor Municipal de Ciências Exatas",
+        "Agente Comunitário de Saúde",
+        "Agente de Combate às Endemias",
+        "Técnico em Enfermagem",
+        "Auxiliar de Enfermagem",
+        "Auxiliar Operacional da Saúde",
+        "Enfermeiro",
+        "Pedreiro",
+        "Pintor",
+        "Guarda Municipal",
+        "Gari",
+        "Oficial Administrativo",
+        "Coveiro",
+        "Fiscal de Tributos",
+        "Agente de Tributos"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "5517bcf9f5cdceb4",
+      "inscricao_ate": "2026-11-16",
+      "inscricao_texto": "Prorrogado até 16/11/2026",
+      "orgao": "Prefeitura de Firmino Alves",
+      "salario_ate": "R$ 4.867,77",
+      "uf": "BAHIA",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-firmino-alves-ba-retifica-concurso-publico-com-salarios-de-ate-4867",
+      "vagas": "210 vagas",
+      "visto_em": "2026-11-12"
+    },
     "55a16f028c88d1c8": {
       "cargos": [
         "Auxiliar de Serviços Gerais II Limpeza (Feminino)",
@@ -6218,6 +6321,23 @@
       "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-agronomica-sc-abre-concurso-publico-com-salarios-de-ate-19660",
       "vagas": "17 vagas",
       "visto_em": "2026-11-03"
+    },
+    "614097d935afc4ca": {
+      "cargos": [
+        "Oficial de Manutenção",
+        "Técnico em Tecnologia da Informação"
+      ],
+      "escolaridade": "Médio / Superior",
+      "fonte": "pci",
+      "id_unico": "614097d935afc4ca",
+      "inscricao_ate": "2026-12-06",
+      "inscricao_texto": "16/11 a 06/12/2026",
+      "orgao": "Câmara de Carapicuíba",
+      "salario_ate": "R$ 5.295,09",
+      "uf": "SÃO PAULO",
+      "url": "https://www.pciconcursos.com.br/noticias/camara-de-carapicuiba-sp-abre-concurso-publico-para-oficial-de-manutencao-e-tecnico-em-tecnologia-da-informacao",
+      "vagas": "2 vagas",
+      "visto_em": "2026-11-12"
     },
     "61c2e64054f69438": {
       "cargos": [
@@ -7053,6 +7173,27 @@
       "vagas": "6 vagas",
       "visto_em": "2026-10-15"
     },
+    "6d3728e37bc349bb": {
+      "cargos": [
+        "Técnico Administrativo",
+        "Analista de Dados e Controle de Qualidade",
+        "Analista de Requisitos Processuais, Normativos, Econômicos, Financeiros e Políticas de Saúde",
+        "Analista Técnico em Edificações",
+        "Analista Técnico em Equipamentos",
+        "Gestor"
+      ],
+      "escolaridade": "Superior",
+      "fonte": "pci",
+      "id_unico": "6d3728e37bc349bb",
+      "inscricao_ate": "2026-12-14",
+      "inscricao_texto": "14/12/2026",
+      "orgao": "SAA MS - Subsecretaria de Assuntos Administrativos do Ministério da Saúde",
+      "salario_ate": "R$ 10.354,29",
+      "uf": "NACIONAL",
+      "url": "https://www.pciconcursos.com.br/noticias/saa-ms-abre-processo-seletivo-com-salarios-de-ate-10354",
+      "vagas": "300 vagas",
+      "visto_em": "2026-11-12"
+    },
     "6d774287e4b563bf": {
       "cargos": [
         "Assistente Social",
@@ -7355,6 +7496,32 @@
       "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-joao-del-rei-e-damae-mg-abrem-concursos-com-salarios-de-ate-6469",
       "vagas": "116 vagas",
       "visto_em": "2026-10-15"
+    },
+    "71c18f98b29baee2": {
+      "cargos": [
+        "Agente Administrativo",
+        "Agente de Combate a Endemias",
+        "Assistente Social",
+        "Atendente de Creche",
+        "Contador ou Técnico em Contabilidade",
+        "Instalador",
+        "Monitor de Escola e Transporte Escolar",
+        "Operário",
+        "Professor de Artes",
+        "Professor de Séries ou Anos Iniciais do Ensino Fundamental",
+        "Servente"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "71c18f98b29baee2",
+      "inscricao_ate": "2026-11-30",
+      "inscricao_texto": "30/11/2026",
+      "orgao": "Prefeitura de Guabiju",
+      "salario_ate": "R$ 6.483,36",
+      "uf": "RIO GRANDE DO SUL",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guabiju-rs-abre-concurso-publico-com-salarios-de-ate-6483",
+      "vagas": "5 vagas",
+      "visto_em": "2026-11-12"
     },
     "727ff745f31d128f": {
       "cargos": [
@@ -7680,6 +7847,71 @@
       "vagas": "11 vagas",
       "visto_em": "2026-10-15"
     },
+    "75774852ac2bedb2": {
+      "cargos": [
+        "Auxiliar de Farmácia - Área Urbana - Porto Velho",
+        "Auxiliar de Odontologia - Área Urbana - Porto Velho",
+        "Auxiliar de Serviço Veterinário - Área Urbana - Porto Velho",
+        "Auxiliar de Serviços de Saúde - Área Urbana - Porto Velho",
+        "Motorista de Veículos de Transporte de Cargas e Passageiros - Área Urbana - Porto Velho",
+        "Motorista de Veículos de Passeio e Duas Rodas - Área Urbana - Porto Velho",
+        "Agente de Combate às Endemias - Área Urbana - Porto Velho",
+        "Assistente Administrativo - Área Urbana - Porto Velho",
+        "Cuidador Social - Área Urbana - Porto Velho",
+        "Técnico em Enfermagem - Área Urbana - Porto Velho",
+        "Técnico em Higiene Dental - Área Urbana - Porto Velho",
+        "Técnico em Laboratório - Área Urbana",
+        "Técnico em Radiologia - Área Urbana - Porto Velho",
+        "Assistente Social - Área Urbana - Porto Velho",
+        "Biólogo - Área Urbana - Porto Velho",
+        "Biomédico - Área Urbana - Porto Velho",
+        "Bioquímico - Área Urbana - Porto Velho",
+        "Enfermeiro - Área Urbana - Porto Velho",
+        "Farmacêutico - Área Urbana - Porto Velho",
+        "Fisioterapeuta - Área Urbana - Porto Velho",
+        "Fonoaudiólogo - Área Urbana - Porto Velho",
+        "Médico 20 horas - Área Urbana - Porto Velho",
+        "Médico 40 horas - Área Urbana - Porto Velho",
+        "Médico Veterinário - Área Urbana - Porto Velho",
+        "Nutricionista - Área Urbana - Porto Velho",
+        "Odontólogo - Área Urbana - Porto Velho",
+        "Psicólogo - Área Urbana - Porto Velho",
+        "Terapeuta Ocupacional - Área Urbana - Porto Velho",
+        "Administrador Hospitalar - Área Urbana - Porto Velho",
+        "Enfermeiro do Trabalho - Área Urbana - Porto Velho",
+        "Médico Cardiologista - Área Urbana - Porto Velho",
+        "Médico Dermatologista - Área Urbana - Porto Velho",
+        "Médico do Trabalho - Área Urbana - Porto Velho",
+        "Médico Endocrinologista - Área Urbana - Porto Velho",
+        "Médico Endocrinopediatra - Área Urbana - Porto Velho",
+        "Médico Geriatra - Área Urbana - Porto Velho",
+        "Médico Ginecologista/Obstetra - Área Urbana - Porto Velho",
+        "Médico Infectologista - Área Urbana - Porto Velho",
+        "Médico Mastologista - Área Urbana - Porto Velho",
+        "Médico Nefrologista - Área Urbana - Porto Velho",
+        "Médico Neurologista - Área Urbana - Porto Velho",
+        "Médico Oftalmologista - Área Urbana - Porto Velho",
+        "Médico Oncologista - Área Urbana - Porto Velho",
+        "Médico Ortopedista - Área Urbana - Porto Velho",
+        "Médico Otorrinolaringologista - Área Urbana - Porto Velho",
+        "Médico Pediatra - Área Urbana - Porto Velho",
+        "Médico Pneumologista - Área Urbana - Porto Velho",
+        "Médico Psiquiatra - Área Urbana - Porto Velho",
+        "Médico Radiologista - Área Urbana - Porto Velho",
+        "Médico Urologista - Área Urbana - Porto Velho"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "75774852ac2bedb2",
+      "inscricao_ate": "2026-11-16",
+      "inscricao_texto": "Prorrogado até 16/11/2026",
+      "orgao": "SEMUSA - Secretaria Municipal de Saúde de Porto Velho",
+      "salario_ate": "R$ 9.828,19",
+      "uf": "RONDÔNIA",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-velho-ro-prorroga-inscricoes-para-concurso-publico",
+      "vagas": "1554 vagas",
+      "visto_em": "2026-11-12"
+    },
     "760e8aacbbd8d4de": {
       "cargos": [
         "Agente Comunitário de Saúde, microárea 02",
@@ -7835,6 +8067,33 @@
       "url": "https://www.pciconcursos.com.br/noticias/camara-de-sao-francisco-do-sul-sc-abre-concurso-publico-com-salarios-de-ate-10924",
       "vagas": "17 vagas",
       "visto_em": "2026-10-29"
+    },
+    "77d83409330ec1b4": {
+      "cargos": [
+        "Cuidador de Creche",
+        "Auxiliar de Desenvolvimento Infantil",
+        "Professor de Educação Básica I",
+        "Professor de Educação Básica II, Artes",
+        "Professor de Educação Básica II, Ciências",
+        "Professor de Educação Básica II, Educação Física",
+        "Professor de Educação Básica II, Geografia",
+        "Professor de Educação Básica II, História",
+        "Professor de Educação Básica II, Informática e Tecnologia",
+        "Professor de Educação Básica II, Língua Inglesa",
+        "Professor de Educação Básica II, Língua Portuguesa",
+        "Professor de Educação Básica II, Matemática"
+      ],
+      "escolaridade": "Médio / Superior",
+      "fonte": "pci",
+      "id_unico": "77d83409330ec1b4",
+      "inscricao_ate": "2026-12-07",
+      "inscricao_texto": "07/12/2026",
+      "orgao": "Prefeitura de Estiva Gerbi",
+      "salario_ate": "R$ 3.890,27",
+      "uf": "SÃO PAULO",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-estiva-gerbi-sp-abre-processo-seletivo-para-area-da-educacao",
+      "vagas": "12 vagas",
+      "visto_em": "2026-11-12"
     },
     "787b4a569996c547": {
       "cargos": [
@@ -8298,6 +8557,67 @@
       "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-domingos-sc-abre-concurso-publico-com-salarios-de-ate-7949",
       "vagas": "36 vagas",
       "visto_em": "2026-10-15"
+    },
+    "7d4effb4a5f66c09": {
+      "cargos": [
+        "Pedreiro",
+        "Servente",
+        "Serviços Gerais",
+        "Monitor de Creche",
+        "Monitor de Esportes",
+        "Técnico em Enfermagem",
+        "Tratorista",
+        "Enfermeiro",
+        "Médico Plantonista",
+        "PEB I: Educação Infantil",
+        "PEB I: Ensino Fundamental do 1º ao 5º ano",
+        "Psicólogo",
+        "Técnico Desportivo"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "7d4effb4a5f66c09",
+      "inscricao_ate": "2026-11-26",
+      "inscricao_texto": "26/11/2026",
+      "orgao": "Prefeitura de Corumbataí",
+      "salario_ate": "R$ 14.955,58",
+      "uf": "SÃO PAULO",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-corumbatai-sp-abre-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva",
+      "vagas": "13 vagas",
+      "visto_em": "2026-11-12"
+    },
+    "7d82190b74a5c4f5": {
+      "cargos": [
+        "Assistente Social, nível I",
+        "Psicólogo, nível I",
+        "Apoio Administrativo Educacional, limpeza",
+        "Apoio Administrativo Educacional, nutrição",
+        "Professor II, Pedagogia",
+        "Técnico Administrativo Educacional, secretário escolar",
+        "Técnico ou Auxiliar de Desenvolvimento Infantil e Educação Especial, 20 horas",
+        "Técnico ou Auxiliar de Desenvolvimento Infantil e Educação Especial, 40 horas",
+        "Auxiliar Administrativo",
+        "Auxiliar de Consultório Odontológico",
+        "Auxiliar de Serviços Gerais",
+        "Enfermeiro",
+        "Técnico em Enfermagem",
+        "Vigia",
+        "Zeladora",
+        "Técnico ou Auxiliar de Desenvolvimento Infantil e Educação Especial",
+        "Professor II, Letras",
+        "Professor II, Matemática"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "7d82190b74a5c4f5",
+      "inscricao_ate": "2026-11-30",
+      "inscricao_texto": "16 a 30/11/2026",
+      "orgao": "Prefeitura de Nova Ubiratã",
+      "salario_ate": "R$ 6.562,12",
+      "uf": "MATO GROSSO",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-nova-ubirata-mt-abre-selecao-com-vagas-e-cadastro-de-reserva-em-diversos-cargos",
+      "vagas": "66 vagas",
+      "visto_em": "2026-11-12"
     },
     "7de19f26b8dd4838": {
       "cargos": [
@@ -8817,6 +9137,37 @@
       "url": "https://www.pciconcursos.com.br/noticias/cetesb-sp-abre-concursos-publicos-para-diversos-cargos",
       "vagas": "107 vagas",
       "visto_em": "2026-11-10"
+    },
+    "89da7911e3a8bd47": {
+      "cargos": [
+        "Professor substituto temporário",
+        "Nutricionista",
+        "Psicólogo",
+        "Odontólogo",
+        "Farmacêutico",
+        "Auxiliar de Saúde Bucal",
+        "Assistente Social",
+        "Médico",
+        "Auxiliar de Pedreiro",
+        "Eletricista",
+        "Técnico em Segurança do Trabalho",
+        "Operador de Máquinas",
+        "Mecânico",
+        "Calceteiro",
+        "Cuidador Social",
+        "Técnico em Informática (T.I.)"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "89da7911e3a8bd47",
+      "inscricao_ate": "2026-11-16",
+      "inscricao_texto": "Prorrogado até 16/11/2026",
+      "orgao": "Prefeitura de Firmino Alves",
+      "salario_ate": "R$ 8.000,00",
+      "uf": "BAHIA",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-firmino-alves-ba-prorroga-inscricoes-para-processo-seletivo",
+      "vagas": "50 vagas",
+      "visto_em": "2026-11-12"
     },
     "8a340138c7a85a45": {
       "cargos": [
@@ -10720,6 +11071,26 @@
       "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-matao-sp-abre-concurso-publico-com-salarios-de-ate-17433",
       "vagas": "44 vagas",
       "visto_em": "2026-10-15"
+    },
+    "a13d7d383f9a65fe": {
+      "cargos": [
+        "Auxiliar de Serviços",
+        "Motorista",
+        "Vigilante",
+        "Auxiliar de expediente",
+        "Auxiliar de Finanças"
+      ],
+      "escolaridade": "Fundamental / Médio",
+      "fonte": "pci",
+      "id_unico": "a13d7d383f9a65fe",
+      "inscricao_ate": "2026-12-27",
+      "inscricao_texto": "23/11 a 27/12/2026",
+      "orgao": "Câmara de Picuí",
+      "salario_ate": "R$ 3.900,00",
+      "uf": "PARAÍBA",
+      "url": "https://www.pciconcursos.com.br/noticias/camara-de-picui-pb-abre-concurso-publico-com-salarios-de-ate-3900",
+      "vagas": "7 vagas",
+      "visto_em": "2026-11-12"
     },
     "a18108a36a39a5e7": {
       "cargos": [
@@ -12757,6 +13128,34 @@
       "vagas": "139 vagas",
       "visto_em": "2026-11-07"
     },
+    "be0058e9227f3928": {
+      "cargos": [
+        "Administrador",
+        "Analista de Tecnologia da Informação Desenvolvedor Python",
+        "Arquiteto e Urbanista",
+        "Economista",
+        "Enfermeiro",
+        "Engenheiro Civil",
+        "Estatístico",
+        "Médico",
+        "Nutricionista",
+        "Odontólogo",
+        "Técnico em Assuntos Educacionais",
+        "Técnico de Laboratório área Biologia",
+        "Assistente em Administração"
+      ],
+      "escolaridade": "Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "be0058e9227f3928",
+      "inscricao_ate": "2026-12-21",
+      "inscricao_texto": "19/11 a 21/12/2026",
+      "orgao": "IFFar - Instituto Federal de Educação, Ciência e Tecnologia Farroupilha",
+      "salario_ate": "R$ 4.976,27",
+      "uf": "RIO GRANDE DO SUL",
+      "url": "https://www.pciconcursos.com.br/noticias/iffar-rs-abre-concurso-publico-com-vagas-para-diversas-areas",
+      "vagas": "30 vagas",
+      "visto_em": "2026-11-12"
+    },
     "befd554c623b3567": {
       "cargos": [
         "Analista de Contabilidade",
@@ -13155,6 +13554,35 @@
       "url": "https://www.pciconcursos.com.br/noticias/crbio-01-sp-mt-e-ms-abre-concurso-publico-com-salarios-de-ate-7181",
       "vagas": "15 vagas",
       "visto_em": "2026-10-15"
+    },
+    "c7887873443b35b6": {
+      "cargos": [
+        "Servente de Obras",
+        "Motorista II (Caminhão)",
+        "Motorista III (Ônibus)",
+        "Cozinheiro",
+        "Servente de Limpeza",
+        "Operador de Máquinas Pesadas",
+        "Monitor de Educação Infantil",
+        "Agente Comunitário de Saúde da UBS São Luiz",
+        "Agente Comunitário de Saúde da UBS Expocentro",
+        "Enfermeiro",
+        "Fonoaudiólogo",
+        "Médico Psiquiatra 10h",
+        "Médico Psiquiatra 20h",
+        "Médico Pediatra 20h"
+      ],
+      "escolaridade": "Fundamental / Médio / Superior",
+      "fonte": "pci",
+      "id_unico": "c7887873443b35b6",
+      "inscricao_ate": "2026-12-16",
+      "inscricao_texto": "16/11 a 16/12/2026",
+      "orgao": "Prefeitura do Município de Curitibanos",
+      "salario_ate": "R$ 13.096,78",
+      "uf": "SANTA CATARINA",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-curitibanos-sc-abre-concurso-publico-com-salarios-de-ate-13096",
+      "vagas": "14 vagas",
+      "visto_em": "2026-11-12"
     },
     "c7a6805bd57f0f22": {
       "cargos": [
@@ -16976,6 +17404,41 @@
       "vagas": "2 vagas",
       "visto_em": "2026-10-29"
     },
+    "f875cbbf152fc29c": {
+      "cargos": [
+        "Agente de Serviços Gerais",
+        "Atendente de Consultório Dentário",
+        "Assistente Social",
+        "Guarda",
+        "Monitor de Ensino",
+        "Monitor de Transporte Escolar",
+        "Professor de Anos Iniciais",
+        "Professor de Educação Infantil",
+        "Professor de Arte",
+        "Professor de Educação Física",
+        "Professor de Geografia",
+        "Professor de Ciências",
+        "Professor de Dança Gaúcha",
+        "Professor de História",
+        "Professor de Inglês",
+        "Professor de Língua Portuguesa",
+        "Professor de Matemática",
+        "Psicólogo, jornada de 40 horas",
+        "Psicólogo, jornada de 20 horas",
+        "Técnico em Informática"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "f875cbbf152fc29c",
+      "inscricao_ate": "2026-11-16",
+      "inscricao_texto": "16/11/2026",
+      "orgao": "Prefeitura de Barra do Guarita",
+      "salario_ate": "R$ 4.059,98",
+      "uf": "RIO GRANDE DO SUL",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-barra-do-guarita-rs-abre-processo-seletivo-com-salarios-de-ate-4059",
+      "vagas": "65 vagas",
+      "visto_em": "2026-11-12"
+    },
     "f87e749e11a093b4": {
       "cargos": [
         "1º Ten BM Médico Cardiologista",
@@ -17617,6 +18080,6 @@
       "visto_em": "2026-11-04"
     }
   },
-  "total": 494,
+  "total": 510,
   "versao": 1
 }
