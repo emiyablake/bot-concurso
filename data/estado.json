@@ -90,6 +90,26 @@
       "vagas": "57 vagas",
       "visto_em": "2026-10-15"
     },
+    "0346e89e3db76e93": {
+      "cargos": [
+        "Administração",
+        "Arquitetura",
+        "Contabilidade",
+        "Engenharia Civil",
+        "Engenharia Elétrica"
+      ],
+      "escolaridade": "Superior",
+      "fonte": "pci",
+      "id_unico": "0346e89e3db76e93",
+      "inscricao_ate": "2026-12-14",
+      "inscricao_texto": "16/11 a 14/12/2026",
+      "orgao": "Prefeitura de Porto Alegre",
+      "salario_ate": "R$ 2.500,00",
+      "uf": "RIO GRANDE DO SUL",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-porto-alegre-rs-abre-selecao-para-programa-de-residencia-tecnico-superior",
+      "vagas": "37 vagas",
+      "visto_em": "2026-11-14"
+    },
     "03d37cbb23e21b0c": {
       "cargos": [
         "Assistente Administrativo",
@@ -3486,6 +3506,33 @@
       "vagas": "5156 vagas",
       "visto_em": "2026-10-15"
     },
+    "2dcfb363ecb2c830": {
+      "cargos": [
+        "Farmacêutico",
+        "Farmacêutico/Bioquímico",
+        "Odontólogo",
+        "Nutricionista",
+        "Fisioterapeuta",
+        "Enfermeiro",
+        "Técnico em Enfermagem",
+        "Técnico de Raio X",
+        "Agente Comunitário de Saúde, microárea 34",
+        "Agente Comunitário de Saúde, microárea 56",
+        "Assistente Administrativo",
+        "Auxiliar de Serviços Gerais"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "2dcfb363ecb2c830",
+      "inscricao_ate": "2026-12-01",
+      "inscricao_texto": "17/11 a 01/12/2026",
+      "orgao": "Prefeitura de Comodoro",
+      "salario_ate": "R$ 7.929,74",
+      "uf": "MATO GROSSO",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-comodoro-mt-abre-selecao-para-formacao-de-cadastro-de-reserva-na-saude",
+      "vagas": "39 vagas",
+      "visto_em": "2026-11-14"
+    },
     "2e00847833e8b3b3": {
       "cargos": [
         "Sepultador",
@@ -4318,6 +4365,95 @@
       "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tio-hugo-rs-abre-concurso-com-vagas-imediatas-e-cadastro-de-reserva",
       "vagas": "66 vagas",
       "visto_em": "2026-10-15"
+    },
+    "417b2be41fcc0aa7": {
+      "cargos": [
+        "Administrador",
+        "Agente Administrativo",
+        "Arquiteto e Urbanista",
+        "Assistente Social",
+        "Atendente",
+        "Auditor de Controle Interno",
+        "Auditor Fiscal Tributário",
+        "Auxiliar de Consultório Médico",
+        "Auxiliar de Creche",
+        "Auxiliar de Farmácia",
+        "Auxiliar de Laboratório",
+        "Auxiliar de Saúde Bucal",
+        "Auxiliar de Serviços Gerais",
+        "Bibliotecário",
+        "Bombeiro Hidráulico",
+        "Calceteiro",
+        "Contador",
+        "Coveiro",
+        "Cozinheiro",
+        "Cuidador Especial",
+        "Educador Físico",
+        "Educador Social",
+        "Eletricista",
+        "Enfermeiro",
+        "Engenheiro Agrônomo",
+        "Engenheiro Civil",
+        "Engenheiro de Segurança do Trabalho",
+        "Farmacêutico",
+        "Fiscal de Tributos",
+        "Fiscal Sanitário",
+        "Fiscal Urbano",
+        "Fisioterapeuta",
+        "Fonoaudiólogo",
+        "Mecânico",
+        "Médico Alergista",
+        "Médico Angiologista",
+        "Médico Cardiologista",
+        "Médico Clínica Médica",
+        "Médico do Trabalho",
+        "Médico Endocrinologista",
+        "Médico Epidemiologista",
+        "Médico Generalista",
+        "Médico Ginecologista Obstetra",
+        "Médico Neurologista",
+        "Médico Neuropediatra",
+        "Médico Ortopedista",
+        "Médico Pediatra",
+        "Médico Psiquiatra",
+        "Médico Urologista",
+        "Médico Veterinário",
+        "Motorista",
+        "Nutricionista",
+        "Odontólogo",
+        "Operador de Máquinas Pesadas",
+        "Ouvidor",
+        "Pedagogo",
+        "Pedreiro",
+        "Procurador Municipal",
+        "Professor Base Nacional Comum (1º ao 5º ano do EF)",
+        "Professor de Arte",
+        "Professor de Educação Física",
+        "Professor de Educação Infantil (Creche e Pré-Escola)",
+        "Professor de Ensino Religioso",
+        "Psicólogo",
+        "Técnico em Administração",
+        "Técnico em Contabilidade",
+        "Técnico em Edificações",
+        "Técnico em Enfermagem",
+        "Técnico em Informática",
+        "Técnico em Laboratório",
+        "Técnico em Radiologia",
+        "Técnico em Segurança do Trabalho",
+        "Trabalhador Braçal",
+        "Vigia"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "417b2be41fcc0aa7",
+      "inscricao_ate": "2026-12-08",
+      "inscricao_texto": "19/11 a 08/12/2026",
+      "orgao": "Prefeitura de Muqui",
+      "salario_ate": "R$ 4.554,00",
+      "uf": "ESPÍRITO SANTO",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-muqui-es-abre-concurso-publico-com-diversas-vagas",
+      "vagas": "157 vagas",
+      "visto_em": "2026-11-14"
     },
     "418b6326a0425bd4": {
       "cargos": [
@@ -5321,6 +5457,22 @@
       "vagas": "12 vagas",
       "visto_em": "2026-10-24"
     },
+    "4ee826ccf00e93e7": {
+      "cargos": [
+        "Agente de Defesa Civil"
+      ],
+      "escolaridade": "Médio / Superior",
+      "fonte": "pci",
+      "id_unico": "4ee826ccf00e93e7",
+      "inscricao_ate": "2026-11-27",
+      "inscricao_texto": "23 a 27/11/2026",
+      "orgao": "Prefeitura de João Neiva",
+      "salario_ate": "R$ 4.233,80",
+      "uf": "ESPÍRITO SANTO",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-joao-neiva-es-abre-processo-seletivo-com-salarios-de-ate-4233",
+      "vagas": "1 vaga",
+      "visto_em": "2026-11-14"
+    },
     "4f2b79ae015f0d80": {
       "cargos": [
         "Motorista",
@@ -5876,6 +6028,37 @@
       "url": "https://www.pciconcursos.com.br/noticias/camara-de-ponta-pora-ms-retifica-edital-de-concurso-publico",
       "vagas": "19 vagas",
       "visto_em": "2026-10-15"
+    },
+    "565efd6528462b19": {
+      "cargos": [
+        "Servente",
+        "Profissional de Apoio Escolar Ensino Fundamental",
+        "Profissional de Apoio Escolar Educação Infantil",
+        "Monitor de Transporte Escolar",
+        "Professor B",
+        "Professor B - Educação Infantil",
+        "Professor B - Intérprete de Libras - Educação Infantil e Ensino Fundamental (anos iniciais e finais)",
+        "Professor B - Arte - Educação Infantil e Ensino Fundamental (anos iniciais e finais)",
+        "Professor B - Língua Portuguesa - Ensino Fundamental (anos finais)",
+        "Professor B - Matemática - Ensino Fundamental (anos finais)",
+        "Professor B - História - Ensino Fundamental (anos finais)",
+        "Professor B - Educação Especial",
+        "Professor B - Língua Inglesa",
+        "Professor B - Ciências - Ensino Fundamental (anos finais)",
+        "Professor B - Educação Física",
+        "Nutricionista"
+      ],
+      "escolaridade": "Fundamental / Médio / Superior",
+      "fonte": "pci",
+      "id_unico": "565efd6528462b19",
+      "inscricao_ate": "2026-12-06",
+      "inscricao_texto": "27/11 a 06/12/2026",
+      "orgao": "Prefeitura de Schroeder",
+      "salario_ate": "R$ 5.643,69",
+      "uf": "SANTA CATARINA",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-schroeder-sc-abre-selecao-para-a-secretaria-municipal-de-educacao",
+      "vagas": "16 vagas",
+      "visto_em": "2026-11-14"
     },
     "56f7497602ee716b": {
       "cargos": [
@@ -7505,6 +7688,27 @@
       "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-comodoro-mt-abre-novos-editais-de-concurso-e-processo-seletivo",
       "vagas": "219 vagas",
       "visto_em": "2026-10-15"
+    },
+    "6def250ad6b93c4c": {
+      "cargos": [
+        "Auxiliar de Serviços Gerais",
+        "Vigia",
+        "Assistente Administrativo",
+        "Motorista, com CNH nas categorias A e B",
+        "Tradutor, Intérprete e Guia-Intérprete de Libras",
+        "Agente de Contratação"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "6def250ad6b93c4c",
+      "inscricao_ate": "2026-12-18",
+      "inscricao_texto": "18/11 a 18/12/2026",
+      "orgao": "Câmara de Paraíso do Tocantins",
+      "salario_ate": "R$ 6.244,07",
+      "uf": "TOCANTINS",
+      "url": "https://www.pciconcursos.com.br/noticias/camara-de-paraiso-do-tocantins-to-abre-concurso-publico-com-salarios-de-ate-6244",
+      "vagas": "14 vagas",
+      "visto_em": "2026-11-14"
     },
     "6f6fc2be4c68dd6c": {
       "cargos": [
@@ -9183,6 +9387,36 @@
       "vagas": "46 vagas",
       "visto_em": "2026-10-17"
     },
+    "85e321de0e3c754a": {
+      "cargos": [
+        "Auxiliar de Serviços Gerais",
+        "Merendeira",
+        "Motorista de Ônibus",
+        "Assistente Social",
+        "Fonoaudiólogo",
+        "Professor de Artes",
+        "Professor de Musicalização",
+        "Professor de Robótica",
+        "Professor do Atendimento Educacional Especializado",
+        "Professor Habilitado - Ensino Fundamental",
+        "Professor Habilitado - Educação Infantil, 20 horas semanais",
+        "Professor Habilitado - Educação Infantil, 30 horas semanais",
+        "Professor Habilitado - Língua Inglesa",
+        "Psicólogo",
+        "Terapeuta Ocupacional"
+      ],
+      "escolaridade": "Fundamental / Superior",
+      "fonte": "pci",
+      "id_unico": "85e321de0e3c754a",
+      "inscricao_ate": "2026-12-15",
+      "inscricao_texto": "16/11 a 15/12/2026",
+      "orgao": "Prefeitura de Canelinha",
+      "salario_ate": "R$ 4.182,55",
+      "uf": "SANTA CATARINA",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-canelinha-sc-abre-novo-concurso-publico-para-diversos-cargos",
+      "vagas": "27 vagas",
+      "visto_em": "2026-11-14"
+    },
     "866ff8b0dab5d7ad": {
       "cargos": [
         "Auxiliar de Serviços Gerais - Feminino",
@@ -10331,6 +10565,22 @@
       "vagas": "10 vagas",
       "visto_em": "2026-11-06"
     },
+    "94ca5f63684ec99e": {
+      "cargos": [
+        "Agente Coletor de Lixo"
+      ],
+      "escolaridade": "Fundamental / Superior",
+      "fonte": "pci",
+      "id_unico": "94ca5f63684ec99e",
+      "inscricao_ate": "2026-12-01",
+      "inscricao_texto": "16/11 a 01/12/2026",
+      "orgao": "Prefeitura de Ouroeste",
+      "salario_ate": "R$ 1.980,00",
+      "uf": "SÃO PAULO",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ouroeste-sp-abre-selecao-para-agentes-coletores-de-lixo-e-professores",
+      "vagas": "6 vagas",
+      "visto_em": "2026-11-14"
+    },
     "95005dbdfbc089fa": {
       "cargos": [
         "Agente Comunitário de Saúde (Área 2 ESF Vila Verde)",
@@ -10854,6 +11104,22 @@
       "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-anchieta-es-abre-concurso-publico-com-salarios-de-ate-7362",
       "vagas": "33 vagas",
       "visto_em": "2026-11-06"
+    },
+    "9cd0a10a5397929e": {
+      "cargos": [
+        "Analista de Tecnologia da Informação"
+      ],
+      "escolaridade": "Superior",
+      "fonte": "pci",
+      "id_unico": "9cd0a10a5397929e",
+      "inscricao_ate": "2026-12-17",
+      "inscricao_texto": "23/11 a 17/12/2026",
+      "orgao": "APS - Associação das Pioneiras Sociais",
+      "salario_ate": "R$ 14.972,56",
+      "uf": "NACIONAL",
+      "url": "https://www.pciconcursos.com.br/noticias/associacao-das-pioneiras-sociais-abre-processo-seletivo-para-analista-de-tecnologia-da-informacao",
+      "vagas": "11 vagas",
+      "visto_em": "2026-11-14"
     },
     "9cd34f42ae810109": {
       "cargos": [
@@ -13357,6 +13623,25 @@
       "vagas": "139 vagas",
       "visto_em": "2026-11-07"
     },
+    "bd0d89ac1322b95f": {
+      "cargos": [
+        "Agente de Apoio Operacional",
+        "Técnico Ambiental",
+        "Analista Administrativo",
+        "Contador"
+      ],
+      "escolaridade": "Fundamental / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "bd0d89ac1322b95f",
+      "inscricao_ate": "2026-11-19",
+      "inscricao_texto": "Prorrogado até 19/11/2026",
+      "orgao": "FJPO - Fundação José Pedro de Oliveira",
+      "salario_ate": "R$ 8.991,96",
+      "uf": "SÃO PAULO",
+      "url": "https://www.pciconcursos.com.br/noticias/fundacao-jose-pedro-de-oliveira-sp-prorroga-inscricoes-para-concurso-publico",
+      "vagas": "4 vagas",
+      "visto_em": "2026-11-14"
+    },
     "be0058e9227f3928": {
       "cargos": [
         "Administrador",
@@ -14263,6 +14548,35 @@
       "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-luzerna-sc-abre-concurso-publico-com-salarios-de-ate-14004",
       "vagas": "4 vagas",
       "visto_em": "2026-11-03"
+    },
+    "cd2323805739843d": {
+      "cargos": [
+        "Assistente Técnico Pedagógico",
+        "Auxiliar de Apoio Escolar \"B\"",
+        "Professor de Arte",
+        "Professor de Ciências",
+        "Professor de Educação Física",
+        "Professor de Educação Infantil",
+        "Professor de Ensino Religioso",
+        "Professor de Geografia",
+        "Professor de História",
+        "Professor de Língua Portuguesa",
+        "Professor de Séries Iniciais para 1º Ano do Ensino Fundamental",
+        "Professor de Séries Iniciais para 2º ao 5º Ano do Ensino Fundamental",
+        "Professor do Atendimento Educacional Especializado (AEE)",
+        "Profissional de Apoio à Inclusão (Segundo Professor)"
+      ],
+      "escolaridade": "Médio / Superior",
+      "fonte": "pci",
+      "id_unico": "cd2323805739843d",
+      "inscricao_ate": "2026-11-30",
+      "inscricao_texto": "30/11/2026",
+      "orgao": "Prefeitura de Correia Pinto",
+      "salario_ate": "R$ 5.180,14",
+      "uf": "SANTA CATARINA",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-correia-pinto-sc-abre-concurso-publico-na-area-da-educacao",
+      "vagas": "29 vagas",
+      "visto_em": "2026-11-14"
     },
     "cd34df65a573aff1": {
       "cargos": [
@@ -16297,6 +16611,40 @@
       "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-barao-de-cotegipe-rs-altera-periodo-de-inscricoes-para-concurso-publico",
       "vagas": "26 vagas",
       "visto_em": "2026-10-15"
+    },
+    "e55f3fbce6d728bf": {
+      "cargos": [
+        "Auxiliar de Ensino 40 horas",
+        "Auxiliar de Ensino 20 horas",
+        "Auxiliar Administrativo",
+        "Pedagogo Anos Iniciais",
+        "Supervisor Educacional",
+        "Professor do Atendimento Educacional Especializado AEE",
+        "Psicopedagogo",
+        "Professor Nível II - Artes",
+        "Professor Nível II - Ensino Religioso",
+        "Professor Nível II - Ciências",
+        "Professor Nível II - Geografia",
+        "Professor Nível II - História",
+        "Professor Nível II - Língua Inglesa",
+        "Professor Nível II - Língua Portuguesa",
+        "Professor Nível II - Matemática",
+        "Professor Nível II - Educação Física",
+        "Intérprete de Libras",
+        "Psicólogo",
+        "Assistente Social"
+      ],
+      "escolaridade": "Médio / Superior",
+      "fonte": "pci",
+      "id_unico": "e55f3fbce6d728bf",
+      "inscricao_ate": "2026-11-24",
+      "inscricao_texto": "17 a 24/11/2026",
+      "orgao": "Prefeitura de Upanema",
+      "salario_ate": "R$ 3.610,20",
+      "uf": "RIO GRANDE DO NORTE",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-upanema-rn-abre-selecao-para-profissionais-da-educacao",
+      "vagas": "92 vagas",
+      "visto_em": "2026-11-14"
     },
     "e585b4fc86b0a0dc": {
       "cargos": [
@@ -18390,6 +18738,6 @@
       "visto_em": "2026-11-04"
     }
   },
-  "total": 521,
+  "total": 533,
   "versao": 1
 }
