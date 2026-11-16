@@ -746,6 +746,83 @@
       "vagas": "348 vagas",
       "visto_em": "2026-10-15"
     },
+    "0cb784d3dd89ea52": {
+      "cargos": [
+        "Analista de Controle Interno - Área Direito",
+        "Agente de Cultura",
+        "Arquiteto",
+        "Assistente Social",
+        "Contador",
+        "Engenheiro Agrônomo com Formação Pedagógica",
+        "Engenheiro Civil",
+        "Engenheiro Eletricista",
+        "Fiscal de Obras e Infraestrutura",
+        "Fiscal Sanitário",
+        "Fiscal Tributário",
+        "Fisioterapeuta",
+        "Fonoaudiólogo",
+        "Geólogo",
+        "Médico Auditor",
+        "Médico Dermatologista",
+        "Médico do Trabalho",
+        "Médico Geral Comunitário",
+        "Médico Gineco-Obstetra",
+        "Médico Pediatra",
+        "Médico Plantonista",
+        "Médico Psiquiatra",
+        "Médico Radiologista",
+        "Médico Veterinário",
+        "Médico Veterinário com Formação Pedagógica",
+        "Nutricionista",
+        "Pedagogo",
+        "Procurador",
+        "Professor de Arte",
+        "Professor de Atendimento Educacional Especializado",
+        "Professor de Educação Física",
+        "Professor de Geografia",
+        "Professor de História",
+        "Professor de Língua Portuguesa",
+        "Professor de Matemática",
+        "Professor de Música",
+        "Psicólogo",
+        "Turismólogo",
+        "Zootecnista com Formação Pedagógica",
+        "Técnico em Enfermagem",
+        "Técnico de Topografia",
+        "Técnico em Contabilidade",
+        "Agente Comunitário de Saúde",
+        "Agente de Trânsito",
+        "Agente de Vigilância em Saúde",
+        "Almoxarife",
+        "Assessor Administrativo",
+        "Atendente de Consultório Dentário",
+        "Auxiliar da Educação Inclusiva e de Ensino Fundamental",
+        "Auxiliar de Educação Infantil",
+        "Cozinheiro",
+        "Instrutor de Banda Marcial",
+        "Motorista",
+        "Músico Saxofone Barítono Eb",
+        "Músico Saxofone Tenor Bb",
+        "Operador de Máquinas",
+        "Orientador Social",
+        "Professor de Anos Iniciais do Ensino Fundamental",
+        "Professor de Educação Infantil (20h)",
+        "Professor de Educação Infantil Pré-Escola",
+        "Secretário de Escola",
+        "Operário"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "0cb784d3dd89ea52",
+      "inscricao_ate": "2026-11-19",
+      "inscricao_texto": "Prorrogado até 19/11/2026",
+      "orgao": "Prefeitura de Ijuí",
+      "salario_ate": "R$ 21.312,22",
+      "uf": "RIO GRANDE DO SUL",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ijui-rs-retifica-edital-de-concurso-publico",
+      "vagas": "157 vagas",
+      "visto_em": "2026-11-16"
+    },
     "0d373fffaa9f43eb": {
       "cargos": [
         "Cozinheira",
@@ -1583,6 +1660,27 @@
       "url": "https://www.pciconcursos.com.br/noticias/sudecap-mg-abre-processo-seletivo-com-salarios-de-ate-9375",
       "vagas": "27 vagas",
       "visto_em": "2026-11-10"
+    },
+    "1465eb0454173602": {
+      "cargos": [
+        "Monitor de Creche",
+        "Monitor Escolar",
+        "Pedagogo (CRAS)",
+        "Pedreiro",
+        "Pintor",
+        "Professor de Inglês F1"
+      ],
+      "escolaridade": "Fundamental / Médio / Superior",
+      "fonte": "pci",
+      "id_unico": "1465eb0454173602",
+      "inscricao_ate": "2026-11-19",
+      "inscricao_texto": "19/11/2026",
+      "orgao": "Prefeitura de Tocos do Moji",
+      "salario_ate": "R$ 3.356,17",
+      "uf": "MINAS GERAIS",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-tocos-do-moji-mg-abre-processo-seletivo-com-salarios-de-ate-3356",
+      "vagas": "16 vagas",
+      "visto_em": "2026-11-16"
     },
     "14a27f74ebccd6a7": {
       "cargos": [
@@ -3780,6 +3878,29 @@
       "vagas": "4 vagas",
       "visto_em": "2026-10-24"
     },
+    "331dae54e7570795": {
+      "cargos": [
+        "Professor de Educação Infantil",
+        "Professor de Educação Infantil no Distrito de Indianópolis",
+        "Professor de Educação Infantil no Distrito de Vale dos Sonhos",
+        "Professor de Anos Iniciais",
+        "Professor de Anos Iniciais no Distrito de Indianópolis",
+        "Professor de Anos Iniciais no Distrito de Vale dos Sonhos",
+        "Profissional de Apoio à Educação Infantil",
+        "Profissional de Apoio à Inclusão Escolar"
+      ],
+      "escolaridade": "Médio / Superior",
+      "fonte": "pci",
+      "id_unico": "331dae54e7570795",
+      "inscricao_ate": "2027-01-07",
+      "inscricao_texto": "18/11/2026 a 07/01/2027",
+      "orgao": "Prefeitura de Barra do Garças",
+      "salario_ate": "R$ 5.771,96",
+      "uf": "MATO GROSSO",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-barra-do-garcas-mt-abre-concurso-publico-com-vagas-na-educacao",
+      "vagas": "387 vagas",
+      "visto_em": "2026-11-16"
+    },
     "335b1f72e22784d5": {
       "cargos": [
         "Medicina - Auditoria Médica, São Paulo - SP",
@@ -3875,6 +3996,27 @@
       "url": "https://www.pciconcursos.com.br/noticias/marinha-do-brasil-am-e-ro-abre-processo-seletivo-para-oficiais-temporarios-de-nivel-superior",
       "vagas": "23 vagas",
       "visto_em": "2026-10-15"
+    },
+    "37bbfc0b9c3e8833": {
+      "cargos": [
+        "Professor de Ensino Fundamental",
+        "Auxiliar de Serviços Gerais (Zelador)",
+        "Vigia (Agente de Portaria)",
+        "Monitor de Alunos",
+        "Merendeira",
+        "Cuidador de Alunos com Deficiência/Assistente Terapêutico"
+      ],
+      "escolaridade": "Fundamental / Médio / Superior",
+      "fonte": "pci",
+      "id_unico": "37bbfc0b9c3e8833",
+      "inscricao_ate": "2026-11-26",
+      "inscricao_texto": "26/11/2026",
+      "orgao": "Prefeitura de Coronel José Dias",
+      "salario_ate": "R$ 2.434,00",
+      "uf": "PIAUÍ",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-coronel-jose-dias-pi-abre-processo-seletivo-com-seis-vagas",
+      "vagas": "6 vagas",
+      "visto_em": "2026-11-16"
     },
     "37f3618d1d69054b": {
       "cargos": [
@@ -8453,6 +8595,27 @@
       "vagas": "17 vagas",
       "visto_em": "2026-10-29"
     },
+    "773a5f7da2e36f7b": {
+      "cargos": [
+        "Médico Generalista",
+        "Médico Dermatologista",
+        "Auxiliar Administrativo",
+        "Técnico em Farmácia",
+        "Técnico em Nutrição e Dietética",
+        "Técnico em Patologia Clínica"
+      ],
+      "escolaridade": "Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "773a5f7da2e36f7b",
+      "inscricao_ate": "2026-11-23",
+      "inscricao_texto": "23/11/2026",
+      "orgao": "FHEMIG - Fundação Hospitalar do Estado de Minas Gerais",
+      "salario_ate": "R$ 7.040,85",
+      "uf": "MINAS GERAIS",
+      "url": "https://www.pciconcursos.com.br/noticias/fhemig-mg-abre-processos-seletivos-em-betim-e-belo-horizonte",
+      "vagas": "10 vagas",
+      "visto_em": "2026-11-16"
+    },
     "77d83409330ec1b4": {
       "cargos": [
         "Cuidador de Creche",
@@ -9316,6 +9479,37 @@
       "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-rita-de-jacutinga-mg-abre-concurso-publico-com-salarios-de-ate-10207",
       "vagas": "73 vagas",
       "visto_em": "2026-10-23"
+    },
+    "85b76dc25fbdbfed": {
+      "cargos": [
+        "Assistente de Alunos",
+        "Assistente em Administração",
+        "Técnico em Agropecuária",
+        "Técnico em Contabilidade",
+        "Técnico de Laboratório/Área Edificações",
+        "Técnico de Laboratório/Área Topografia",
+        "Técnico de Laboratório/Área Eletrônica",
+        "Técnico de Laboratório/Área Informática",
+        "Técnico de Laboratório/Área Química",
+        "Técnico de Laboratório/Área Mineração",
+        "Técnico de Tecnologia da Informação",
+        "Analista de Tecnologia da Informação",
+        "Auditor",
+        "Bibliotecário-Documentalista",
+        "Médico/Clínico Geral",
+        "Médico/Psiquiatra"
+      ],
+      "escolaridade": "Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "85b76dc25fbdbfed",
+      "inscricao_ate": "2026-12-23",
+      "inscricao_texto": "24/11 a 23/12/2026",
+      "orgao": "IFG - Instituto Federal de Educação, Ciência e Tecnologia de Goiás",
+      "salario_ate": "R$ 5.215,39",
+      "uf": "GOIÁS",
+      "url": "https://www.pciconcursos.com.br/noticias/ifg-go-abre-concurso-publico-para-tecnicos-administrativos-em-educacao",
+      "vagas": "36 vagas",
+      "visto_em": "2026-11-16"
     },
     "85be858ddf1d98da": {
       "cargos": [
@@ -11105,6 +11299,25 @@
       "vagas": "33 vagas",
       "visto_em": "2026-11-06"
     },
+    "9cbf3679f82a9c5d": {
+      "cargos": [
+        "Assistente Contábil",
+        "Assistente de Processo Licitatório",
+        "Auxiliar Administrativo",
+        "Auxiliar de Serviços Gerais / Limpeza"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico",
+      "fonte": "pci",
+      "id_unico": "9cbf3679f82a9c5d",
+      "inscricao_ate": "2026-12-02",
+      "inscricao_texto": "02/12/2026",
+      "orgao": "CIM Expandida Sul - Consórcio Público da Região Expandida Sul",
+      "salario_ate": "R$ 2.100,00",
+      "uf": "ESPÍRITO SANTO",
+      "url": "https://www.pciconcursos.com.br/noticias/cim-expandida-sul-es-abre-processo-seletivo-com-vagas-imediatas-e-cadastro-de-reserva",
+      "vagas": "10 vagas",
+      "visto_em": "2026-11-16"
+    },
     "9cd0a10a5397929e": {
       "cargos": [
         "Analista de Tecnologia da Informação"
@@ -11609,6 +11822,78 @@
       "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-acari-rn-abre-concurso-publico-com-salarios-de-ate-3847",
       "vagas": "20 vagas",
       "visto_em": "2026-10-15"
+    },
+    "a1c0884d921f25c1": {
+      "cargos": [
+        "Agente Administrativo",
+        "Agente de Vigilância Sanitária",
+        "AOSD (Auxiliar Operacional de Serviços Diversos)",
+        "Assistente Social",
+        "Auxiliar de Saúde Bucal",
+        "Auditor Fiscal",
+        "Auxiliar de Turma",
+        "Biólogo",
+        "Biomédico",
+        "Bioquímico",
+        "Contador",
+        "Dentista",
+        "Eletricista",
+        "Enfermeiro",
+        "Engenheiro Ambiental",
+        "Engenheiro Civil",
+        "Engenheiro Elétrico",
+        "Farmacêutico",
+        "Fiscal Ambiental",
+        "Fiscal de Tributos",
+        "Fisioterapeuta",
+        "Fonoaudiólogo",
+        "Médico Clínico Geral",
+        "Motorista B",
+        "Motorista D",
+        "Nutricionista",
+        "Orientador Social",
+        "Psicólogo",
+        "Radiologista",
+        "Recepcionista",
+        "Secretário de Escola",
+        "Técnico de Enfermagem",
+        "Técnico em Radiologia",
+        "Técnico em Segurança do Trabalho",
+        "Técnico de Saúde Bucal",
+        "Terapeuta Ocupacional",
+        "Topógrafo",
+        "Vigia",
+        "Agente de Trânsito",
+        "Guarda Municipal",
+        "Pedagogo",
+        "Professor do 1º ao 5º ano",
+        "Professor Braile",
+        "Professor de AEE",
+        "Professor de Arte",
+        "Professor de Ciências",
+        "Professor de Cultura Digital",
+        "Professor de Educação Física",
+        "Professor de Educação Infantil",
+        "Professor de Geografia",
+        "Professor de História",
+        "Professor de Língua Inglesa",
+        "Professor de Língua Portuguesa",
+        "Professor de Matemática",
+        "Professor Educação Quilombola",
+        "Professor EJAI do 1º ao 5º ano",
+        "Professor Intérprete de Libras"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "a1c0884d921f25c1",
+      "inscricao_ate": "2026-12-07",
+      "inscricao_texto": "07/12/2026",
+      "orgao": "Prefeitura de São Mateus do Maranhão",
+      "salario_ate": "R$ 5.130,65",
+      "uf": "MARANHÃO",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sao-mateus-do-maranhao-ma-abre-tres-concursos-publicos-com-diversas-vagas",
+      "vagas": "314 vagas",
+      "visto_em": "2026-11-16"
     },
     "a2d08d6083b644d4": {
       "cargos": [
@@ -12919,6 +13204,39 @@
       "url": "https://www.pciconcursos.com.br/noticias/ima-sc-abre-concurso-publico-com-salarios-de-ate-12300",
       "vagas": "18 vagas",
       "visto_em": "2026-11-05"
+    },
+    "b6d2e2506a2823e4": {
+      "cargos": [
+        "Agente de Manutenção Urbana",
+        "Atendente Educacional",
+        "Auxiliar de Ensino",
+        "Auxiliar de Serviços Gerais",
+        "Monitor",
+        "Operador de Equipamentos Rodoviários",
+        "Professor de Alemão",
+        "Professor de Artes",
+        "Professor de Ciências",
+        "Professor de Educação Especial",
+        "Professor de Educação Física",
+        "Professor de Geografia",
+        "Professor de História",
+        "Professor de Inglês",
+        "Professor de Língua Portuguesa",
+        "Professor de Matemática",
+        "Professor de Música",
+        "Professor de Educação Infantil e Anos Iniciais do Ensino Fundamental"
+      ],
+      "escolaridade": "Fundamental / Médio / Superior",
+      "fonte": "pci",
+      "id_unico": "b6d2e2506a2823e4",
+      "inscricao_ate": "2026-12-06",
+      "inscricao_texto": "06/12/2026",
+      "orgao": "Prefeitura de Feliz",
+      "salario_ate": "R$ 3.126,59",
+      "uf": "RIO GRANDE DO SUL",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-feliz-rs-abre-processo-seletivo-para-diversos-cargos",
+      "vagas": "2 vagas",
+      "visto_em": "2026-11-16"
     },
     "b73e65fdb2b742f2": {
       "cargos": [
@@ -17004,6 +17322,37 @@
       "vagas": "29 vagas",
       "visto_em": "2026-10-15"
     },
+    "e8c3db8dee569d2a": {
+      "cargos": [
+        "Auxiliar de Serviços Gerais SRT",
+        "Cirurgião Dentista ESF",
+        "Cuidador SRT",
+        "Enfermeiro CAPS",
+        "Enfermeiro ESF",
+        "Médico Clínico CAPS",
+        "Médico ESF (Equipe Zona Rural)",
+        "Médico Saúde Mental CAPS",
+        "Referência Técnica CAPS",
+        "Referência Técnica SRT",
+        "Técnico Administrativo CAPS",
+        "Técnico de Enfermagem CAPS",
+        "Técnico de Enfermagem ESF",
+        "Técnico de Enfermagem SRT",
+        "Técnico Educacional (Artesão CAPS)",
+        "Técnico em Saúde Bucal ESF"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "e8c3db8dee569d2a",
+      "inscricao_ate": "2026-11-20",
+      "inscricao_texto": "20/11/2026",
+      "orgao": "Prefeitura de Ibertioga",
+      "salario_ate": "R$ 15.479,20",
+      "uf": "MINAS GERAIS",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ibertioga-mg-abre-processo-seletivo-com-salarios-de-ate-15479",
+      "vagas": "47 vagas",
+      "visto_em": "2026-11-16"
+    },
     "e9021144a8588e6c": {
       "cargos": [
         "Biomédico",
@@ -18552,6 +18901,46 @@
       "vagas": "35 vagas",
       "visto_em": "2026-10-22"
     },
+    "fc3587991eb0c28d": {
+      "cargos": [
+        "Abastecedor, Lavador e Lubrificador de Máquinas e Veículos",
+        "Agente de Serviços Escolares",
+        "Auxiliar de Cozinha",
+        "Coletor de Lixo",
+        "Condutor de Ambulância",
+        "Motorista",
+        "Operador de Máquinas",
+        "Pedreiro",
+        "Roçador",
+        "Tratorista",
+        "Vigia",
+        "Agente Comunitário de Saúde",
+        "Agente de Apoio Escolar",
+        "Agente de Combate às Endemias",
+        "Auxiliar de Eletricista",
+        "Fiscal de Obras, Posturas e Serviços",
+        "Analista Técnico-Administrativo",
+        "Assistente Social",
+        "Bibliotecário",
+        "Farmacêutico",
+        "Fisioterapeuta",
+        "Médico Generalista - ESF",
+        "Psicólogo",
+        "Psicopedagogo",
+        "Terapeuta Ocupacional"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "fc3587991eb0c28d",
+      "inscricao_ate": "2026-12-21",
+      "inscricao_texto": "30/11 a 21/12/2026",
+      "orgao": "Prefeitura de Catiguá",
+      "salario_ate": "R$ 14.750,00",
+      "uf": "SÃO PAULO",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-catigua-sp-abre-concurso-publico-com-salarios-de-ate-14750",
+      "vagas": "36 vagas",
+      "visto_em": "2026-11-16"
+    },
     "fd4ebf3dd69e0b3f": {
       "cargos": [
         "Motorista Carteira D",
@@ -18736,8 +19125,25 @@
       "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-canitar-sp-abre-concurso-publico-para-diversos-cargos",
       "vagas": "12 vagas",
       "visto_em": "2026-11-04"
+    },
+    "ffb261bda2a265ea": {
+      "cargos": [
+        "PEB I, Professor de Educação Básica I, Infantil",
+        "PEB I, Professor de Educação Básica I, Fundamental"
+      ],
+      "escolaridade": "Fundamental / Médio / Superior",
+      "fonte": "pci",
+      "id_unico": "ffb261bda2a265ea",
+      "inscricao_ate": "2026-11-29",
+      "inscricao_texto": "17 a 29/11/2026",
+      "orgao": "Prefeitura de Onda Verde",
+      "salario_ate": "R$ 4.104,00",
+      "uf": "SÃO PAULO",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-onda-verde-sp-abre-processo-seletivo-com-salarios-de-ate-4104",
+      "vagas": "4 vagas",
+      "visto_em": "2026-11-16"
     }
   },
-  "total": 533,
+  "total": 545,
   "versao": 1
 }
