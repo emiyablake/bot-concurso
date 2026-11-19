@@ -1480,6 +1480,26 @@
       "vagas": "138 vagas",
       "visto_em": "2026-10-15"
     },
+    "0fffbe8ef98ac1c1": {
+      "cargos": [
+        "Auxiliar Administrativo/Financeiro",
+        "Assistente de Operações Aeroportuárias/Rodoviárias",
+        "Controlador de Tráfego Aéreo",
+        "Assistente Contábil",
+        "Biólogo"
+      ],
+      "escolaridade": "Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "0fffbe8ef98ac1c1",
+      "inscricao_ate": "2026-12-17",
+      "inscricao_texto": "24/11 a 17/12/2026",
+      "orgao": "SBMG S.A. - Terminais Aéreos de Maringá",
+      "salario_ate": "R$ 9.921,22",
+      "uf": "PARANÁ",
+      "url": "https://www.pciconcursos.com.br/noticias/terminais-aereos-de-maringa-pr-abrem-concurso-publico-com-salarios-de-ate-9921",
+      "vagas": "5 vagas",
+      "visto_em": "2026-11-19"
+    },
     "106374d66735e4e5": {
       "cargos": [
         "Professor de Braille",
@@ -1862,6 +1882,34 @@
       "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-uirapuru-go-abre-concurso-publico-com-salarios-de-ate-4428",
       "vagas": "21 vagas",
       "visto_em": "2026-10-15"
+    },
+    "16c01c368adcdd90": {
+      "cargos": [
+        "Professor de Educação Física, 40 horas",
+        "Professor de Educação Física, 30 horas",
+        "Professor Pedagogo",
+        "Professor de Artes",
+        "Auxiliar de Serviços Gerais",
+        "Professor de Língua Inglesa",
+        "Orientador Social",
+        "Professor de Educação Física",
+        "Auxiliar de Apoio Escolar",
+        "Auxiliar de Creche",
+        "Motorista Categoria B",
+        "Fonoaudiólogo",
+        "Assistente Social"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "16c01c368adcdd90",
+      "inscricao_ate": "2026-12-03",
+      "inscricao_texto": "03/12/2026",
+      "orgao": "Prefeitura de Major Gercino",
+      "salario_ate": "R$ 13.301,74",
+      "uf": "SANTA CATARINA",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-major-gercino-sc-abre-processo-seletivo-com-salarios-de-ate-13301",
+      "vagas": "26 vagas",
+      "visto_em": "2026-11-19"
     },
     "178147ae6c44b041": {
       "cargos": [
@@ -2452,6 +2500,39 @@
       "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-cubatao-sp-abre-concursos-publicos-com-salarios-de-ate-5565",
       "vagas": "56 vagas",
       "visto_em": "2026-10-15"
+    },
+    "1ce7fdc8aa080e89": {
+      "cargos": [
+        "Agente de Alimentação e Nutrição",
+        "Motorista de Veículos Pesados e Ambulância",
+        "Auxiliar de Sala",
+        "Profissional de Apoio Escolar, 20 horas semanais",
+        "Profissional de Apoio Escolar, 40 horas semanais",
+        "Coordenador Pedagógico",
+        "Pedagogo, Atendimento Educacional Especializado",
+        "Pedagogo, Sala de Atendimento Pedagógico",
+        "Professor de Educação Infantil",
+        "Professor de Ensino Fundamental, Anos Iniciais",
+        "Professor de Ensino Fundamental, Arte",
+        "Professor de Ensino Fundamental, Ciências",
+        "Professor de Ensino Fundamental, Educação Física",
+        "Professor de Ensino Fundamental, Ensino Religioso",
+        "Professor de Ensino Fundamental, Geografia",
+        "Professor de Ensino Fundamental, Língua Inglesa",
+        "Professor de Ensino Fundamental, Língua Portuguesa",
+        "Professor de Ensino Fundamental, Música"
+      ],
+      "escolaridade": "Fundamental / Médio / Superior",
+      "fonte": "pci",
+      "id_unico": "1ce7fdc8aa080e89",
+      "inscricao_ate": "2026-12-08",
+      "inscricao_texto": "08/12/2026",
+      "orgao": "Prefeitura de Jaraguá do Sul",
+      "salario_ate": "R$ 5.130,63",
+      "uf": "SANTA CATARINA",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jaragua-do-sul-sc-abre-processo-seletivo-para-diversos-cargos-na-educacao",
+      "vagas": "18 vagas",
+      "visto_em": "2026-11-19"
     },
     "1efc47fed8b660ad": {
       "cargos": [
@@ -3321,6 +3402,39 @@
       "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sumidouro-rj-abre-selecao-com-salarios-de-ate-3206",
       "vagas": "65 vagas",
       "visto_em": "2026-11-13"
+    },
+    "29614babf308547c": {
+      "cargos": [
+        "Analista Ambiental",
+        "Apoio Administrativo (Motorista de Veículo Pesado), zona rural",
+        "Apoio Administrativo - Infraestrutura (Zelador), zona rural",
+        "Apoio Administrativo - Infraestrutura (Zelador), zona urbana",
+        "Apoio Administrativo - Nutrição (Merendeira), zona rural",
+        "Apoio Administrativo - Nutrição (Merendeira), zona urbana",
+        "Assistente Social",
+        "Fiscal Ambiental",
+        "Nutricionista na Educação",
+        "Orientador Social",
+        "Professor de Letras, zona rural",
+        "Professor de Matemática, zona rural",
+        "Professor de Pedagogia, zona rural",
+        "Professor de Pedagogia, zona urbana",
+        "Professor, nível médio/magistério",
+        "Psicólogo (Educação)",
+        "Psicólogo (Assistência Social)",
+        "Técnico Administrativo Educacional (TDI)"
+      ],
+      "escolaridade": "Fundamental / Médio / Superior",
+      "fonte": "pci",
+      "id_unico": "29614babf308547c",
+      "inscricao_ate": "2026-12-03",
+      "inscricao_texto": "03/12/2026",
+      "orgao": "Prefeitura de Vila Bela da Santíssima Trindade",
+      "salario_ate": "R$ 7.700,67",
+      "uf": "MATO GROSSO",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vila-bela-da-santissima-trindade-mt-abre-selecao-com-vagas-imediatas-e-cadastro-de-reserva",
+      "vagas": "54 vagas",
+      "visto_em": "2026-11-19"
     },
     "29ace069e8b61dad": {
       "cargos": [
@@ -6110,6 +6224,24 @@
       "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-belo-vale-mg-abre-concurso-publico-com-diversas-vagas-e-salarios-de-ate-8000",
       "vagas": "179 vagas",
       "visto_em": "2026-10-15"
+    },
+    "53f6843451191694": {
+      "cargos": [
+        "Professor de Educação Infantil, habilitado",
+        "Professor de Ensino Fundamental, habilitado",
+        "Assistente Pedagógico"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "53f6843451191694",
+      "inscricao_ate": "2026-11-27",
+      "inscricao_texto": "27/11/2026",
+      "orgao": "Prefeitura de Coronel Freitas e Câmara de Coronel Freitas",
+      "salario_ate": "R$ 22.662,75",
+      "uf": "SANTA CATARINA",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-e-camara-de-coronel-freitas-sc-anunciam-processo-seletivo-para-diversos-cargos",
+      "vagas": "10 vagas",
+      "visto_em": "2026-11-19"
     },
     "54008c27a842b009": {
       "cargos": [
@@ -9159,6 +9291,27 @@
       "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-guaruja-do-sul-sc-abre-concurso-e-selecoes-com-salarios-de-ate-30-7-mil",
       "vagas": "5 vagas",
       "visto_em": "2026-11-03"
+    },
+    "7b0b94c5c28cddce": {
+      "cargos": [
+        "Médico Endocrinologista",
+        "Médico Neuropediatra",
+        "Médico Pediatra",
+        "Médico Urologista",
+        "Odontólogo Endodontista",
+        "Odontólogo Periodontista"
+      ],
+      "escolaridade": "Fundamental / Médio / Superior",
+      "fonte": "pci",
+      "id_unico": "7b0b94c5c28cddce",
+      "inscricao_ate": "2026-12-18",
+      "inscricao_texto": "18/12/2026",
+      "orgao": "Prefeitura de São Bento do Sul e Fundação Cultural de São Bento do Sul",
+      "salario_ate": "R$ 20.795,15",
+      "uf": "SANTA CATARINA",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-e-fundacao-cultural-de-sao-bento-do-sul-sc-abrem-processo-seletivo-com-salarios-de-ate-20795",
+      "vagas": "6 vagas",
+      "visto_em": "2026-11-19"
     },
     "7b7580a15868941c": {
       "cargos": [
@@ -14810,6 +14963,27 @@
       "vagas": "112 vagas",
       "visto_em": "2026-10-29"
     },
+    "c6ac5820667751c8": {
+      "cargos": [
+        "Auxiliar de Serviços Gerais",
+        "Vigia",
+        "Assistente Administrativo",
+        "Motorista, com CNH nas categorias A e B",
+        "Tradutor, Intérprete e Guia-Intérprete de Libras",
+        "Agente de Contratação"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "c6ac5820667751c8",
+      "inscricao_ate": "2026-12-18",
+      "inscricao_texto": "18/12/2026",
+      "orgao": "Câmara de Paraíso do Tocantins",
+      "salario_ate": "R$ 6.244,07",
+      "uf": "TOCANTINS",
+      "url": "https://www.pciconcursos.com.br/noticias/camara-de-paraiso-do-tocantins-to-retifica-concurso-publico-com-salarios-de-ate-6244",
+      "vagas": "14 vagas",
+      "visto_em": "2026-11-19"
+    },
     "c70cf289c7122a1d": {
       "cargos": [
         "Técnico Agente Fiscal",
@@ -18086,6 +18260,37 @@
       "vagas": "11 vagas",
       "visto_em": "2026-10-15"
     },
+    "eae401d602a126fb": {
+      "cargos": [
+        "Odontólogo",
+        "Nutricionista",
+        "Enfermeiro (UBS)",
+        "Enfermeiro (aldeia indígena)",
+        "Agente Comunitário de Saúde",
+        "Agente de Controle de Endemias",
+        "Técnico de Laboratório",
+        "Técnico de Enfermagem",
+        "Técnico em Radiologia",
+        "Assistente Administrativo",
+        "Auxiliar de Saúde Bucal",
+        "Recepcionista",
+        "Motorista",
+        "Profissional Educador Físico",
+        "Cozinheira",
+        "Vigia"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "eae401d602a126fb",
+      "inscricao_ate": "2026-11-26",
+      "inscricao_texto": "26/11/2026",
+      "orgao": "Prefeitura de Coronel Sapucaia",
+      "salario_ate": null,
+      "uf": "MATO GROSSO DO SUL",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-coronel-sapucaia-ms-abre-processo-seletivo-para-a-secretaria-municipal-de-saude",
+      "vagas": "14 vagas",
+      "visto_em": "2026-11-19"
+    },
     "eb37adfc1d32f344": {
       "cargos": [
         "Assistente de Plenário",
@@ -19766,6 +19971,6 @@
       "visto_em": "2026-11-16"
     }
   },
-  "total": 563,
+  "total": 571,
   "versao": 1
 }
