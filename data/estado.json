@@ -4698,6 +4698,27 @@
       "vagas": "68 vagas",
       "visto_em": "2026-11-18"
     },
+    "40c99a7e12388f55": {
+      "cargos": [
+        "Arquiteto",
+        "Auxiliar de Sala",
+        "Engenheiro Civil",
+        "Faxineiro(a)",
+        "Merendeira",
+        "Professor Apoiador (Educação Especial)"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "40c99a7e12388f55",
+      "inscricao_ate": "2026-11-29",
+      "inscricao_texto": "29/11/2026",
+      "orgao": "Prefeitura de Mirim Doce",
+      "salario_ate": "R$ 5.998,72",
+      "uf": "SANTA CATARINA",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-mirim-doce-sc-abre-processo-seletivo-com-vagas-imediatas-e-cadastro-de-reserva",
+      "vagas": "6 vagas",
+      "visto_em": "2026-11-20"
+    },
     "4168d61f0a0ae91f": {
       "cargos": [
         "Agente Administrativo",
@@ -6305,6 +6326,51 @@
       "vagas": "12 vagas",
       "visto_em": "2026-10-20"
     },
+    "548b07ade4edd3f5": {
+      "cargos": [
+        "Agente de Saúde ACT",
+        "Agente de Serviços Gerais",
+        "Motorista ACT",
+        "Operador de Máquinas Pesadas ACT",
+        "Operador de Trator Agrícola ACT",
+        "Agente de Combate às Endemias ACT",
+        "Atendente de Consultório Dentário ACT",
+        "Oficial Administrativo",
+        "Orientador Social 1 ACT",
+        "Recepcionista ACT",
+        "Técnico em Enfermagem ACT",
+        "Enfermeiro ACT",
+        "Engenheiro Agrônomo",
+        "Fiscal de Obras e Posturas ACT",
+        "Médico ACT",
+        "Nutricionista",
+        "Odontólogo ACT",
+        "Orientador Social 2 ACT",
+        "Psicólogo ACT",
+        "Assistente Social Educacional ACT",
+        "Motorista de Veículo Escolar ACT",
+        "Professor ACT Anos Iniciais 1º a 5º Ano Habilitado",
+        "Professor ACT Artes Habilitado",
+        "Professor ACT Educação Especial e Inclusiva Habilitado",
+        "Professor ACT Educação Física Habilitado",
+        "Professor ACT Educação Infantil Habilitado",
+        "Professor ACT Intérprete de Libras Habilitado",
+        "Professor ACT Música Habilitado",
+        "Professor ACT Tecnologias Educacionais Habilitado",
+        "Psicólogo Educacional ACT"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "548b07ade4edd3f5",
+      "inscricao_ate": "2026-12-05",
+      "inscricao_texto": "05/12/2026",
+      "orgao": "Prefeitura de Lebon Régis e Secretaria Municipal de Educação",
+      "salario_ate": "R$ 24.488,28",
+      "uf": "SANTA CATARINA",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-lebon-regis-sc-abre-selecoes-com-85-vagas-e-salarios-de-ate-24-4-mil",
+      "vagas": "85 vagas",
+      "visto_em": "2026-11-20"
+    },
     "5517bcf9f5cdceb4": {
       "cargos": [
         "Motorista",
@@ -6443,6 +6509,22 @@
       "url": "https://www.pciconcursos.com.br/noticias/camara-de-ponta-pora-ms-retifica-edital-de-concurso-publico",
       "vagas": "19 vagas",
       "visto_em": "2026-10-15"
+    },
+    "56406a75920ef5bb": {
+      "cargos": [
+        "Professor de Educação Básica II"
+      ],
+      "escolaridade": "Médio / Superior",
+      "fonte": "pci",
+      "id_unico": "56406a75920ef5bb",
+      "inscricao_ate": "2026-12-03",
+      "inscricao_texto": "23/11 a 03/12/2026",
+      "orgao": "Prefeitura de Bernardino de Campos",
+      "salario_ate": "R$ 5.130,00",
+      "uf": "SÃO PAULO",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-bernardino-de-campos-sp-abre-processo-seletivo-para-a-educacao",
+      "vagas": "Vagas",
+      "visto_em": "2026-11-20"
     },
     "565efd6528462b19": {
       "cargos": [
@@ -8520,6 +8602,82 @@
       "vagas": "172 vagas",
       "visto_em": "2026-10-15"
     },
+    "736cabe26425321c": {
+      "cargos": [
+        "Analista de Relações Públicas",
+        "Assistente de Manutenção",
+        "Assistente Social",
+        "Atendente de Farmácia",
+        "Auxiliar Administrativo",
+        "Auxiliar de Faturamento",
+        "Auxiliar de Serviços Gerais",
+        "Auxiliar em Saúde Bucal",
+        "Capturador de Animais",
+        "Cirurgião Dentista",
+        "Contador",
+        "Dentista Bucomaxilofacial",
+        "Digitador",
+        "Educador Físico",
+        "Eletricista",
+        "Enfermeiro",
+        "Enfermeiro Auditor",
+        "Farmacêutico",
+        "Faturista",
+        "Fisioterapeuta",
+        "Fonoaudióloga",
+        "Instrumentador",
+        "Maqueiro",
+        "Médico",
+        "Médico Cardiologista",
+        "Médico Cirurgião",
+        "Médico Cirurgião Pediatra",
+        "Médico Infectologista",
+        "Médico Neuropediatra",
+        "Médico Ortopedista/Traumatologista",
+        "Médico Otorrinolaringologista",
+        "Médico Plantonista",
+        "Médico Pneumologista",
+        "Médico Proctologista",
+        "Médico Psiquiatra",
+        "Médico Psiquiatra Infantil",
+        "Médico Reumatologista",
+        "Médico Veterinário",
+        "Mobilizador Social",
+        "Motorista Categoria A",
+        "Motorista Categoria AB",
+        "Neuropsicólogo",
+        "Nutricionista",
+        "Odontopediatra",
+        "Pedreiro",
+        "Pintor",
+        "Porteiro",
+        "Psicólogo",
+        "Recepcionista",
+        "Sapateiro",
+        "Supervisor de Serviços de Saúde",
+        "Técnico de TI",
+        "Técnico em Enfermagem",
+        "Técnico em Imobilização Ortopédica",
+        "Técnico em Manutenção de Aparelho Odontológico",
+        "Técnico em Radiologia",
+        "Técnico em Saúde Bucal",
+        "Técnico em Segurança do Trabalho",
+        "Auditor em Saúde",
+        "Enfermeiro Plantonista",
+        "Técnico em Enfermagem Plantonista"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "736cabe26425321c",
+      "inscricao_ate": "2026-12-10",
+      "inscricao_texto": "10/12/2026",
+      "orgao": "Prefeitura de Juazeiro do Norte",
+      "salario_ate": "R$ 12.000,00",
+      "uf": "CEARÁ",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-juazeiro-do-norte-ce-abre-processo-seletivo-para-a-secretaria-de-saude",
+      "vagas": "672 vagas",
+      "visto_em": "2026-11-20"
+    },
     "73e9cb5396329562": {
       "cargos": [
         "Orientador Educacional",
@@ -9033,6 +9191,39 @@
       "vagas": "12 vagas",
       "visto_em": "2026-11-12"
     },
+    "78718c82926d109f": {
+      "cargos": [
+        "Professor de Educação Infantil, 20 horas semanais",
+        "Professor de Educação Infantil, 30 horas semanais",
+        "Professor de Anos Iniciais",
+        "Professor de História",
+        "Professor de Matemática",
+        "Professor de Português",
+        "Professor de Artes, 30 horas semanais",
+        "Professor de Artes, 20 horas semanais",
+        "Professor de Inglês, 30 horas semanais",
+        "Professor de Inglês, 20 horas semanais",
+        "Professor de Educação Física, 10 horas semanais",
+        "Professor de Educação Física, 20 horas semanais",
+        "Professor de Educação Física, 30 horas semanais",
+        "Psicopedagogo",
+        "Assistente Social",
+        "Nutricionista",
+        "Motorista de Ônibus Escolar",
+        "Monitor de Transporte Escolar"
+      ],
+      "escolaridade": "Fundamental / Superior",
+      "fonte": "pci",
+      "id_unico": "78718c82926d109f",
+      "inscricao_ate": "2026-12-08",
+      "inscricao_texto": "23/11 a 08/12/2026",
+      "orgao": "Prefeitura de Jaguaruna",
+      "salario_ate": "R$ 6.675,91",
+      "uf": "SANTA CATARINA",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-jaguaruna-sc-abre-concurso-publico-com-salarios-de-ate-6675",
+      "vagas": "114 vagas",
+      "visto_em": "2026-11-20"
+    },
     "787b4a569996c547": {
       "cargos": [
         "Procurador Legislativo",
@@ -9180,6 +9371,25 @@
       "url": "https://www.pciconcursos.com.br/noticias/ipsemg-anuncia-selecao-com-vagas-para-residencia-medica",
       "vagas": "93 vagas",
       "visto_em": "2026-10-15"
+    },
+    "7a02c288726d043a": {
+      "cargos": [
+        "Enfermeiro(a)",
+        "Farmacêutico(a)",
+        "Auxiliar de Enfermagem",
+        "Técnico de Enfermagem"
+      ],
+      "escolaridade": "Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "7a02c288726d043a",
+      "inscricao_ate": "2026-12-10",
+      "inscricao_texto": "10/12/2026",
+      "orgao": "Irmandade da Santa Casa de Misericórdia e Maternidade de Dracena",
+      "salario_ate": "R$ 5.231,08",
+      "uf": "SÃO PAULO",
+      "url": "https://www.pciconcursos.com.br/noticias/santa-casa-de-dracena-sp-abre-processo-seletivo-com-salarios-de-ate-5231",
+      "vagas": "15 vagas",
+      "visto_em": "2026-11-20"
     },
     "7a34fb9545b63e47": {
       "cargos": [
@@ -10421,6 +10631,33 @@
       "vagas": "2.000 vagas",
       "visto_em": "2026-10-15"
     },
+    "8c371aa340d70217": {
+      "cargos": [
+        "Agente Administrativo",
+        "Agente Social",
+        "Assistente Social",
+        "Auxiliar de Serviços Gerais",
+        "Cozinheira",
+        "Educador/Orientador Social",
+        "Educador Social para o Serviço de Proteção Social Básica no Domicílio para Gestantes e Crianças de 0 a 6 anos",
+        "Entrevistador(a) do CadÚnico/PBF",
+        "Motorista para Projetos, Programas e Serviços da Assistência Social",
+        "Motorista do Conselho Tutelar, plantonista",
+        "Oficineiro(a) para atividades lúdicas",
+        "Psicólogo(a)"
+      ],
+      "escolaridade": "Fundamental / Médio / Superior",
+      "fonte": "pci",
+      "id_unico": "8c371aa340d70217",
+      "inscricao_ate": "2026-12-04",
+      "inscricao_texto": "23/11 a 04/12/2026",
+      "orgao": "Prefeitura de Toritama",
+      "salario_ate": "R$ 1.800,00",
+      "uf": "PERNAMBUCO",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-toritama-pe-abre-selecao-com-vagas-para-diversos-cargos",
+      "vagas": "61 vagas",
+      "visto_em": "2026-11-20"
+    },
     "8c612caabee8f336": {
       "cargos": [
         "Advogado",
@@ -11021,6 +11258,29 @@
       "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-iuna-e-santa-casa-es-abrem-processo-seletivo-para-diversos-cargos",
       "vagas": "Cadastro Reserva",
       "visto_em": "2026-10-15"
+    },
+    "9285f228f016ba46": {
+      "cargos": [
+        "Motorista",
+        "Agente Comunitário de Saúde, microárea 01, cidade",
+        "Agente Comunitário de Saúde, microárea 02, Área dos Padres, Boa Vista, Linha Jacoby, Linha Palmeirinha, Linha São Luiz e parte da cidade",
+        "Fiscal de Vigilância Sanitária e Ambiental",
+        "Médico",
+        "Farmacêutico",
+        "Psicólogo",
+        "Assistente Social"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "9285f228f016ba46",
+      "inscricao_ate": null,
+      "inscricao_texto": "Suspenso",
+      "orgao": "Prefeitura de Santa Terezinha do Progresso",
+      "salario_ate": "R$ 10.000,00",
+      "uf": "SANTA CATARINA",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-terezinha-do-progresso-sc-suspende-concurso-publico-para-diversos-niveis",
+      "vagas": "8 vagas",
+      "visto_em": "2026-11-20"
     },
     "92d434a502b908d8": {
       "cargos": [
@@ -12355,6 +12615,22 @@
       "vagas": "44 vagas",
       "visto_em": "2026-10-15"
     },
+    "a11fbea7b3955612": {
+      "cargos": [
+        "Monitor de Transporte Escolar"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "a11fbea7b3955612",
+      "inscricao_ate": "2026-12-23",
+      "inscricao_texto": "24/11 a 23/12/2026",
+      "orgao": "Prefeitura de Chapadão do Lageado",
+      "salario_ate": "R$ 21.291,71",
+      "uf": "SANTA CATARINA",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-chapadao-do-lageado-sc-abre-processo-seletivo-com-salarios-de-ate-21291",
+      "vagas": "9 vagas",
+      "visto_em": "2026-11-20"
+    },
     "a13d7d383f9a65fe": {
       "cargos": [
         "Auxiliar de Serviços",
@@ -13040,6 +13316,46 @@
       "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-coqueiro-baixo-rs-abre-concurso-com-vagas-imediatas-e-cadastro-de-reserva",
       "vagas": "13 vagas",
       "visto_em": "2026-10-15"
+    },
+    "af3355b972da9389": {
+      "cargos": [
+        "Merendeira",
+        "Motorista",
+        "Serviços Gerais",
+        "Auxiliar de Cirurgião Dentista",
+        "Instrutor de Artes",
+        "Operador de Máquinas e Equipamentos Pesados",
+        "Operador de Trator e Máquinas Leves",
+        "Pedreiro",
+        "Auxiliar de Farmácia",
+        "Diretor de Transporte da Secretaria Municipal de Saúde",
+        "Eletricista",
+        "Ouvidor",
+        "Monitor de Educação Infantil",
+        "Secretário",
+        "Agente de Organização e Inspeção",
+        "Técnico em Enfermagem",
+        "Guarda-Vidas",
+        "Analista Educacional",
+        "Cirurgião Dentista, 20 horas",
+        "Controlador Interno",
+        "Coordenador de Regulação da Saúde",
+        "Diretor Escolar",
+        "Enfermeiro",
+        "Professor de Educação Básica I",
+        "Professor de Educação Básica II, Artes"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "af3355b972da9389",
+      "inscricao_ate": "2026-12-04",
+      "inscricao_texto": "04/12/2026",
+      "orgao": "Prefeitura de Cândido Rodrigues",
+      "salario_ate": "R$ 8.862,24",
+      "uf": "SÃO PAULO",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-candido-rodrigues-sp-abre-concurso-publico-com-salarios-de-ate-8862",
+      "vagas": "27 vagas",
+      "visto_em": "2026-11-20"
     },
     "af3c5fabbcba3a8b": {
       "cargos": [
@@ -17622,6 +17938,45 @@
       "vagas": "26 vagas",
       "visto_em": "2026-10-15"
     },
+    "e4d411edbc5d8db2": {
+      "cargos": [
+        "Agente Administrativo",
+        "Agente de Combate às Endemias",
+        "Carpinteiro",
+        "Coveiro",
+        "Dentista, Clínico Geral",
+        "Dentista, Protesista",
+        "Eletricista de Autos",
+        "Instrutor de Dança",
+        "Mecânico de Veículos Pesados",
+        "Médico Mensalista, Alergista",
+        "Médico Mensalista, Endocrinologista",
+        "Médico Mensalista, Gastroenterologista",
+        "Médico Mensalista, Neurologista",
+        "Médico Mensalista, Ortopedista",
+        "Médico Mensalista, Pneumologista",
+        "Médico Mensalista, Proctologista",
+        "Médico Mensalista, Psiquiatra Infantil",
+        "Médico Mensalista, Reumatologista",
+        "Médico Plantonista, Clínico de Pronto Socorro",
+        "Operador de Máquinas, Retro, Patrol e Poclain",
+        "Porteiro",
+        "Técnico em Farmácia",
+        "Tecnólogo de Geoprocessamento",
+        "Telefonista"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "e4d411edbc5d8db2",
+      "inscricao_ate": "2026-12-21",
+      "inscricao_texto": "21/12/2026",
+      "orgao": "Município da Estância Balneária de Praia Grande",
+      "salario_ate": "R$ 25.000,00",
+      "uf": "SÃO PAULO",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-praia-grande-sp-abre-concurso-publico-para-diversos-cargos",
+      "vagas": "33 vagas",
+      "visto_em": "2026-11-20"
+    },
     "e55f3fbce6d728bf": {
       "cargos": [
         "Auxiliar de Ensino 40 horas",
@@ -18704,6 +19059,25 @@
       "vagas": "132 vagas",
       "visto_em": "2026-11-18"
     },
+    "f17faeac17fe6a66": {
+      "cargos": [
+        "Técnico Legislativo",
+        "Contador",
+        "Agente de Controle Interno",
+        "Serviços Gerais"
+      ],
+      "escolaridade": "Fundamental / Superior",
+      "fonte": "pci",
+      "id_unico": "f17faeac17fe6a66",
+      "inscricao_ate": null,
+      "inscricao_texto": "Suspenso",
+      "orgao": "Câmara de Vereadores de Santa Terezinha do Progresso",
+      "salario_ate": "R$ 4.566,00",
+      "uf": "SANTA CATARINA",
+      "url": "https://www.pciconcursos.com.br/noticias/camara-de-santa-terezinha-do-progresso-sc-suspende-concurso-publico",
+      "vagas": "4 vagas",
+      "visto_em": "2026-11-20"
+    },
     "f27a6212f5d87f3b": {
       "cargos": [
         "Agente de Limpeza Urbana e Jardinagem",
@@ -18912,6 +19286,38 @@
       "url": "https://www.pciconcursos.com.br/noticias/camara-de-portel-pa-retifica-edital-de-concurso-publico",
       "vagas": "27 vagas",
       "visto_em": "2026-11-10"
+    },
+    "f61444d362c9bb2c": {
+      "cargos": [
+        "Auxiliar de Consultório Dentário, 30 horas",
+        "Auxiliar de Consultório Dentário, Estratégia Saúde da Família, 40 horas",
+        "Auxiliar de Consultório Dentário, Estratégia Saúde da Família, 40 horas, zona rural",
+        "Enfermeiro com Especialidade em Saúde Mental",
+        "Técnico em Prótese Dentária",
+        "Técnico em Enfermagem, 40 horas",
+        "Técnico em Enfermagem, 40 horas, zona rural",
+        "Médico Angiologista",
+        "Médico Clínico Geral",
+        "Médico Epidemiologista",
+        "Médico Geneticista",
+        "Médico Neurologista",
+        "Médico Pneumologista",
+        "Médico Plantonista, Pediatra",
+        "Médico Ultrassonografista",
+        "Médico Urologista",
+        "Odontólogo"
+      ],
+      "escolaridade": "Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "f61444d362c9bb2c",
+      "inscricao_ate": "2026-11-30",
+      "inscricao_texto": "30/11/2026",
+      "orgao": "Prefeitura de Montes Claros",
+      "salario_ate": "R$ 5.551,46",
+      "uf": "MINAS GERAIS",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-montes-claros-mg-abre-processo-seletivo-com-123-vagas-na-saude",
+      "vagas": "104 vagas",
+      "visto_em": "2026-11-20"
     },
     "f6aec290ce2d638e": {
       "cargos": [
@@ -19296,6 +19702,23 @@
       "url": "https://www.pciconcursos.com.br/noticias/saae-itambacuri-mg-publica-edital-de-concurso-publico-com-seis-vagas-imediatas",
       "vagas": "6 vagas",
       "visto_em": "2026-10-15"
+    },
+    "f97eaab6351122eb": {
+      "cargos": [
+        "Assistente Administrativo",
+        "Contador"
+      ],
+      "escolaridade": "Médio / Superior",
+      "fonte": "pci",
+      "id_unico": "f97eaab6351122eb",
+      "inscricao_ate": "2026-12-15",
+      "inscricao_texto": "30/11 a 15/12/2026",
+      "orgao": "Prefeitura de Vargem Grande do Sul",
+      "salario_ate": "R$ 10.788,32",
+      "uf": "SÃO PAULO",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-vargem-grande-do-sul-sp-abre-concurso-publico-com-salarios-de-ate-10788",
+      "vagas": "2 vagas",
+      "visto_em": "2026-11-20"
     },
     "f980e93cef73070d": {
       "cargos": [
@@ -19926,6 +20349,37 @@
       "vagas": "31 vagas",
       "visto_em": "2026-10-15"
     },
+    "fed9fe8a9fce7015": {
+      "cargos": [
+        "Contador",
+        "Dentista",
+        "Farmacêutico",
+        "Procurador Jurídico",
+        "Professor de Computação",
+        "Psicólogo Educacional",
+        "Técnico-pedagógico",
+        "Técnico em Agropecuária",
+        "Atendente Educacional",
+        "Controlador de Materiais",
+        "Monitor Auxiliar",
+        "Professor de 22 horas, educação infantil e séries iniciais",
+        "Operador de Máquinas",
+        "Motorista",
+        "Agente de Combate a Endemias",
+        "Auxiliar de Saúde Bucal"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "fed9fe8a9fce7015",
+      "inscricao_ate": "2026-12-18",
+      "inscricao_texto": "18/12/2026",
+      "orgao": "Prefeitura de Sede Nova",
+      "salario_ate": "R$ 9.339,29",
+      "uf": "RIO GRANDE DO SUL",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-sede-nova-rs-abre-concurso-publico-e-processo-seletivo-com-diversas-vagas",
+      "vagas": "45 vagas",
+      "visto_em": "2026-11-20"
+    },
     "feea53eafc001b84": {
       "cargos": [
         "Auxiliar Odontológico (Auxiliar de Consultório Dentário)",
@@ -19971,6 +20425,6 @@
       "visto_em": "2026-11-16"
     }
   },
-  "total": 571,
+  "total": 586,
   "versao": 1
 }
