@@ -24,6 +24,22 @@
       "vagas": "14 vagas",
       "visto_em": "2026-11-11"
     },
+    "0101dd635985fd3a": {
+      "cargos": [
+        "Agente de Infraestrutura"
+      ],
+      "escolaridade": "Fundamental / Médio",
+      "fonte": "pci",
+      "id_unico": "0101dd635985fd3a",
+      "inscricao_ate": "2026-12-27",
+      "inscricao_texto": "30/11 a 27/12/2026",
+      "orgao": "Prefeitura de Itupeva",
+      "salario_ate": "R$ 5.009,64",
+      "uf": "SÃO PAULO",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-itupeva-sp-abre-concurso-com-7-vagas-e-salarios-de-ate-5009",
+      "vagas": "7 vagas",
+      "visto_em": "2026-11-27"
+    },
     "0138b51da2675d46": {
       "cargos": [
         "Agente Comunitário de Saúde",
@@ -1684,6 +1700,36 @@
       "vagas": "9 vagas",
       "visto_em": "2026-10-15"
     },
+    "11b5d61c61c24a2d": {
+      "cargos": [
+        "Professor de Música e Musicalização",
+        "Professor para a Banda Municipal Iulle Martins Rezende",
+        "Professor para o Polo da Unigran",
+        "Professor de Educação Física para Natação",
+        "Professor de Educação Física para Treinamento",
+        "Coreógrafo de Dança",
+        "Nutricionista, 20 horas semanais",
+        "Nutricionista, 40 horas semanais",
+        "Biblioteconomista (Bibliotecário)",
+        "Professor de Educação Infantil",
+        "Professor de Anos Iniciais",
+        "Professor de Língua Inglesa",
+        "Professor de Arte",
+        "Professor de Educação Física",
+        "Assistente Educacional"
+      ],
+      "escolaridade": "Médio / Superior",
+      "fonte": "pci",
+      "id_unico": "11b5d61c61c24a2d",
+      "inscricao_ate": "2026-12-02",
+      "inscricao_texto": "02/12/2026",
+      "orgao": "Secretaria Municipal de Educação, Cultura e Esportes",
+      "salario_ate": "R$ 7.804,74",
+      "uf": "MATO GROSSO DO SUL",
+      "url": "https://www.pciconcursos.com.br/noticias/secretaria-de-educacao-de-alcinopolis-ms-abre-42-vagas-em-novos-processos-seletivos",
+      "vagas": "42 vagas",
+      "visto_em": "2026-11-27"
+    },
     "124f8afd9b379ee1": {
       "cargos": [
         "Procurador Jurídico",
@@ -1907,6 +1953,86 @@
       "url": "https://www.pciconcursos.com.br/noticias/hfasp-sp-abre-selecao-para-residencia-multiprofissional",
       "vagas": "12 vagas",
       "visto_em": "2026-11-09"
+    },
+    "1554599ffc13c94d": {
+      "cargos": [
+        "Administrador",
+        "Advogado",
+        "Agente Administrativo",
+        "Almoxarife",
+        "Assistente de Educação",
+        "Assistente Social",
+        "Assistente Técnico Administrativo",
+        "Assistente Técnico Educacional",
+        "Auxiliar de Saúde",
+        "Auxiliar de Serviços da Educação Básica",
+        "Auxiliar de Serviços Gerais",
+        "Auxiliar em Saúde Bucal",
+        "Biomédico",
+        "Cirurgião Dentista",
+        "Contador",
+        "Educador Físico",
+        "Educador Social / Orientador Social",
+        "Enfermeiro",
+        "Engenheiro Civil",
+        "Especialista em Educação Básica",
+        "Farmacêutico",
+        "Fiscal de Obras",
+        "Fiscal de Posturas",
+        "Fiscal de Tributos",
+        "Fiscal Sanitário",
+        "Fisioterapeuta",
+        "Fonoaudiólogo",
+        "Gari",
+        "Marceneiro/Carpinteiro",
+        "Médico Clínico Geral",
+        "Médico ESF",
+        "Médico Veterinário",
+        "Motorista Categoria B",
+        "Motorista Categoria D",
+        "Nutricionista",
+        "Oficial de Serviços Públicos (Bombeiro)",
+        "Oficial de Serviços Públicos (Eletricista)",
+        "Oficial de Serviços Públicos (Serralheiro)",
+        "Operador de máquinas",
+        "Operador de Patrol/Motoniveladora",
+        "Orientador Educacional",
+        "Pintor de Parede",
+        "Professor de Apoio",
+        "Professor de Computação",
+        "Professor de Educação Básica - Professor de 1ª a 5ª",
+        "Professor de Educação Básica (II - Artes)",
+        "Professor de Educação Básica (II - Ciências)",
+        "Professor de Educação Básica (II - Educação Física)",
+        "Professor de Educação Básica (II - Educação Religiosa)",
+        "Professor de Educação Básica (II - Geografia)",
+        "Professor de Educação Básica (II - História)",
+        "Professor de Educação Básica (II - Inglês)",
+        "Professor de Educação Básica (II - Matemática)",
+        "Professor de Educação Básica (II - Português)",
+        "Professor de Educação Empreendedora",
+        "Psicólogo (Área Social)",
+        "Psicólogo (Saúde)",
+        "Servente de Pedreiro",
+        "Técnico de Nível Médio em Políticas Sociais",
+        "Técnico em Contabilidade",
+        "Técnico em Edificações",
+        "Técnico em Enfermagem",
+        "Técnico em Informática",
+        "Técnico em Saúde Bucal",
+        "Vigia"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "1554599ffc13c94d",
+      "inscricao_ate": "2027-01-15",
+      "inscricao_texto": "Prorrogado de 18/12/2026 a 15/01/2027",
+      "orgao": "Prefeitura de Patis",
+      "salario_ate": "R$ 13.500,00",
+      "uf": "MINAS GERAIS",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-patis-mg-abre-concurso-com-salarios-de-ate-13500",
+      "vagas": "155 vagas",
+      "visto_em": "2026-11-27"
     },
     "169cf5689f685afb": {
       "cargos": [
@@ -12251,6 +12377,25 @@
       "vagas": "11 vagas",
       "visto_em": "2026-10-15"
     },
+    "91f6bd5e591cd2e4": {
+      "cargos": [
+        "Professor Educação Infantil",
+        "Professor Ensino Fundamental, Anos Iniciais",
+        "Professor Educação Especial",
+        "Professor Apoio Pedagógico"
+      ],
+      "escolaridade": "Fundamental / Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "91f6bd5e591cd2e4",
+      "inscricao_ate": "2026-12-23",
+      "inscricao_texto": "23/12/2026",
+      "orgao": "Prefeitura de Santo Amaro da Imperatriz",
+      "salario_ate": "R$ 10.885,60",
+      "uf": "SANTA CATARINA",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santo-amaro-da-imperatriz-sc-abre-processos-seletivos-com-salarios-de-ate-10800",
+      "vagas": "Vagas",
+      "visto_em": "2026-11-27"
+    },
     "92603b0b92588f68": {
       "cargos": [
         "Agente Administrativo",
@@ -12873,6 +13018,36 @@
       "url": "https://www.pciconcursos.com.br/noticias/camara-de-croata-ce-abre-concurso-publico-com-vagas-imediatas-e-cadastro-de-reserva",
       "vagas": "15 vagas",
       "visto_em": "2026-11-13"
+    },
+    "97647083a585a960": {
+      "cargos": [
+        "Auxiliar em Odontologia",
+        "Enfermeiro(a)",
+        "Farmacêutico(a)",
+        "Fiscal de Vigilância Sanitária",
+        "Fisioterapeuta",
+        "Médico Clínico Geral, 20 horas",
+        "Médico Clínico Geral, 40 horas",
+        "Médico(a) Veterinário(a)",
+        "Profissional de Educação Física",
+        "Motorista I",
+        "Motorista II",
+        "Odontólogo II",
+        "Operador de Máquinas Leves",
+        "Operador de Máquinas Médias e Pesadas",
+        "Técnico em Enfermagem"
+      ],
+      "escolaridade": "Fundamental / Médio / Superior",
+      "fonte": "pci",
+      "id_unico": "97647083a585a960",
+      "inscricao_ate": "2026-12-07",
+      "inscricao_texto": "07/12/2026",
+      "orgao": "Prefeitura de Macieira",
+      "salario_ate": "R$ 24.960,42",
+      "uf": "SANTA CATARINA",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-macieira-sc-abre-processo-seletivo-com-salarios-de-ate-24960",
+      "vagas": "15 vagas",
+      "visto_em": "2026-11-27"
     },
     "97fb6e169331872a": {
       "cargos": [
@@ -14378,6 +14553,26 @@
       "vagas": "12 vagas",
       "visto_em": "2026-10-28"
     },
+    "a9b4194d6530d0ba": {
+      "cargos": [
+        "Auxiliar de Serviços Gerais",
+        "Encanador",
+        "Leiturista",
+        "Operador de Bombas",
+        "Bioquímico"
+      ],
+      "escolaridade": "Fundamental / Superior",
+      "fonte": "pci",
+      "id_unico": "a9b4194d6530d0ba",
+      "inscricao_ate": "2026-12-28",
+      "inscricao_texto": "30/11 a 28/12/2026",
+      "orgao": "SAAE - Serviço Autônomo de Água e Esgoto de Santa Fé do Araguaia",
+      "salario_ate": "R$ 3.000,00",
+      "uf": "TOCANTINS",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-santa-fe-do-araguaia-to-abre-concurso-para-o-saae",
+      "vagas": "9 vagas",
+      "visto_em": "2026-11-27"
+    },
     "a9c47217a51e3517": {
       "cargos": [
         "Auxiliar de Serviços Gerais",
@@ -14521,6 +14716,27 @@
       "url": "https://www.pciconcursos.com.br/noticias/funcabes-sp-abre-processo-seletivo-com-vagas-imediatas-e-cadastro-de-reserva",
       "vagas": "33 vagas",
       "visto_em": "2026-10-27"
+    },
+    "ada54cf8a2963305": {
+      "cargos": [
+        "Agente Legislativo de Comunicação",
+        "Agente de Contratação",
+        "Auxiliar Administrativo",
+        "Guardião",
+        "Motorista",
+        "Servente"
+      ],
+      "escolaridade": "Fundamental / Médio / Superior",
+      "fonte": "pci",
+      "id_unico": "ada54cf8a2963305",
+      "inscricao_ate": "2026-12-28",
+      "inscricao_texto": "28/12/2026",
+      "orgao": "Câmara de Pinhão",
+      "salario_ate": "R$ 7.785,77",
+      "uf": "PARANÁ",
+      "url": "https://www.pciconcursos.com.br/noticias/camara-de-pinhao-pr-abre-concurso-publico-com-salarios-de-ate-7785",
+      "vagas": "6 vagas",
+      "visto_em": "2026-11-27"
     },
     "ae9226a63bb5d6e2": {
       "cargos": [
@@ -14769,6 +14985,24 @@
       "url": "https://www.pciconcursos.com.br/noticias/ses-sc-abre-processo-seletivo-com-salarios-de-ate-5670",
       "vagas": "5 vagas",
       "visto_em": "2026-10-15"
+    },
+    "b0f67eac9c833371": {
+      "cargos": [
+        "Enfermeiro",
+        "Analista de Sistemas Júnior",
+        "Médico"
+      ],
+      "escolaridade": "Superior",
+      "fonte": "pci",
+      "id_unico": "b0f67eac9c833371",
+      "inscricao_ate": "2026-12-08",
+      "inscricao_texto": "29/11 a 08/12/2026",
+      "orgao": "FAMESP - Fundação para o Desenvolvimento Médico e Hospitalar",
+      "salario_ate": "R$ 12.154,19",
+      "uf": "SÃO PAULO",
+      "url": "https://www.pciconcursos.com.br/noticias/famesp-sp-abre-processos-seletivos-para-cargos-de-nivel-superior-com-ganhos-de-12-1-mil",
+      "vagas": "5 vagas",
+      "visto_em": "2026-11-27"
     },
     "b0fffb0a28d43e9b": {
       "cargos": [
@@ -16347,6 +16581,28 @@
       "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-ibitinga-sp-abre-concurso-publico-com-vagas-em-diversas-areas",
       "vagas": "5 vagas",
       "visto_em": "2026-10-15"
+    },
+    "c0e29cf4b24cd9fb": {
+      "cargos": [
+        "Condutor de Veículo de Urgência",
+        "Fonoaudiólogo",
+        "Médico Emergencista",
+        "Médico de Saúde da Família",
+        "Médico Neuropediatra",
+        "Médico Psiquiatra",
+        "Terapeuta Ocupacional"
+      ],
+      "escolaridade": "Médio / Técnico / Superior",
+      "fonte": "pci",
+      "id_unico": "c0e29cf4b24cd9fb",
+      "inscricao_ate": "2026-12-29",
+      "inscricao_texto": "29/12/2026",
+      "orgao": "FMS-SL - Fundação Municipal de Saúde de São Leopoldo",
+      "salario_ate": "R$ 19.574,72",
+      "uf": "RIO GRANDE DO SUL",
+      "url": "https://www.pciconcursos.com.br/noticias/fms-de-sao-leopoldo-rs-abre-selecao-com-23-vagas-e-salarios-de-ate-19574",
+      "vagas": "23 vagas",
+      "visto_em": "2026-11-27"
     },
     "c1c045bf744856b3": {
       "cargos": [
@@ -21032,6 +21288,22 @@
       "vagas": "29 vagas",
       "visto_em": "2026-11-09"
     },
+    "f497b5d44cd3b4c7": {
+      "cargos": [
+        "Psicopedagogo"
+      ],
+      "escolaridade": "Superior",
+      "fonte": "pci",
+      "id_unico": "f497b5d44cd3b4c7",
+      "inscricao_ate": "2026-12-18",
+      "inscricao_texto": "30/11 a 18/12/2026",
+      "orgao": "Prefeitura de Taiaçu",
+      "salario_ate": "R$ 5.130,63",
+      "uf": "SÃO PAULO",
+      "url": "https://www.pciconcursos.com.br/noticias/prefeitura-de-taiacu-sp-abre-concurso-publico-com-salarios-de-5130-na-area-da-educacao",
+      "vagas": "1 vaga",
+      "visto_em": "2026-11-27"
+    },
     "f4bdc021b498ec07": {
       "cargos": [
         "Motorista",
@@ -22263,6 +22535,6 @@
       "visto_em": "2026-11-16"
     }
   },
-  "total": 643,
+  "total": 653,
   "versao": 1
 }
